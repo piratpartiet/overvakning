@@ -10,6 +10,28 @@ body {
   text-shadow: 0 0 8px #9999ff, 0 0 8px #9999ff;
 }
 
+.bumperable {
+  display: table;
+  width: 100%;
+
+  .main {
+    display: table-cell;
+  }
+
+  .timeline-bump {
+    display: table-cell;
+    width: 30pt;
+  }
+  .even-bump {
+    display: table-cell;
+    width: 15pt;
+  }
+  .side-bump {
+    display: table-cell;
+    width: 50%;
+  }
+}
+
 .timelines {
   position: fixed;
   top: 0;
@@ -19,7 +41,7 @@ body {
   text-align: center;
   font-size: 0;
 
-  > div {
+  .timeline {
     text-align: center;
     position: relative;
     width: 30pt;
@@ -27,7 +49,7 @@ body {
     top: 0;
     height: 100%;
     font-size: 10pt;
-    div {
+    .line {
       position: relative;
       height: 100%;
       margin-left: 50%;
@@ -36,6 +58,10 @@ body {
       border-right-width: 3pt;
       box-shadow: 0 0 5px 5px #555580;
     }
+    &.red .line { border-color: red; }
+    &.green .line { border-color: green; }
+    &.blue .line { border-color: blue; }
+    &.white .line { border-color: white; }
   }
 }
 
@@ -49,107 +75,67 @@ body {
   padding-right: 10pt;
 
   .story.left {
-    .time {
+    .time .main {
       text-align: right;
       padding-right: 10pt;
     }
     .main {
-      .line {
-        text-align: left;
-        .line-inner {
-          padding-right: 10pt;
-        }
-      }
+      text-align: left;
+    }
+    .info-wrapper .main {
+      padding-right: 10pt;
     }
   }
-
   .story.right {
-    .time {
+    .time .main {
       text-align: left;
       padding-left: 10pt;
     }
     .main {
-      .line {
-        text-align: right;
-        .line-inner {
-          padding-left: 10pt;
-        }
-      }
+      text-align: right;
+    }
+    .info-wrapper .main {
+      padding-left: 10pt;
     }
   }
 
   .story {
-    width: 100%;
     margin-top: 10pt;
-    display: table;
-    .main {
-      display: table-cell;
-      .time {
-        .timeline-bump {
-          display: inline-block;
-        }
-      }
-      .line {
-        display: table;
-        width: 100%;
-        border-top-style: solid;
-        border-top-width: 3pt;
 
-        .line-inner {
-          display: table-cell;
-          .info {
-            display: inline-block;
-            text-shadow: none;
-            box-shadow: 0 0 5px 5px #555580;
+    .line {
+      border-top-style: solid;
+      border-top-width: 3pt;
+      box-shadow: 0 0 5px 5px #555580;
+    }
+    .info {
+      display: inline-block;
+      text-shadow: none;
+      box-shadow: 0 0 5px 5px #555580;
 
-            padding: 5pt;
-            background: @color-white;
-            color: @color-black;
-            text-align: left;
-            .more {
-              display: none;
-            }
-          }
-        }
+      padding: 5pt;
+      background: @color-white;
+      color: @color-black;
+      text-align: left;
+      .more {
+        display: none;
       }
     }
 
-    .timeline-bump {
-      display: table-cell;
-      width: 30pt;
+    &.red {
+      .line { border-color: red; }
+      .info { border-color: red; }
     }
-    .even-bump {
-      display: table-cell;
-      width: 15pt;
+    &.green {
+      .line { border-color: green; }
+      .info { border-color: green; }
     }
-    .side-bump {
-      display: table-cell;
-      width: 50%;
+    &.blue {
+      .line { border-color: blue; }
+      .info { border-color: blue; }
     }
-
-    &.red .main .line {
-      border-color: red;
-      .line-inner .info {
-        border-color: red;
-      }
-    }
-    &.green .main .line {
-      border-color: green;
-      .line-inner .info {
-        border-color: green;
-      }
-    }
-    &.blue .main .line {
-      border-color: blue;
-      .line-inner .info {
-        border-color: blue;
-      }
-    }
-    &.white .main .line {
-      border-color: white;
-      .line-inner .info {
-        border-color: white;
-      }
+    &.white {
+      .line { border-color: white; }
+      .info { border-color: white; }
     }
   }
 }
