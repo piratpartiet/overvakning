@@ -42,43 +42,37 @@ body {
 .stories {
   position: absolute;
   top: 20pt;
-  width: 50%;
+  width: 100%;
 
-  &.left {
-    left: 0;
-    padding-left: 10pt;
-    padding-right: 15pt;
-    .story {
-      .time {
-        text-align: right;
-        padding-right: 10pt;
-      }
-      .main {
-        .line {
-          text-align: left;
-          .line-inner {
-            padding-right: 10pt;
-          }
+  left: 0;
+  padding-left: 10pt;
+  padding-right: 10pt;
+
+  .story.left {
+    .time {
+      text-align: right;
+      padding-right: 10pt;
+    }
+    .main {
+      .line {
+        text-align: left;
+        .line-inner {
+          padding-right: 10pt;
         }
       }
     }
   }
 
-  &.right {
-    right: 0;
-    padding-left: 15pt;
-    padding-right: 10pt;
-    .story {
-      .time {
-        text-align: left;
-        padding-left: 10pt;
-      }
-      .main {
-        .line {
-          text-align: right;
-          .line-inner {
-            padding-left: 10pt;
-          }
+  .story.right {
+    .time {
+      text-align: left;
+      padding-left: 10pt;
+    }
+    .main {
+      .line {
+        text-align: right;
+        .line-inner {
+          padding-left: 10pt;
         }
       }
     }
@@ -91,9 +85,8 @@ body {
     .main {
       display: table-cell;
       .time {
-        .bump {
+        .timeline-bump {
           display: inline-block;
-          width: 30pt;
         }
       }
       .line {
@@ -106,14 +99,6 @@ body {
           display: table-cell;
           .info {
             display: inline-block;
-/*
-            border-left-style: solid;
-            border-left-width: 3pt;
-            border-right-style: solid;
-            border-right-width: 3pt;
-            border-bottom-style: solid;
-            border-bottom-width: 3pt;
-*/
             text-shadow: none;
             box-shadow: 0 0 5px 5px #555580;
 
@@ -126,15 +111,20 @@ body {
             }
           }
         }
-        .bump {
-          display: table-cell;
-          width: 30pt;
-        }
       }
     }
-    .bump {
+
+    .timeline-bump {
       display: table-cell;
       width: 30pt;
+    }
+    .even-bump {
+      display: table-cell;
+      width: 15pt;
+    }
+    .side-bump {
+      display: table-cell;
+      width: 50%;
     }
 
     &.red .main .line {
