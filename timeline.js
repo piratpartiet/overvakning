@@ -20,6 +20,7 @@ $(document).ready(function () {
       elstory.find(".time .main").html(story.time);
       elstory.find(".info").prepend(story.title);
       elstory.find(".info .more").html(story.content);
+      if (story.minor) elstory.addClass("minor");
 
       if (timeline.idx < data.timelines.length / 2) {
         elstory.addClass("left");
@@ -58,6 +59,16 @@ $(document).ready(function () {
           if (timeout) clearTimeout(timeout);
           timeout = setTimeout(function () {
             timeout = undefined;
+            if (story.hasClass("minor")) {
+              if (story.hasClass("left")) {
+                story.find(".story-wrapper").animate({"padding-left": 0});
+              } else {
+                story.find(".story-wrapper").animate({"padding-right": 0});
+              }
+              story.addClass("minor-expanded");
+              story.removeClass("minor");
+            }
+            story.addClass("expanded");
             story.find(".more").slideDown();
           }, 500);
         });
@@ -65,7 +76,17 @@ $(document).ready(function () {
           if (timeout) clearTimeout(timeout);
           timeout = setTimeout(function () {
             timeout = undefined;
+            story.removeClass("expanded");
             story.find(".more").slideUp();
+            if (story.hasClass("minor-expanded")) {
+              if (story.hasClass("left")) {
+                story.find(".story-wrapper").animate({"padding-left": "30%"});
+              } else {
+                story.find(".story-wrapper").animate({"padding-right": "30%"});
+              }
+              story.addClass("minor");
+              story.removeClass("minor-expanded");
+            }
           }, 500);
         });
       })(elstory);

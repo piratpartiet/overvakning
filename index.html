@@ -6,14 +6,16 @@
     <script type="text/javascript" src="less-1.6.2.min.js"></script>
     <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="bootstrap.min.js"></script>
+    <script type="text/javascript" src="OpenLayers.js"></script>
 
     <script type="text/javascript" src="timeline.js"></script>
+    <script type="text/javascript" src="map.js"></script>
   </head>
   <body>
 
     <div class="template">
       <div class="story bumperable">
-        <div class="main">
+        <div class="main story-wrapper">
           <div class="bumperable time"><div class="main"></div></div>
           <div class="line"></div>
           <div class="bumperable info-wrapper">
@@ -32,23 +34,28 @@
 
     <ul class="nav nav-tabs">
       <li class="active"><a href="#timeline" data-toggle="tab">Timeline</a></li>
-      <li><a href="#map" data-toggle="tab">Map</a></li>
-      <li><a href="#tech" data-toggle="tab">technology</a></li>
+      <li id="map-tab"><a href="#map" data-toggle="tab">Map</a></li>
+      <li><a href="#tech" data-toggle="tab">Technology</a></li>
+      <li id="become-pirate-tab"><a href="http://blipirat.nu" class="btn btn-primary">Bli pirat!</a></li>
+      <li id="about-tab"><a href="#about" data-toggle="tab">About</a></li>
     </ul>
 
     <!-- Tab panes -->
     <div class="tab-content">
       <div class="tab-pane active" id="timeline">
-        <div class="timelines"></div>
         <div class="stories">
+          <div class="timelines"></div>
           <div class="inner-stories"></div>
         </div>
       </div>
       <div class="tab-pane" id="map">
-        Some map goes here
+        <div id="map" class="smallmap"></div>
       </div>
       <div class="tab-pane" id="tech">
         Tech articles goes here
+      </div>
+      <div class="tab-pane" id="about">
+        About this project...
       </div>
     </div>
 

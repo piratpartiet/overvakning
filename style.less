@@ -1,14 +1,23 @@
 @color-black: black;
 @color-white: white;
-@color-red: red;
-@color-green: green;
-@color-blue: blue;
+@color-red: #995555;
+@color-green: #559955;
+@color-blue: #428bca;
+@color-shadow: #555580;
+
+@shadowwidth: 2pt;
+
+@linewidth: 1pt;
 
 body {
   background: @color-black;
   color: @color-white;
   text-shadow: 0 0 8px #9999ff, 0 0 8px #9999ff;
   padding: 10pt;
+}
+
+.box-shadow {
+  box-shadow: 0 0 @shadowwidth @shadowwidth @color-shadow;
 }
 
 .template {
@@ -38,8 +47,8 @@ body {
 }
 
 .timelines {
-  position: fixed;
-  top: 50pt;
+  position: absolute;
+  top: 0;
   bottom: 0;
   left: 0;
   right: 0;
@@ -60,13 +69,13 @@ body {
       margin-left: 50%;
       width: 0;
       border-right-style: solid;
-      border-right-width: 3pt;
-      box-shadow: 0 0 5px 5px #555580;
+      border-right-width: @linewidth;
+      .box-shadow;
     }
-    &.red .line { border-color: red; }
-    &.green .line { border-color: green; }
-    &.blue .line { border-color: blue; }
-    &.white .line { border-color: white; }
+    &.red .line { border-color: @color-red; }
+    &.green .line { border-color: @color-green; }
+    &.blue .line { border-color: @color-blue; }
+    &.white .line { border-color: @color-white; }
   }
 }
 
@@ -78,6 +87,12 @@ body {
   left: 0;
   padding-left: 10pt;
   padding-right: 10pt;
+  padding-top: 10pt;
+
+  .inner-stories {
+    position: relative;
+    padding-top: 10pt;
+  }
 
   .story.left {
     .time .main {
@@ -103,19 +118,35 @@ body {
       padding-left: 10pt;
     }
   }
+  .story.minor {
+    margin-bottom: -5pt;
+    .time {
+      font-size: 7pt;
+    }
+    .info {
+      padding: 2pt;
+      font-size: 7pt;
+    }
+  }
+  .story.left.minor .story-wrapper {
+    padding-left: 30%;
+  }
+  .story.right.minor .story-wrapper {
+    padding-right: 30%;
+  }
 
   .story {
-    margin-top: 10pt;
+    margin-bottom: 10pt;
 
     .line {
       border-top-style: solid;
-      border-top-width: 3pt;
-      box-shadow: 0 0 5px 5px #555580;
+      border-top-width: @linewidth;
+      .box-shadow;
     }
     .info {
       display: inline-block;
       text-shadow: none;
-      box-shadow: 0 0 5px 5px #555580;
+      .box-shadow;
 
       padding: 5pt;
       background: @color-white;
@@ -127,20 +158,32 @@ body {
     }
 
     &.red {
-      .line { border-color: red; }
-      .info { border-color: red; }
+      .line { border-color: @color-red; }
+      .info { border-color: @color-red; }
     }
     &.green {
-      .line { border-color: green; }
-      .info { border-color: green; }
+      .line { border-color: @color-green; }
+      .info { border-color: @color-green; }
     }
     &.blue {
-      .line { border-color: blue; }
-      .info { border-color: blue; }
+      .line { border-color: @color-blue; }
+      .info { border-color: @color-blue; }
     }
     &.white {
-      .line { border-color: white; }
-      .info { border-color: white; }
+      .line { border-color: @color-white; }
+      .info { border-color: @color-white; }
     }
   }
+}
+
+#map {
+  position: absolute;
+  top: 50pt;
+  bottom: 10pt;
+  left: 10pt;
+  right: 10pt;
+}
+
+#about-tab, #become-pirate-tab {
+  float: right;
 }
