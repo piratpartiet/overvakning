@@ -63,7 +63,7 @@ $(document).ready(function () {
       map.addLayer(layer);
 
       map.setCenter(
-          new OpenLayers.LonLat(-71.147, 42.472).transform(
+          new OpenLayers.LonLat(0, 0).transform(
               new OpenLayers.Projection("EPSG:4326"),
               map.getProjectionObject()
           ), 2
