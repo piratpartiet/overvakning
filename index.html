@@ -6,6 +6,7 @@
     <script type="text/javascript" src="less-1.6.2.min.js"></script>
     <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="jquery.csv-0.71.min.js"></script>
+    <script type="text/javascript" src="slugify.min.js"></script>
     <script type="text/javascript" src="bootstrap.min.js"></script>
     <script type="text/javascript" src="async.js"></script>
     <script type="text/javascript" src="OpenLayers-2.13.1/OpenLayers.js"></script>
@@ -36,7 +37,7 @@
 
     <ul class="nav nav-tabs">
       <li class="active"><a href="#timeline" data-toggle="tab">Timeline</a></li>
-      <li id="map-tab"><a href="#map" data-toggle="tab">Map</a></li>
+      <li id="map-tab"><a href="#map-pane" data-toggle="tab">Map</a></li>
       <li><a href="#tech" data-toggle="tab">Technology</a></li>
       <li id="become-pirate-tab"><a href="http://blipirat.nu" class="btn btn-primary">Bli pirat!</a></li>
       <li id="about-tab"><a href="#about" data-toggle="tab">About</a></li>
@@ -50,8 +51,10 @@
           <div class="inner-stories"></div>
         </div>
       </div>
-      <div class="tab-pane" id="map">
+      <div class="tab-pane" id="map-pane">
         <div id="map" class="smallmap"></div>
+        <div id="mapcontrols">
+        </div>
       </div>
       <div class="tab-pane" id="tech">
         Tech articles goes here

@@ -1,6 +1,7 @@
 var map, layer;
 
 var data = {};
+var state = {category: "Total"};
 
 function padDigits(number, digits) {
   return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;
@@ -17,9 +18,11 @@ $(document).ready(function () {
     function(cb){
       $.get("Privacy International - National Privacy Ranking 2007.csv", function (privacy_ranking) {
         data.privacy_ranking = {};
+        data.privacy_categories = {};
         $.csv.toObjects(privacy_ranking).map(function (country) {
           for (var key in country) {
             if (key != 'Country') {
+              data.privacy_categories[key] = true;
               country[key] = parseFloat(country[key]);
             }
           }
@@ -70,9 +73,10 @@ $(document).ready(function () {
         fillColor : "${getBlockColor}",
       },{context: {
         getBlockColor: function (feature) {
-          var score = feature.data.Total || 0;
-          var red = padDigits((255 / 5 * (5 - score)).toString(16), 2)
-          var green = padDigits((255 / 5 * score).toString(16), 2)
+          if (feature.data[state.category] == undefined) return "#999999";
+          var score = feature.data[state.category] || 0;
+          var red = padDigits(Math.round(255 / 5 * (5 - score)).toString(16), 2)
+          var green = padDigits(Math.round(255 / 5 * score).toString(16), 2)
           var blue = "00";
           return "#" + red + green + blue;
         }
@@ -83,6 +87,19 @@ $(document).ready(function () {
       vector_layer.addFeatures(geojson_format.read(data.worldmap));
       map.addLayer(vector_layer);
       cb();
+
+
+      for (var category in data.privacy_categories) {
+        var slug = $.slugify(category);
+        var choice = $("<div><input type='radio' name='category' id='category-" + slug + "' value='" + category + "'><label for='category-" + slug + "'>" + category + "</label></div>");
+        choice.find("input").change(function () {
+          if (!$(this).is(':checked')) return;
+          state.category = $(this).val();
+          vector_layer.redraw();
+        });
+        $("#mapcontrols").append(choice);
+      }
+
     }
   ],
   function(err, results){
