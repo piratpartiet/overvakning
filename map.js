@@ -1,10 +1,15 @@
 var map, layer;
 
 var data = {};
-var state = {category: "Total"};
+var state = {category: "Privacy International 2007/Total"};
 
 function padDigits(number, digits) {
   return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;
+}
+
+function getByCategory(data, category) {
+  category.split("/").map(function (name) { if (data[name] == undefined) data[name] = {}; data = data[name]; });
+  return data;
 }
 
 $(document).ready(function () {
@@ -16,31 +21,32 @@ $(document).ready(function () {
     },
 
     function(cb){
-      $.get("Privacy International - National Privacy Ranking 2007.csv", function (privacy_ranking) {
-        data.privacy_ranking = {};
-        data.privacy_categories = {};
-        $.csv.toObjects(privacy_ranking).map(function (country) {
-          for (var key in country) {
-            if (key != 'Country') {
-              data.privacy_categories[key] = true;
-              country[key] = parseFloat(country[key]);
-            }
+      $.get("country-rankings.csv", function (regiondata) {
+        data.regiondata = {};
+        data.categories = {};
+        $.csv.toObjects(regiondata).map(function (info) {
+          var category = info.Category;
+          del info.category;
+          for (var region in info) {
+            value = parseFloat(info[region]);
+            if (value.toString() == "NaN") value = info[region];
+            getByCategory(data.categories, category);
+            getByCategory(data.regiondata[region], category).value = value;
           }
-          data.privacy_ranking[country.Country] = country;
         });
         cb();
       });
     },
 
+/*
     function(cb){
       for (var feature = 0; feature < data.worldmap.features.length; feature++) {
         var properties = data.worldmap.features[feature].properties;
-        if (data.privacy_ranking[properties.ISO_2_CODE]) {
-          $.extend(properties, data.privacy_ranking[properties.ISO_2_CODE]);
-        }
+        properties.regiondata = data.regiondata[properties.ISO_2_CODE]);
       }
       cb();
     },
+*/
 
     function (cb) {
       mapTabClicked = cb;
@@ -73,8 +79,8 @@ $(document).ready(function () {
         fillColor : "${getBlockColor}",
       },{context: {
         getBlockColor: function (feature) {
-          if (feature.data[state.category] == undefined) return "#999999";
-          var score = feature.data[state.category] || 0;
+          var score = getByCategory(data.regiondata[data.worldmap.features[feature.properties.ISO_2_CODE]), state.category).value
+          if (score == undefined) return "#999999";
           var red = padDigits(Math.round(255 / 5 * (5 - score)).toString(16), 2)
           var green = padDigits(Math.round(255 / 5 * score).toString(16), 2)
           var blue = "00";
@@ -88,6 +94,16 @@ $(document).ready(function () {
       map.addLayer(vector_layer);
       cb();
 
+      function addGroups(title) {
+        var slug = $.slugify(title);
+        var groups = $("<div class='panel-group' id='" + slug + "'>");
+
+
+        $("#mapcontrols").append(groups;
+        var group = $("<div class='panel panel-default'>");
+         groups.append(group);
+
+                               $("<div class='panel-heading'><h4 class='panel-title'><a data-toggle='collapse' data-parent='#accordion' href='#collapseOne'>
 
       for (var category in data.privacy_categories) {
         var slug = $.slugify(category);
