@@ -8,23 +8,28 @@
   "stories": [
     {
       "timeline": "Tech", "time": "1999", "title": "Mobile phone: GPS tracking",
-      "content": "Benefon produces first mobile phone with built-in GPS module."
+      "content": "Benefon produces first mobile phone with built-in GPS module.",
+      "source": "https://en.wikipedia.org/wiki/Benefon#Historical_products"
     },
     {
       "timeline": "Tech", "time": "1997", "title": "Facial recognition: Commercialization",
-      "content": "Facial recognition becomes commercially available with the ZN-Face product"
+      "content": "Facial recognition becomes commercially available with the ZN-Face product",
+      "source": "https://en.wikipedia.org/wiki/Facial_recognition_system#History"
     },
     {
       "timeline": "Tech", "time": "199?", "title": "CCTV: Motion-activated",
-      "content": "Motion-activated CCTV"
+      "content": "Motion-activated CCTV",
+      "source": "https://en.wikipedia.org/wiki/Cctv#History"
     },
     {
       "timeline": "Tech", "time": "197?", "title": "CCTV: More prevalent due to VCRs",
-      "content": ""
+      "content": "",
+      "source": "https://en.wikipedia.org/wiki/Cctv#History"
     },
     {
       "timeline": "Tech", "time": "1968", "title": "CCTV: In shopping street", "minor": true,
-      "content": ""
+      "content": "",
+      "source": "https://en.wikipedia.org/wiki/Cctv#History"
     },
     {
       "timeline": "Tech", "time": "1964", "title": "Facial recognition", "minor": true,
@@ -32,19 +37,23 @@
     },
     {
       "timeline": "Tech", "time": "1959", "title": "Spy satellite: 0.3m resolution",
-      "content": "Spy satellites with 0.3m resolution (CORONA)"
+      "content": "Spy satellites with 0.3m resolution (CORONA)",
+      "source": "https://en.wikipedia.org/wiki/CORONA"
     },
     {
       "timeline": "Tech", "time": "1955-03-16", "title": "Spy satellite", "minor": true,
-      "content": "USAF orders first spy satellite"
+      "content": "USAF orders first spy satellite",
+      "source": "https://en.wikipedia.org/wiki/Spy_satellites#History"
     },
     {
       "timeline": "Tech", "time": "1942", "title": "CCTV",
-      "content": "First CCTV network set up in Germany"
+      "content": "First CCTV network set up in Germany",
+      "cource": "https://en.wikipedia.org/wiki/Cctv#History"
     },
     {
       "timeline": "Tech", "time": "1934", "title": "Sociogram",
-      "content": "Social network analysis, Jacob L. Moreno"
+      "content": "Social network analysis, Jacob L. Moreno",
+      "source": "https://en.wikipedia.org/wiki/Sociogram"
     },
     {
       "timeline": "World", "time": "193?", "title": "Punch cards",
@@ -53,7 +62,8 @@
     },
     {
       "timeline": "Tech", "time": "1891", "title": "Fingerprinting",
-      "content": "Fingerprinting is invented by Juan Vucetich in Argentina"
+      "content": "Fingerprinting is invented by Juan Vucetich in Argentina",
+      "source": "https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"
     },
     {
       "timeline": "Tech", "time": "1888", "title": "Hollerth tabulator",
