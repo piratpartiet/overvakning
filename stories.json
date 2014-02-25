@@ -7,67 +7,67 @@
   ],
   "stories": [
     {
-      "timeline": "Tech", "time": "1999", "title": "Mobile phone: GPS tracking",
-      "content": "Benefon produces first mobile phone with built-in GPS module.",
+      "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning",
+      "content": "Benefon producerar den första mobilen med inbygd GPS-mottagare.",
       "source": "https://en.wikipedia.org/wiki/Benefon#Historical_products"
     },
     {
-      "timeline": "Tech", "time": "1997", "title": "Facial recognition: Commercialization",
-      "content": "Facial recognition becomes commercially available with the ZN-Face product",
+      "timeline": "Tech", "time": "1997", "title": "Ansiktsigenkänning: Kommersialisering",
+      "content": "Ansiktsigenkänning blir kommersiellt tillgängligt i och med lanseringen av ZN-Face",
       "source": "https://en.wikipedia.org/wiki/Facial_recognition_system#History"
     },
     {
-      "timeline": "Tech", "time": "199?", "title": "CCTV: Motion-activated",
-      "content": "Motion-activated CCTV",
+      "timeline": "Tech", "time": "199?", "title": "Kameraövervakning: Rörelseaktivering",
+      "content": "Rörelseaktiverad kameraövervakning minskar kostnaderna för övervakningen avsevärt",
       "source": "https://en.wikipedia.org/wiki/Cctv#History"
     },
     {
-      "timeline": "Tech", "time": "197?", "title": "CCTV: More prevalent due to VCRs",
+      "timeline": "Tech", "time": "197?", "title": "Kameraövervakning: Videobandspelare",
+      "content": "Kameraövervakning blir betydligt vanligare i och med videobandspelarnas intåg",
+      "source": "https://en.wikipedia.org/wiki/Cctv#History"
+    },
+    {
+      "timeline": "Tech", "time": "1968", "title": "Kameraövervakning: Av en vanlig shopping-gata", "minor": true,
       "content": "",
       "source": "https://en.wikipedia.org/wiki/Cctv#History"
     },
     {
-      "timeline": "Tech", "time": "1968", "title": "CCTV: In shopping street", "minor": true,
-      "content": "",
-      "source": "https://en.wikipedia.org/wiki/Cctv#History"
+      "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true,
+      "content": "Forskning inom ansiktsigenkänning påbörjas av Woody Bledsoe, Stanford"
     },
     {
-      "timeline": "Tech", "time": "1964", "title": "Facial recognition", "minor": true,
-      "content": "Facial recognition research is begun by Woody Bledsoe, Stanford"
-    },
-    {
-      "timeline": "Tech", "time": "1959", "title": "Spy satellite: 0.3m resolution",
-      "content": "Spy satellites with 0.3m resolution (CORONA)",
+      "timeline": "Tech", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning",
+      "content": "Spionsatelliter med en upplösning av 0.3m skjuts upp (CORONA)",
       "source": "https://en.wikipedia.org/wiki/CORONA"
     },
     {
-      "timeline": "Tech", "time": "1955-03-16", "title": "Spy satellite", "minor": true,
-      "content": "USAF orders first spy satellite",
+      "timeline": "Tech", "time": "1955-03-16", "title": "Spionsatteliter", "minor": true,
+      "content": "Amerikanska luftförsvaret USAF beställer den första spionsatelliten",
       "source": "https://en.wikipedia.org/wiki/Spy_satellites#History"
     },
     {
-      "timeline": "Tech", "time": "1942", "title": "CCTV",
-      "content": "First CCTV network set up in Germany",
+      "timeline": "Tech", "time": "1942", "title": "Kameraövervakning",
+      "content": "Det första kameraövervakningssystemet installeras i Tyskland för att övervaka starten av V-II-raketer",
       "cource": "https://en.wikipedia.org/wiki/Cctv#History"
     },
     {
       "timeline": "Tech", "time": "1934", "title": "Sociogram",
-      "content": "Social network analysis, Jacob L. Moreno",
+      "content": "Jacob L. Moreno forskar på analysering av sociala nätverk och skapar sociogramet",
       "source": "https://en.wikipedia.org/wiki/Sociogram"
     },
     {
-      "timeline": "World", "time": "193?", "title": "Punch cards",
-      "content": "Hollerith punch card machine used by US and Germany for internment camps",
+      "timeline": "World", "time": "193?", "title": "Hålkort",
+      "content": "USA och Tyrskalnd använder Hollerith:s hålkortsmaskiner för att registrera fångar i internerings- och utrotningsläger",
       "source": "https://en.wikipedia.org/wiki/IBM_during_World_War_II"
     },
     {
-      "timeline": "Tech", "time": "1891", "title": "Fingerprinting",
-      "content": "Fingerprinting is invented by Juan Vucetich in Argentina",
+      "timeline": "Tech", "time": "1891", "title": "Fingeravtryck",
+      "content": "Fingeravtryck uppfinns och används av polismästaren Juan Vucetich i Argentina",
       "source": "https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"
     },
     {
-      "timeline": "Tech", "time": "1888", "title": "Hollerth tabulator",
-      "content": "Herman Hollerith invents a punch card based tabulator for the US census",
+      "timeline": "Tech", "time": "1888", "title": "Hollerith tabulator",
+      "content": "Herman Hollerith uppfinner en hålkortsbaserad räknemaskin för den amerikanska folkräkningen",
       "source": "https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html"
     },
     { "timeline": "SE", "time": "1914", "title": "Svensk säkerhetstjänst bildas",
