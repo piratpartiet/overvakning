@@ -97,7 +97,7 @@
       "content":  "Under WW1 föddes krypteringen. Arthur Scherius var den som uppfann första krypteringsmaskinen. 1920 kom hans maskin i en bättre version än den första som militären började köpa in då inställningarna hade mångdubblats. Man började då att uppfinna liknande maskiner i bland annat Polen för att ta reda på vad militären höll på med.",
      "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
     },
-    { "timeline": "SE", "time": "1920", "title": "Så många blev förföljda under Andra Världskriget",
+    { "timeline": "SE", "time": "1939-1944", "title": "Så många blev förföljda under Andra Världskriget",
       "content":  "Hemlig polisiär säkerhetstjänst bildads pga hotet av ett nytt världskrig. Registrering av hela befolkningen och tillhörighet samt deras potentiella sammarbeten tillämpades. 200 000 brev i veckan blev granskade under denna tiden. 11 miljoner samtal blev avlyssnade under hela WW2 tiden. ",
      "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
     },
@@ -108,7 +108,34 @@
     { "timeline": "World", "time": "1914-1939", "title": "Övervakningen under WW1 och mellankrigstiden var bara en uppvärmning inför WW2",
       "content":  "Övervakningen under WW1 och mellankrigstiden var bara en uppvärmning inför WW2.",
      "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
-    },"minor": true
+    "minor": true},
+    
+    { "timeline": "EU", "time": "1930", "title": "Judarnas kommer in i bilden",
+      "content": "En ökad ström med judainvandring i Europa. I Tyskland så började man att kontrollera vilka som var judar genom att säga att alla judiska pass var ogiltiga, för att de sedan fick ansöka om ett nytt pass för att sen sätta ett rött J på deras pass. Det gjorde att i början och under WW2 var det omöjligt för judar att röra sig över vissa gränser.
+",
+     "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
+    },"
+   
+    { "timeline": "EU", "time": "1933", "title": "Tysklands regering tar allt fastare kontroll",
+      "content": "Under 1933 tog regeringen allt fastare kontroll över den tyska radion och pressen. Hårda restriktioner infördes för vad som fick sändas och skrivas. Också musik-, teater- och filmproduktion kontrollerades av regimen.
+",
+     "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
+    },
+
+{ "timeline": "EU", "time": "1933", "title": "Tyska regeringens kontrollbehov ökar",
+      "content":"Den tyska regeringen försökte även påverka vad som skrevs i andra länder. När en utländsk tidning skrev något negativt om Nazityskland, skickades en officiell protest till det aktuella landets regering. Protesten var oftast, mer eller mindre, hotfullt formulerad. Många utländska tidningar förbjöds i Tyskland och det blev också förbjudet att lyssna på utländsk radio.
+",
+     "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
+    },
+    
+    { "timeline": "EU", "time": "1934", "title": "Bokbål genofördes av oariska böcker",
+      "content": "Att bränna ”otyska” böcker var en av de åtgärder som naziregimen använde för att bestämma över människors tankar och åsikter, och begränsa yttrandefriheten. Propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. Ett stort nätverk av propagandakontor upprättades i hela landet.
+",
+     "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
+    "minor": true},
+    
+    
+    
     
 
     {}
