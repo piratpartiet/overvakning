@@ -144,10 +144,12 @@
 ",
      "source": "http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger, http://8chso.blogspot.se/2014/01/forintelsen.html"
     },
-    { "timeline": "EU", "time": "1937", "title": "Judar anhölls och fick välja mellan emigration eller koncentrationsläger",
-      "content":"Den 13 september 1937 utfärdade SS högsta ledare Heinrich Himmler en order som innebar att fängslade judar skulle friges om de lovade att emigrera från Tyskland. Det var en strategi i ett led av ansträngningar att göra Tyskland judefritt. Den möjlighet kom senare att ”erbjudas” många av de tiotusentals judar som arresterades under Kristallnatten i november 1938."
-",
-     "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
+   {
+    "timeline": "EU",
+    "time": "1937",
+    "title": "Judar anhölls och fick välja mellan emigration eller koncentrationsläger",
+    "content": "Den 13 september 1937 utfärdade SS högsta ledare Heinrich Himmler en order som innebar att fängslade judar skulle friges om de lovade att emigrera från Tyskland. Det var en strategi i ett led av ansträngningar att göra Tyskland judefritt. Den möjlighet kom senare att ”erbjudas” många av de tiotusentals judar som arresterades under Kristallnatten i november 1938.",
+    "source": "http: //books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
     },
     { "timeline": "EU", "time": "1937", "title": "Himmlers order om att sätta alla emigrerade tyskar i koncentrationsläger",
       "content":"Den 21 oktober 1937 utfärdade Himmler ytterligare en order. Den innebar att alla tyskar som hade emigrerat från Tyskland efter den 30 januari 1933 skulle arresteras och sändas till koncentrationsläger om de återvände. Orden syftade till att hindra både judar och politiska motståndare från att återvända till Tyskland."
