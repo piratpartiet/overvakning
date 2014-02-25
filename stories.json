@@ -47,7 +47,7 @@
       "content": "Social network analysis, Jacob L. Moreno"
     },
     {
-      "timeline": "Tech", "time": "193?", "title": "Punch cards",
+      "timeline": "World", "time": "193?", "title": "Punch cards",
       "content": "Hollerith punch card machine used by US and Germany for internment camps",
       "source": "https://en.wikipedia.org/wiki/IBM_during_World_War_II"
     },
@@ -55,6 +55,12 @@
       "timeline": "Tech", "time": "1891", "title": "Fingerprinting",
       "content": "Fingerprinting is invented by Juan Vucetich in Argentina"
     },
+    {
+      "timeline": "Tech", "time": "1888", "title": "Hollerth tabulator",
+      "content": "Herman Hollerith invents a punch card based tabulator for the US census",
+      "source": "https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html"
+    },
+
 
 
     {
