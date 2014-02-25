@@ -7,6 +7,11 @@
   ],
   "stories": [
     {
+      "timeline": "World", "time": "2007", "title": "PRISM",
+      "content": "Ett världsomspännande datalagringssystem skapas av USA",
+      "source": "https://en.wikipedia.org/wiki/PRISM"
+    },
+    {
       "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning",
       "content": "Benefon producerar den första mobilen med inbygd GPS-mottagare.",
       "source": "https://en.wikipedia.org/wiki/Benefon#Historical_products"
@@ -34,6 +39,11 @@
     {
       "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true,
       "content": "Forskning inom ansiktsigenkänning påbörjas av Woody Bledsoe, Stanford"
+    },
+    {
+      "timeline": "World", "time": "1964", "title": "UKUSA: Echelon",
+      "content": "Ett världsomspännande signalspaningssammarbete och -nät, kallat ECHELON grundas av Australien, Kanada, Nya Zealand, Storbritanien, och USA (Five Eyes).",
+      "source": "https://en.wikipedia.org/wiki/ECHELON"
     },
     {
       "timeline": "Tech", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning",
