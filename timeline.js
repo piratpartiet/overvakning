@@ -19,7 +19,12 @@ $(document).ready(function () {
       elstory.addClass(timeline.color);
       elstory.find(".time .main").html(story.time);
       elstory.find(".info").prepend(story.title);
-      elstory.find(".info .more").html(story.content);
+      elstory.find(".info .more").prepend(story.content);
+      if (story.source) {
+        elstory.find(".info .more .source").attr({href: story.source});
+      } else {
+        elstory.find(".info .more .source").remove();
+      }
       if (story.minor) elstory.addClass("minor");
 
       if (timeline.idx < data.timelines.length / 2) {
