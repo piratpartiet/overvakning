@@ -26,7 +26,7 @@ $(document).ready(function () {
         data.categories = {};
         $.csv.toObjects(regiondata).map(function (info) {
           var category = info.Category;
-          del info.category;
+          delete info.category;
           for (var region in info) {
             value = parseFloat(info[region]);
             if (value.toString() == "NaN") value = info[region];
@@ -79,7 +79,7 @@ $(document).ready(function () {
         fillColor : "${getBlockColor}",
       },{context: {
         getBlockColor: function (feature) {
-          var score = getByCategory(data.regiondata[data.worldmap.features[feature.properties.ISO_2_CODE]), state.category).value
+          var score = getByCategory(data.regiondata[data.worldmap.features[feature.properties.ISO_2_CODE]], state.category).value;
           if (score == undefined) return "#999999";
           var red = padDigits(Math.round(255 / 5 * (5 - score)).toString(16), 2)
           var green = padDigits(Math.round(255 / 5 * score).toString(16), 2)
