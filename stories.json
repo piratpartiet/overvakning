@@ -8,28 +8,23 @@
   "stories": [
     {
       "timeline": "Tech", "time": "1999", "title": "Mobile phone: GPS tracking",
-      "content": "Benefon produces first mobile phone with built-in GPS module.",
-      "source": "https://en.wikipedia.org/wiki/Benefon#Historical_products"
+      "content": "Benefon produces first mobile phone with built-in GPS module."
     },
     {
       "timeline": "Tech", "time": "1997", "title": "Facial recognition: Commercialization",
-      "content": "Facial recognition becomes commercially available with the ZN-Face product",
-      "source": "https://en.wikipedia.org/wiki/Facial_recognition_system#History"
+      "content": "Facial recognition becomes commercially available with the ZN-Face product"
     },
     {
       "timeline": "Tech", "time": "199?", "title": "CCTV: Motion-activated",
-      "content": "Motion-activated CCTV",
-      "source": "https://en.wikipedia.org/wiki/Cctv#History"
+      "content": "Motion-activated CCTV"
     },
     {
       "timeline": "Tech", "time": "197?", "title": "CCTV: More prevalent due to VCRs",
-      "content": "",
-      "source": "https://en.wikipedia.org/wiki/Cctv#History"
+      "content": ""
     },
     {
       "timeline": "Tech", "time": "1968", "title": "CCTV: In shopping street", "minor": true,
-      "content": "",
-      "source": "https://en.wikipedia.org/wiki/Cctv#History"
+      "content": ""
     },
     {
       "timeline": "Tech", "time": "1964", "title": "Facial recognition", "minor": true,
@@ -37,23 +32,19 @@
     },
     {
       "timeline": "Tech", "time": "1959", "title": "Spy satellite: 0.3m resolution",
-      "content": "Spy satellites with 0.3m resolution (CORONA)",
-      "source": "https://en.wikipedia.org/wiki/CORONA"
+      "content": "Spy satellites with 0.3m resolution (CORONA)"
     },
     {
       "timeline": "Tech", "time": "1955-03-16", "title": "Spy satellite", "minor": true,
-      "content": "USAF orders first spy satellite",
-      "source": "https://en.wikipedia.org/wiki/Spy_satellites#History"
+      "content": "USAF orders first spy satellite"
     },
     {
       "timeline": "Tech", "time": "1942", "title": "CCTV",
-      "content": "First CCTV network set up in Germany",
-      "cource": "https://en.wikipedia.org/wiki/Cctv#History"
+      "content": "First CCTV network set up in Germany"
     },
     {
       "timeline": "Tech", "time": "1934", "title": "Sociogram",
-      "content": "Social network analysis, Jacob L. Moreno",
-      "source": "https://en.wikipedia.org/wiki/Sociogram"
+      "content": "Social network analysis, Jacob L. Moreno"
     },
     {
       "timeline": "World", "time": "193?", "title": "Punch cards",
@@ -62,8 +53,7 @@
     },
     {
       "timeline": "Tech", "time": "1891", "title": "Fingerprinting",
-      "content": "Fingerprinting is invented by Juan Vucetich in Argentina",
-      "source": "https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"
+      "content": "Fingerprinting is invented by Juan Vucetich in Argentina"
     },
     {
       "timeline": "Tech", "time": "1888", "title": "Hollerth tabulator",
@@ -90,8 +80,17 @@
       "content": "Polisen tog kontroll över utlänningar samt att krav från regering kom att skärpa övervakningen av kommunister och nazister.",
      "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
     },
-    { "timeline": "SE", "time": "1918", "title": "Kommunisterna förlorade sina statliga jobb och politiker börjar bli förföljda",
+    { "timeline": "SE", "time": "1921", "title": "Kommunisterna förlorade sina statliga jobb och politiker börjar bli förföljda",
       "content": "Man började att övervaka alla svenska politiker, utom stadsministern himself. Kommunister förbjöds även att ha statlig tjänst. De fick ej heller använda vapen när de gjorde lumpen. De som gjorde sig kända som kommunister fick inte heller jobba kvar inom det millitära då man var rädd att de skulle starta revolution. UB fick 20 000 kr varje år för att spionera samt marinens underrättelsetjänst fick mellan 5-10 000 kr för att hjälpa till och spionera på kommunister och nazister. Dessa fick även spons med privata medel. Summor: okänt.",
+     "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
+    },
+    
+    { "timeline": "SE", "time": "1929", "title": "Hårdare kontroll av lumpendeltagare!",
+      "content": "Man började att registrera alla som skulle mönstra och göra lumpen. Under denna tid passade man på att ta deras fakta kring politiska åsikter, familjetillhörigheter etc. Militären fick tillstånd av regeringen att göra detta. Detta blev dock inte offentligt lagligt förrän 1969.",
+     "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
+    },
+    { "timeline": "SE", "time": "1932", "title": "Polisens kontroll över nazister och kommunister",
+      "content": "Polisen hade kontroll över nazister och kommunister. I deras register fanns då omkring 100 000 personer..",
      "source": "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"
     },
     
