@@ -31,6 +31,7 @@ $(document).ready(function () {
             value = parseFloat(info[region]);
             if (value.toString() == "NaN") value = info[region];
             getByCategory(data.categories, category);
+            if (data.regiondata[region] == undefined) data.regiondata[region] = {};
             getByCategory(data.regiondata[region], category).value = value;
           }
         });
@@ -79,8 +80,13 @@ $(document).ready(function () {
         fillColor : "${getBlockColor}",
       },{context: {
         getBlockColor: function (feature) {
-          var score = getByCategory(data.regiondata[data.worldmap.features[feature.properties.ISO_2_CODE]], state.category).value;
-          if (score == undefined) return "#999999";
+          var score;
+          try {
+            score = getByCategory(data.regiondata[feature.data.ISO_2_CODE], state.category).value;
+            if (typeof(score) != "number") throw "not a number";
+          } catch(e) {
+            return "#999999";
+          }
           var red = padDigits(Math.round(255 / 5 * (5 - score)).toString(16), 2)
           var green = padDigits(Math.round(255 / 5 * score).toString(16), 2)
           var blue = "00";
@@ -94,27 +100,50 @@ $(document).ready(function () {
       map.addLayer(vector_layer);
       cb();
 
-      function addGroups(title) {
-        var slug = $.slugify(title);
-        var groups = $("<div class='panel-group' id='" + slug + "'>");
 
-
-        $("#mapcontrols").append(groups;
-        var group = $("<div class='panel panel-default'>");
-         groups.append(group);
-
-                               $("<div class='panel-heading'><h4 class='panel-title'><a data-toggle='collapse' data-parent='#accordion' href='#collapseOne'>
-
-      for (var category in data.privacy_categories) {
-        var slug = $.slugify(category);
-        var choice = $("<div><input type='radio' name='category' id='category-" + slug + "' value='" + category + "'><label for='category-" + slug + "'>" + category + "</label></div>");
-        choice.find("input").change(function () {
-          if (!$(this).is(':checked')) return;
-          state.category = $(this).val();
-          vector_layer.redraw();
-        });
-        $("#mapcontrols").append(choice);
+        function addGroup(groups, slug, title, extra) {
+        var group = $(".template .panel").clone();
+        groups.append(group);
+        group.find(".panel-title a").html(title);
+        group.find(".panel-title a").attr({href: "#" + slug});
+        if (extra) group.find(".panel-title").append(extra);
+        group.find(".panel-collapse").attr({id: slug});
+        return group.find(".panel-collapse .panel-body");
       }
+
+      function addCategories(categories, parent, path) {
+        path = path || [];
+        parent = parent || $("#mapcontrols");
+
+        var groupslug = $.slugify(path.join("-"));
+        var groups = $("<div class='panel-group' id='" + groupslug + "'>");
+        parent.append(groups);
+
+        for (var category in categories) {
+          if (category == "Source") continue;
+          var categorypath = path.concat([category]);
+          var categoryslug = $.slugify(categorypath);
+          if (Object.keys(categories[category]).length > 0) {
+            var link;
+            var src = getByCategory(data.regiondata.All, categorypath.concat(["Source"]).join("/")).value;
+            if (src) {
+              link = $("<a class='pull-right'><i class='fa fa-external-link'></i></a>");
+              link.attr({href: src});
+            }
+            addCategories(categories[category], addGroup(groups, categoryslug, category, link), categorypath);
+          } else {
+            var choice = $("<div><input type='radio' name='category' id='" + categoryslug + "' value='" + categorypath.join("/") + "'><label for='" + categoryslug + "'>" + category + "</label></div>");
+            choice.find("input").change(function () {
+              if (!$(this).is(':checked')) return;
+              state.category = $(this).val();
+              vector_layer.redraw();
+            });
+            parent.append(choice);
+          }
+        }
+      }
+
+      addCategories(data.categories);
 
     }
   ],
