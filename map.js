@@ -1,10 +1,15 @@
 var map, layer;
 
 var data = {};
-var state = {category: "Total"};
+var state = {category: "Privacy International 2007/Total"};
 
 function padDigits(number, digits) {
   return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;
+}
+
+function getByCategory(data, category) {
+  category.split("/").map(function (name) { if (data[name] == undefined) data[name] = {}; data = data[name]; });
+  return data;
 }
 
 $(document).ready(function () {
@@ -16,31 +21,33 @@ $(document).ready(function () {
     },
 
     function(cb){
-      $.get("Privacy International - National Privacy Ranking 2007.csv", function (privacy_ranking) {
-        data.privacy_ranking = {};
-        data.privacy_categories = {};
-        $.csv.toObjects(privacy_ranking).map(function (country) {
-          for (var key in country) {
-            if (key != 'Country') {
-              data.privacy_categories[key] = true;
-              country[key] = parseFloat(country[key]);
-            }
+      $.get("country-rankings.csv", function (regiondata) {
+        data.regiondata = {};
+        data.categories = {};
+        $.csv.toObjects(regiondata).map(function (info) {
+          var category = info.Category;
+          delete info.category;
+          for (var region in info) {
+            value = parseFloat(info[region]);
+            if (value.toString() == "NaN") value = info[region];
+            getByCategory(data.categories, category);
+            if (data.regiondata[region] == undefined) data.regiondata[region] = {};
+            getByCategory(data.regiondata[region], category).value = value;
           }
-          data.privacy_ranking[country.Country] = country;
         });
         cb();
       });
     },
 
+/*
     function(cb){
       for (var feature = 0; feature < data.worldmap.features.length; feature++) {
         var properties = data.worldmap.features[feature].properties;
-        if (data.privacy_ranking[properties.ISO_2_CODE]) {
-          $.extend(properties, data.privacy_ranking[properties.ISO_2_CODE]);
-        }
+        properties.regiondata = data.regiondata[properties.ISO_2_CODE]);
       }
       cb();
     },
+*/
 
     function (cb) {
       mapTabClicked = cb;
@@ -73,8 +80,13 @@ $(document).ready(function () {
         fillColor : "${getBlockColor}",
       },{context: {
         getBlockColor: function (feature) {
-          if (feature.data[state.category] == undefined) return "#999999";
-          var score = feature.data[state.category] || 0;
+          var score;
+          try {
+            score = getByCategory(data.regiondata[feature.data.ISO_2_CODE], state.category).value;
+            if (typeof(score) != "number") throw "not a number";
+          } catch(e) {
+            return "#999999";
+          }
           var red = padDigits(Math.round(255 / 5 * (5 - score)).toString(16), 2)
           var green = padDigits(Math.round(255 / 5 * score).toString(16), 2)
           var blue = "00";
@@ -89,16 +101,49 @@ $(document).ready(function () {
       cb();
 
 
-      for (var category in data.privacy_categories) {
-        var slug = $.slugify(category);
-        var choice = $("<div><input type='radio' name='category' id='category-" + slug + "' value='" + category + "'><label for='category-" + slug + "'>" + category + "</label></div>");
-        choice.find("input").change(function () {
-          if (!$(this).is(':checked')) return;
-          state.category = $(this).val();
-          vector_layer.redraw();
-        });
-        $("#mapcontrols").append(choice);
+        function addGroup(groups, slug, title, extra) {
+        var group = $(".template .panel").clone();
+        groups.append(group);
+        group.find(".panel-title a").html(title);
+        group.find(".panel-title a").attr({href: "#" + slug});
+        if (extra) group.find(".panel-title").append(extra);
+        group.find(".panel-collapse").attr({id: slug});
+        return group.find(".panel-collapse .panel-body");
       }
+
+      function addCategories(categories, parent, path) {
+        path = path || [];
+        parent = parent || $("#mapcontrols");
+
+        var groupslug = $.slugify(path.join("-"));
+        var groups = $("<div class='panel-group' id='" + groupslug + "'>");
+        parent.append(groups);
+
+        for (var category in categories) {
+          if (category == "Source") continue;
+          var categorypath = path.concat([category]);
+          var categoryslug = $.slugify(categorypath);
+          if (Object.keys(categories[category]).length > 0) {
+            var link;
+            var src = getByCategory(data.regiondata.All, categorypath.concat(["Source"]).join("/")).value;
+            if (src) {
+              link = $("<a class='pull-right'><i class='fa fa-external-link'></i></a>");
+              link.attr({href: src});
+            }
+            addCategories(categories[category], addGroup(groups, categoryslug, category, link), categorypath);
+          } else {
+            var choice = $("<div><input type='radio' name='category' id='" + categoryslug + "' value='" + categorypath.join("/") + "'><label for='" + categoryslug + "'>" + category + "</label></div>");
+            choice.find("input").change(function () {
+              if (!$(this).is(':checked')) return;
+              state.category = $(this).val();
+              vector_layer.redraw();
+            });
+            parent.append(choice);
+          }
+        }
+      }
+
+      addCategories(data.categories);
 
     }
   ],
