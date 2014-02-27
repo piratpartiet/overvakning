@@ -54,27 +54,16 @@ $(document).ready(function () {
     },
 
     function (cb) {
-      map = new OpenLayers.Map('map');
+      map = new OpenLayers.Map({
+        div: "map",
+        allOverlays: true,
+        maxExtent: new OpenLayers.Bounds(
+          -180, -90, 180, 90
+        )
+      });
 
       map.addControl(new OpenLayers.Control.Navigation());
       map.addControl(new OpenLayers.Control.LayerSwitcher());
-
-      /*
-        layer = new OpenLayers.Layer.OSM( "Simple OSM Map");
-        map.addLayer(layer);
-      */
-
-      layer = new OpenLayers.Layer.WMS( "OpenLayers WMS", 
-              "http://vmap0.tiles.osgeo.org/wms/vmap0",
-              {layers: 'basic'} );
-      map.addLayer(layer);
-
-      map.setCenter(
-          new OpenLayers.LonLat(0, 0).transform(
-              new OpenLayers.Projection("EPSG:4326"),
-              map.getProjectionObject()
-          ), 2
-      );
 
       var style = new OpenLayers.Style({
         fillColor : "${getBlockColor}",
@@ -98,10 +87,15 @@ $(document).ready(function () {
       var vector_layer = new OpenLayers.Layer.Vector("Vector Layer", {styleMap: new OpenLayers.StyleMap({'default': style})});
       vector_layer.addFeatures(geojson_format.read(data.worldmap));
       map.addLayer(vector_layer);
-      cb();
 
+      map.setCenter(
+          new OpenLayers.LonLat(0, 0).transform(
+              new OpenLayers.Projection("EPSG:4326"),
+              map.getProjectionObject()
+          ), 2
+      );
 
-        function addGroup(groups, slug, title, extra) {
+      function addGroup(groups, slug, title, extra) {
         var group = $(".template .panel").clone();
         groups.append(group);
         group.find(".panel-title a").html(title);
@@ -144,6 +138,8 @@ $(document).ready(function () {
       }
 
       addCategories(data.categories);
+
+      cb();
 
     }
   ],
