@@ -12,9 +12,17 @@
       "source": "https://en.wikipedia.org/wiki/PRISM"
     },
     {
+      "timeline": "World", "time": "2003", "title": "Golden Shield: Operativ",
+      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' blir fullt operativ och censurerar och övervakar Internet inom landets gränser. C.a. 30000 till 50000 poliser jobbar idag i Golden Shield-projektet. Golden Shield kan idag blocka IP-adresser, blocka eller omdirrigera domännamn, filtrera webadresser, filtrera IP-paket, och stoppa anslutningar"
+    },
+    {
       "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning",
       "content": "Benefon producerar den första mobilen med inbygd GPS-mottagare.",
       "source": "https://en.wikipedia.org/wiki/Benefon#Historical_products"
+    },
+    {
+      "timeline": "World", "time": "1998", "title": "Golden Shield: Projektstart",
+      "content": "Kina startar sitt nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China'. Målet är i första hand en allomfattande censur och övervakning av Internet inom landets gränser, och i andra hand att integrera alla typer av övervakning (internet, kameror, ansiktsigenkänning, smartcards, kreditkort etc) i ett verktyg."
     },
     {
       "timeline": "Tech", "time": "1997", "title": "Ansiktsigenkänning: Kommersialisering",
