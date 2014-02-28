@@ -22,6 +22,11 @@
       "sources": ["https://en.wikipedia.org/wiki/INDECT"]
     },
     {
+      "timeline": "EU", "time": "2008–2012", "title": "Optic Nerve",
+      "content": "Storbritaniens övervakningstjänst, GCHQ, har samlat in webcam-bilder från 1.8 miljoner Yahoo-användares videochattar, många av dem med sexuellt innehåll.",
+      "sources": ["http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo"]
+    },
+    {
       "timeline": "World", "time": "2007", "title": "PRISM",
       "content": "Ett världsomspännande datalagringssystem skapas av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm.",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"]
@@ -96,10 +101,11 @@
       "sources": ["https://en.wikipedia.org/wiki/Mass_surveillance_in_East_Germany"]
     },
     {
+      "minor": true,
       "timeline": "EU",
       "time": "1946",
-      "title": "Kostnaden att övervaka i Sverige efter WW2",
-      "content": " Efter WW2 så kostade det 300 000 skr i engångskostnad om man ville spionera. Ett flyg att hyra kostade 100 000 skr. För att få en pilot i planet så kostade det 70 000 skr för rese och traktament kostnader. Sedan kostade det 24 000 i övrig kostnad (mat, boende etc.) Detta gav 400 spiontimmar.",
+      "title": "Övervakningskostnader",
+      "content": "Efter WW2 så kostade det 300 000 skr i engångskostnad om man ville spionera. Ett flyg att hyra kostade 100 000 skr. För att få en pilot i planet så kostade det 70 000 skr för rese och traktament kostnader. Sedan kostade det 24 000 i övrig kostnad (mat, boende etc.) Detta gav 400 spiontimmar.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false2"]
     },
     {
@@ -143,34 +149,29 @@
     {
       "timeline": "EU",
       "time": "1938",
-      "title": "Alla lägren",
+      "title": "Interneringsläger",
       "content": "I Europa fanns 30000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades eller kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
       "timeline": "EU",
       "time": "1937",
-      "title": "Judar anhölls och fick välja mellan emigration eller koncentrationsläger",
+      "title": "Judar anhölls",
       "content": "Den 13 september 1937 utfärdade SS högsta ledare Heinrich Himmler en order som innebar att fängslade judar skulle friges om de lovade att emigrera från Tyskland. Det var en strategi i ett led av ansträngningar att göra Tyskland judefritt. Den möjlighet kom senare att ”erbjudas” många av de tiotusentals judar som arresterades under Kristallnatten i november 1938.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1937", "title": "Himmlers order om att sätta alla emigrerade tyskar i koncentrationsläger",
+      "timeline": "EU", "time": "1937", "title": "Återvändande judar sattes i koncentrationsläger",
       "content":"Den 21 oktober 1937 utfärdade Himmler ytterligare en order. Den innebar att alla tyskar som hade emigrerat från Tyskland efter den 30 januari 1933 skulle arresteras och sändas till koncentrationsläger om de återvände. Orden syftade till att hindra både judar och politiska motståndare från att återvända till Tyskland.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1935", "title": "Den ariska klausulen som kan jämföras med Sveriges avskedanden av kommunister i stadstjänst",
-      "content":"Den första anti-judiska förordningen infördes i Nazityskland den 7 april år 1933. Enligt den så kallade ”ariska klausulen” kunde judar avskedas från statliga och offentliga tjänster utan anledning.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
-    },
-    {
-      "timeline": "EU", "time": "1935", "title": "Koncentrationsläger+Judar",
+      "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger",
       "content":"Under senare delen av 1930-talet genomförde nazisterna flera aktioner där många judar arresterades och sändes till koncentrationsläger. Syftet var att öka pressen på judiska personer att lämna Tyskland.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1935", "title": "Judar fick man inte uppmuntra",
+      "timeline": "EU", "time": "1935", "title": "Förbud mot att uppmuntra judar",
       "content":"1935 kom en lag i Tyskland om att man inte fick ha möten eller göra något uppmuntrande för att judarna skulle få stanna kvar i tyskland. Man uppmuntrade judarna att isolera sig eller emigrera för att inte störa det Tyska samhället.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
@@ -180,16 +181,21 @@
       "sources": ["https://en.wikipedia.org/wiki/Sociogram"]
     },
     {
-      "timeline": "EU", "time": "1934", "title": "Bokbål genofördes av oariska böcker",
+      "timeline": "EU", "time": "1934", "title": "Bokbål på oariska böcker",
       "content": "Att bränna ”otyska” böcker var en av de åtgärder som naziregimen använde för att bestämma över människors tankar och åsikter, och begränsa yttrandefriheten. Propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. Ett stort nätverk av propagandakontor upprättades i hela landet.",
      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"],
      "minor": true
     },
     {
+      "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades",
+      "content":"Den första anti-judiska förordningen infördes i Nazityskland den 7 april år 1933. Enligt den så kallade ”ariska klausulen” kunde judar avskedas från statliga och offentliga tjänster utan anledning.",
+      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+    },
+    {
       "timeline": "EU",
       "time": "1933",
       "title": "Flyktingproblem och folkmord",
-      "content": "Tyskland tog även över Östreriket och lagarna som blev desamma som i Tyskland. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ. Andra försökte att fly.  Under sommaren 1938 flydde uppskattningsvis 50 000 judar från Österrike, i maj 1939 hade ytterligare ca 50 000 lämnat landet och de skulle följas av omkring 25 000 under de två följande åren. Av de som blev kvar mördades omkring 65 000 personer.",
+      "content": "Tyskland tog över Östreriket och lagarna blev desamma som i Tyskland. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ. Andra försökte att fly.  Under sommaren 1938 flydde uppskattningsvis 50 000 judar från Österrike, i maj 1939 hade ytterligare ca 50 000 lämnat landet och de skulle följas av omkring 25 000 under de två följande åren. Av de som blev kvar mördades omkring 65 000 personer.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
@@ -237,17 +243,17 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1921", "title": "Kommunisterna förlorade sina statliga jobb och politiker börjar bli förföljda",
+      "timeline": "SE", "time": "1921", "title": "Kommunister avskedades",
       "content": "Man började att övervaka alla svenska politiker, utom stadsministern himself. Kommunister förbjöds även att ha statlig tjänst. De fick ej heller använda vapen när de gjorde lumpen. De som gjorde sig kända som kommunister fick inte heller jobba kvar inom det millitära då man var rädd att de skulle starta revolution. UB fick 20 000 kr varje år för att spionera samt marinens underrättelsetjänst fick mellan 5-10 000 kr för att hjälpa till och spionera på kommunister och nazister. Dessa fick även spons med privata medel. Summor: okänt.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "World", "time": "1920", "title": "Krypteringen föds",
+      "timeline": "Tech", "time": "1920", "title": "Kryptering",
       "content":  "Under WW1 föddes krypteringen. Arthur Scherius var den som uppfann första krypteringsmaskinen. 1920 kom hans maskin i en bättre version än den första som militären började köpa in då inställningarna hade mångdubblats. Man började då att uppfinna liknande maskiner i bland annat Polen för att ta reda på vad militären höll på med.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1918", "title": "Övervakning av utlänningar påbörjades",
+      "timeline": "SE", "time": "1918", "title": "Övervakning av utlänningar",
       "content": "Polisen tog kontroll över utlänningar samt att krav från regering kom att skärpa övervakningen av kommunister och nazister.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
