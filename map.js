@@ -39,16 +39,6 @@ $(document).ready(function () {
       });
     },
 
-/*
-    function(cb){
-      for (var feature = 0; feature < data.worldmap.features.length; feature++) {
-        var properties = data.worldmap.features[feature].properties;
-        properties.regiondata = data.regiondata[properties.ISO_2_CODE]);
-      }
-      cb();
-    },
-*/
-
     function (cb) {
       mapTabClicked = cb;
     },
@@ -63,8 +53,8 @@ $(document).ready(function () {
       });
 
       map.addControl(new OpenLayers.Control.Navigation());
-      map.addControl(new OpenLayers.Control.LayerSwitcher());
-
+      // map.addControl(new OpenLayers.Control.LayerSwitcher());
+    
       var style = new OpenLayers.Style({
         fillColor : "${getBlockColor}",
       },{context: {
@@ -84,9 +74,55 @@ $(document).ready(function () {
       }});
 
       var geojson_format = new OpenLayers.Format.GeoJSON();
-      var vector_layer = new OpenLayers.Layer.Vector("Vector Layer", {styleMap: new OpenLayers.StyleMap({'default': style})});
+      var vector_layer = new OpenLayers.Layer.Vector("Vector Layer", {
+        styleMap: new OpenLayers.StyleMap({'default': style}),
+        eventListeners:{
+          'featureselected':function(evt){
+            var feature = evt.feature;
+
+            function dataToTable(data) {
+              if (data.value != undefined) return data.value;
+              var res = "<table>";
+              for (var key in data) {
+                var sub = data[key];
+                if (typeof(sub) == "object") {
+                  if (sub.length != undefined) {
+                    sub = JSON.stringify(sub);
+                  } else {
+                    sub = dataToTable(sub);
+                  }
+                }
+                res += "<tr><th>" + key + "</th><td>" + sub + "</td></tr>";
+              }
+              res += "</table>";
+              return res;
+            }
+
+            var popup = new OpenLayers.Popup.FramedCloud(
+              "popup",
+              OpenLayers.LonLat.fromString(feature.geometry.getCentroid().toShortString()),
+              null,
+              "<b>" + feature.data.NAME + "</b>" + dataToTable(data.regiondata[feature.data.ISO_2_CODE]),
+              null,
+              true
+            );
+            feature.popup = popup;
+            map.addPopup(popup);
+          },
+          'featureunselected':function(evt){
+            var feature = evt.feature;
+            map.removePopup(feature.popup);
+            feature.popup.destroy();
+            feature.popup = null;
+          }
+        }
+      });
       vector_layer.addFeatures(geojson_format.read(data.worldmap));
       map.addLayer(vector_layer);
+
+      map.addControl(new OpenLayers.Control.SelectFeature(vector_layer, {
+        autoActivate:true
+      }));
 
       map.setCenter(
           new OpenLayers.LonLat(0, 0).transform(
