@@ -8,8 +8,8 @@
   "stories": [
     {
       "timeline": "World", "time": "2007", "title": "PRISM",
-      "content": "Ett världsomspännande datalagringssystem skapas av USA",
-      "source": "https://en.wikipedia.org/wiki/PRISM"
+      "content": "Ett världsomspännande datalagringssystem skapas av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm.",
+      "source": "https://en.wikipedia.org/wiki/PRISM http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"
     },
     {
       "timeline": "World", "time": "2003", "title": "Golden Shield: Operativ",
