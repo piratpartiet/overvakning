@@ -18,12 +18,14 @@ $(document).ready(function () {
       var elstory = $(".template .story").clone();
       elstory.addClass(timeline.color);
       elstory.find(".time .main").html(story.time);
-      elstory.find(".info").prepend(story.title);
-      elstory.find(".info .more").prepend(story.content);
-      if (story.source) {
-        elstory.find(".info .more .source").attr({href: story.source});
-      } else {
-        elstory.find(".info .more .source").remove();
+      elstory.find(".info .title").append(story.title);
+      elstory.find(".info .more").append(story.content);
+      if (story.sources) {
+        story.sources.map(function (source) {
+          var link = $("<a class='pull-right'><i class='fa fa-external-link'></i></a>")
+          link.attr({href: source});
+          elstory.find(".info .title").append(link);
+        });
       }
       if (story.minor) elstory.addClass("minor");
 
