@@ -7,6 +7,11 @@
   ],
   "stories": [
     {
+      "timeline": "SE", "time": "2009-10-14", "title": "FRA-lagen",
+      "content": "FRA-lagen röstas igenom med rösttalen 158 mot 153 efter stor debatt. Lagen ger Försvarets Radioanstallt (FRA) rätt att avlyssna all trådbunden trafik som passerar Sveriges gränser, t.ex. internet- och tele-trafik. Det finns läckta dokument som tyder på att FRA-lagen kom till genom ett samarbete mellan USA, Storbritannien och Sverige.",
+      "sources": ["https://sv.wikipedia.org/wiki/FRA-lagen"]
+    },
+    {
       "timeline": "EU", "time": "2009-2014", "title": "INDECT",
       "content": "INDECT är ett forskningsprojekt inom EU med en budget på €14,828,107. Forskningen är inriktad på övervakningsteknologi, speciellt inom rörelse- mönster- och person-igenkänning i video och semantisk sökning på igenkännda objekt.",
       "sources": ["https://en.wikipedia.org/wiki/INDECT"]
