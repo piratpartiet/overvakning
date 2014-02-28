@@ -7,6 +7,11 @@
   ],
   "stories": [
     {
+      "timeline": "EU", "time": "2009-2014", "title": "INDECT",
+      "content": "INDECT är ett forskningsprojekt inom EU med en budget på €14,828,107. Forskningen är inriktad på övervakningsteknologi, speciellt inom rörelse- mönster- och person-igenkänning i video och semantisk sökning på igenkännda objekt."
+      "source": "https://en.wikipedia.org/wiki/INDECT"
+    },
+    {
       "timeline": "World", "time": "2007", "title": "PRISM",
       "content": "Ett världsomspännande datalagringssystem skapas av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm.",
       "source": "https://en.wikipedia.org/wiki/PRISM http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"
