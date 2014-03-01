@@ -7,6 +7,11 @@
   ],
   "stories": [
     {
+      "timeline": "World", "time": "2013", "title": "PRISM: Snowdens avslöjade",
+      "content": "<p>PRISM fick allmänheten reda på när 41 powerpointslides läcktes ut från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visar att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation åker igenom/förbi USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, google och Yahoo stod för 98% av matrialet i PRISM.</p><p>Snowden avslöjade också att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också tar stor del av världens internetkommunikation för att lagra. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databasar där allt finns lagrat och att de bara kan gå in och söka efter exakt det som de vill och de lär finna resultat.</p><p>Många, speciellt tyskarna, påstår att NSA egentligen är involverad i en farlig och kriminell aktivitet genom att hacka sig in hos privatpersoner och tar del utav deras privatliv. Speciellt genom att hacka sig in hos sjukhus, universitet och privata företag.</p>",
+      "sources": ["https://en.wikipedia.org/wiki/PRISM"]
+    },
+    {
       "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering",
       "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, implementeras i svensk rätt.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet#Sverige"]
@@ -28,7 +33,7 @@
     },
     {
       "timeline": "World", "time": "2007", "title": "PRISM",
-      "content": "Ett världsomspännande datalagringssystem skapas av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm.",
+      "content": "<p>Ett världsomspännande datalagringssystem skapas av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, facebook, apple etc själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA. Man började med PRISM i ett 'skydda Amerika'-projekt. Man ville veta vilka som var ett hot mot landet. Man ville specifikt finna alla terrorhot, som the goverment påstår att de har lyckats att avvärja tack vare PRISM. Samtidigt känner man till folks vanor, intressen och vart de befinner sig pga/genom detta. Pågrund av den hemliga naturen som blivit i USA så har det delats upp i två läger, American Civil Liberties Union v. National Security Agency. The Real Time Regional Gateway var ett program som man 2005 använde i Irak under kriget där för att spåra och samla data där till NSA. 'Collect it all/skydda amerika'-projektet initierades utav NSAs direktör Keith B Alexander. Detta för att skapa ett jättearkiv där all världens kommunikationsdata finns samlad. NSA har också ett bra sammarbete med 100 pålitliga amerikanska företag som hjälper NSA att upprätthålla dem med information.</p><p>Med PRISM så kan man läsa alla mejl, lyssna av alla telefonsamtal, läsa av alla livechattar, utan att behöva gå till rätten med det om att få tillstånd och man gör det såpass försiktigt att det inte heller märks och man kan då inte bli anklagad för olaga intrång.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"]
     },
     {
