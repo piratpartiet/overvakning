@@ -46,6 +46,11 @@
       "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' blir fullt operativ och censurerar och övervakar Internet inom landets gränser. C.a. 30000 till 50000 poliser jobbar idag i Golden Shield-projektet. Golden Shield kan idag blocka IP-adresser, blocka eller omdirrigera domännamn, filtrera webadresser, filtrera IP-paket, och stoppa anslutningar"
     },
     {
+      "timeline": "World", "time": "2001-10-26", "title": "USA PATRIOT ACT",
+      "content": "Amerikansk lagstiftning som tillåter inspärrning av icke-medborgare på obestämd tid, lättvindig telefonavlyssning och tillgång till historik över boklån på bibliotek, sjukhusvistelser och andra företagsregister.",
+      "sources": ["http://en.wikipedia.org/wiki/Patriot_Act"]
+    },
+    {
       "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning",
       "content": "Benefon producerar den första mobilen med inbygd GPS-mottagare.",
       "sources": ["https://en.wikipedia.org/wiki/Benefon#Historical_products"]
@@ -72,6 +77,11 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
+      "timeline": "SE", "time": "1973", "title": "IB: Avslöjjas",
+      "content": "Jan Guillou och Peter Bratt avslöjjar att den socialdemokratiska regeringen byggt upp en parallell organisation till SÄPO för att övervaka kommunister. Det dröjjer dock till 1982 innan socialdemokraternas partisekreterare Sten Andersson erkänner affären.",
+      "sources": ["http://wwwc.aftonbladet.se/nyheter/9808/18/sten.html"]
+    },
+    {
       "timeline": "Tech", "time": "197?", "title": "Kameraövervakning: Videobandspelare",
       "content": "Kameraövervakning blir betydligt vanligare i och med videobandspelarnas intåg",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
@@ -80,6 +90,11 @@
       "timeline": "Tech", "time": "1968", "title": "Kameraövervakning: Av en vanlig shopping-gata", "minor": true,
       "content": "",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
+    },
+    {
+      "timeline": "SE", "time": "1973", "title": "IB",
+      "content": "Den socialdemokratiska regeringen bygger upp en parallell organisation till SÄPO för att övervaka kommunister med hjälp av 22000 arbetsplatsombud. Grunden för organisationen var att medlemmarna skulle vara socialdemokrater för att garantera att arbetsplatsombuden skulle skvallra på sina arbetskamrater, eftersom SÄPO 'fått dåligt rykte'. Organisationen byggde upp ett omfattande åsiktsregister som användes vid anställning till ett stort antal företag som ansågs ha betydelse för totalförsvaret.",
+      "sources": ["https://sv.wikipedia.org/wiki/IB"]
     },
     {
       "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true,
