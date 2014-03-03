@@ -80,14 +80,10 @@ body {
 }
 
 .stories {
-  position: absolute;
-  top: 60pt;
+  position: relative;
+  top: 10pt;
   width: 100%;
-
   left: 0;
-  padding-left: 10pt;
-  padding-right: 10pt;
-  padding-top: 10pt;
 
   .inner-stories {
     position: relative;
@@ -217,4 +213,49 @@ body {
 .olPopup td {
   vertical-align: top;
   color: black;
+}
+
+@media (max-width: 480px) { 
+  .nav-tabs > li {
+    float:none !important;
+  }
+
+  .timelines {
+    display: none;
+  }
+
+  .stories .story.right .info-wrapper .main {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .stories .story.right .time .main {
+    text-align: right;
+    padding-right: 10pt;
+    padding-left: 0;
+  }
+
+  .stories .story.right .main {
+    text-align: left;
+  }
+
+  .stories .story.right.minor .story-wrapper {
+    padding-right: 0;
+  }
+
+  .stories .story.left.minor .story-wrapper {
+    padding-left: 0;
+  }
+
+  .bumperable {
+    display: block;
+    .main {
+      display: block;
+    }
+
+    .timeline-bump, .even-bump, .side-bump {
+      display: none;
+    }
+
+  }
+
 }
