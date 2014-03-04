@@ -7,6 +7,11 @@
   ],
   "stories": [
     {
+      "timeline": "World", "time": "2014", "title": "SORM: Vinter-OS i Sochi",
+      "content": "FSB hade gjort upp ett hemligt avtal om att uppgradera SORM. Samtidigt hade man pratat med alla internetleverantörer om att nya regler skulle börja gälla i mars 2013. All kommunikation under vinter-OS i Sochi blev nu filtrerad av ett system som nogrannt går igenom vad som sägs, skrivs och vem som kontaktar vem. Systemet använder Deep Packet Inspection för att kunna avlyssna även innehållet i kommunikationen. Det vill säga både OS-hjältarna som gett sitt allt, och besökarna, har helt saknat privatliv i Sochi och myndigheterna har vetat om exakt vad de gjort, vad de sagt och till vem.",
+      "sources": ["http://en.wikipedia.org/wiki/SORM"]
+    },
+    {
       "timeline": "World", "time": "2013", "title": "PRISM: Snowdens avslöjade",
       "content": "<p>PRISM fick allmänheten reda på när 41 powerpointslides läcktes ut från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visar att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation åker igenom/förbi USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, google och Yahoo stod för 98% av matrialet i PRISM.</p><p>Snowden avslöjade också att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också tar stor del av världens internetkommunikation för att lagra. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databasar där allt finns lagrat och att de bara kan gå in och söka efter exakt det som de vill och de lär finna resultat.</p><p>Många, speciellt tyskarna, påstår att NSA egentligen är involverad i en farlig och kriminell aktivitet genom att hacka sig in hos privatpersoner och tar del utav deras privatliv. Speciellt genom att hacka sig in hos sjukhus, universitet och privata företag.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM"]
