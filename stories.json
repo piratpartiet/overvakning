@@ -17,6 +17,11 @@
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet#Sverige"]
     },
     {
+      "timeline": "World", "time": "2010-02", "title": "Kameraövervakning av gymnasieelever i deras hem", "minor": true,
+      "content": "Det kommer fram att två gymnasieskolor i USA spionerat på sina studenter med webkamerorna i de laptops som studenterna fått låna av skolan. Övervakningen skall ha skett även på fritiden, och i studenternas hem. Skolorna har även övervakat chattloggar och websidehistorik.",
+      "sources": ["http://en.wikipedia.org/wiki/Robbins_v._Lower_Merion_School_District"]
+    },
+    {
       "timeline": "SE", "time": "2009-10-14", "title": "FRA-lagen",
       "content": "FRA-lagen röstas igenom med rösttalen 158 mot 153 efter stor debatt. Lagen ger Försvarets Radioanstallt (FRA) rätt att avlyssna all trådbunden trafik som passerar Sveriges gränser, t.ex. internet- och tele-trafik. FRA lagrar metadata för alla sådan trafik i en databas som kallas Titan. FRA utbyter även avlyssningsinformation med övervakningstjänster i andra länder, i första hand inom gruppen Five Eyes. Det finns läckta dokument som tyder på att FRA-lagen kom till genom ett samarbete mellan USA, Storbritannien och Sverige.",
       "sources": ["https://sv.wikipedia.org/wiki/FRA-lagen", "https://sv.wikipedia.org/wiki/Trafikdatabasen_Titan"]
