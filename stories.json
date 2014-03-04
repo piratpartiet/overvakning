@@ -38,13 +38,17 @@
     },
     {
       "timeline": "EU", "time": "2006-05-03", "title": "Datalagringsdirektivet",
-      "content": "Datalagringsdirektivet är ett EU-direktiv som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land).",
+      "content": "Datalagringsdirektivet är ett EU-direktiv som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land). Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position), och kan användas för att bygga sociogram.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
       "timeline": "World", "time": "2003", "title": "Golden Shield: Operativ",
       "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' blir fullt operativ och censurerar och övervakar Internet inom landets gränser. C.a. 30000 till 50000 poliser jobbar idag i Golden Shield-projektet. Golden Shield kan idag blocka IP-adresser, blocka eller omdirrigera domännamn, filtrera webadresser, filtrera IP-paket, och stoppa anslutningar"
     },
+    {
+      "timeline": "World", "time": "2002", "title": "Target, graviditet och statistik",
+      "content": "Det amerikanska detaljhandelsföretaget Target bygger en statistisk modell som kan avgöra om en kund är gravid, och i vilken månad, enbart basserat på ändringar i köpmönster. De använder modellen för att skicka riktad reklam till blivande mödrar.",
+      "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html", "http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/"]
     {
       "timeline": "World", "time": "2001-10-26", "title": "USA PATRIOT ACT",
       "content": "Amerikansk lagstiftning som tillåter inspärrning av icke-medborgare på obestämd tid, lättvindig telefonavlyssning och tillgång till historik över boklån på bibliotek, sjukhusvistelser och andra företagsregister.",
