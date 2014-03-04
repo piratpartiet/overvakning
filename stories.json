@@ -17,6 +17,11 @@
       "sources": ["https://en.wikipedia.org/wiki/PRISM"]
     },
     {
+      "timeline": "SE", "time": "2013", "title": "SMS-betalningar", "minor": true,
+      "content": "Betaltjänstlagen tvingar leverantörer och användare av SMS-betalningstjänster att registrera användarnas identitet.",
+      "sources": ["https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=5458787"]
+    },
+    {
       "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering",
       "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, implementeras i svensk rätt.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet#Sverige"]
