@@ -18,12 +18,12 @@
     },
     {
       "timeline": "SE", "time": "2013", "title": "SMS-betalningar", "minor": true,
-      "content": "Betaltjänstlagen tvingar leverantörer och användare av SMS-betalningstjänster att registrera användarnas identitet.",
+      "content": "<a href='https://lagen.nu/2010:751'>Betaltjänstlagen</a> tvingar leverantörer och användare av SMS-betalningstjänster att registrera användarnas identitet.",
       "sources": ["https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=5458787"]
     },
     {
       "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering",
-      "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, implementeras i svensk rätt.",
+      "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, <a href='https://lagen.nu/2003:389#K6R11'>implementeras i svensk rätt</a>.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet#Sverige"]
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "timeline": "EU", "time": "2006-05-03", "title": "Datalagringsdirektivet",
-      "content": "Datalagringsdirektivet är ett EU-direktiv som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land). Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position), och kan användas för att bygga sociogram.",
+      "content": "Datalagringsdirektivet är ett <a href='http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:105:0054:01:EN:HTML'>EU-direktiv</a> som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land). Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position), och kan användas för att bygga sociogram.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
@@ -110,9 +110,7 @@
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "SE",
-      "time": "1980",
-      "title": "Be om förlåtelse för övervakning",
+      "timeline": "SE", "time": "1980", "title": "Be om förlåtelse för övervakning", "minor": true,
       "content": " Försökte man få in en lag om att buggning/övervakning av all typ slag laglig. Som plåster på såren så skulle man berätta för de som blivit buggade och stalkade att de skett dem som varit under övervakning.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
@@ -169,16 +167,12 @@
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false2"]
     },
     {
-      "timeline": "EU",
-      "time": "1945",
-      "title": "England signalspanar i Sverige",
+      "timeline": "EU", "time": "1945", "title": "England signalspanar i Sverige", "minor": true,
       "content": "1945 var England i Sverige på ett pensionat utanför Göteborg och signalspanade.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE",
-      "time": "1945",
-      "title": "Övervakning i Sverige fortsatte",
+      "timeline": "SE", "time": "1945", "title": "Övervakning i Sverige fortsatte",
       "content": " 1946, lyssnade man fortfarande av alla telefoner för potentiella hot. Dock kom man nu fram till att de hade för dåliga mottagare. Nu blev även säkerhetstjänsten helt permanent, dock skar man ned på antal anställda pga ekonomiska skäl och ett mindre behov av att behöva övervaka exakt allt hela tiden.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
@@ -207,9 +201,7 @@
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU",
-      "time": "1938",
-      "title": "Interneringsläger",
+      "timeline": "EU", "time": "1938", "title": "Interneringsläger",
       "content": "I Europa fanns 30000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades eller kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
@@ -226,12 +218,12 @@
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger",
+      "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger", "minor": true,
       "content":"Under senare delen av 1930-talet genomförde nazisterna flera aktioner där många judar arresterades och sändes till koncentrationsläger. Syftet var att öka pressen på judiska personer att lämna Tyskland.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1935", "title": "Förbud mot att uppmuntra judar",
+      "timeline": "EU", "time": "1935", "title": "Förbud mot att uppmuntra judar", "minor": true,
       "content":"1935 kom en lag i Tyskland om att man inte fick ha möten eller göra något uppmuntrande för att judarna skulle få stanna kvar i tyskland. Man uppmuntrade judarna att isolera sig eller emigrera för att inte störa det Tyska samhället.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
