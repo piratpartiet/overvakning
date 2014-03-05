@@ -2,7 +2,6 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
     <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="bootstrap.docs.min.css">
     <link rel="stylesheet" href="font-awesome-4.0.3/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet/less" href="style.less" />
 
@@ -11,7 +10,6 @@
     <script type="text/javascript" src="jquery.csv-0.71.min.js"></script>
     <script type="text/javascript" src="slugify.min.js"></script>
     <script type="text/javascript" src="bootstrap.min.js"></script>
-    <script type="text/javascript" src="bootstrap.docs.min.js"></script>
     <script type="text/javascript" src="async.js"></script>
     <script type="text/javascript" src="OpenLayers-2.13.1/OpenLayers.js"></script>
 
@@ -51,11 +49,11 @@
 
 
     <ul class="nav nav-tabs">
-      <li class="active"><a href="#timeline" data-toggle="tab">Timeline</a></li>
-      <li id="map-tab"><a href="#map-pane" data-toggle="tab">Map</a></li>
-      <li><a href="#tech" data-toggle="tab">Technology</a></li>
+      <li class="active"><a href="#timeline" data-toggle="tab">Tidslinje</a></li>
+      <li id="map-tab"><a href="#map-pane" data-toggle="tab">Kartor</a></li>
+      <li><a href="#tech" data-toggle="tab">Tekonologi</a></li>
       <li id="become-pirate-tab"><a href="http://blipirat.nu" class="btn btn-primary">Bli pirat!</a></li>
-      <li id="about-tab"><a href="#about" data-toggle="tab">About</a></li>
+      <li id="about-tab"><a href="#about" data-toggle="tab">Om sidan</a></li>
     </ul>
 
     <!-- Tab panes -->
@@ -71,57 +69,99 @@
         <div id="map" class="smallmap"></div>
       </div>
       <div class="tab-pane" id="tech">
-        Tech articles goes here
-
+        <br>
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-9" role="main">
-
-              <div class="bs-docs-section">
-                <h1 id="buttons" class="page-header">Buttons <small>button.js</small></h1>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <h2 id="buttons-examples">Example uses</h2>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <h2 id="buttons-usage">Usage</h2>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+            <div class="col-md-6" role="main">
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Ljud- och bildövervakning</h3></div>
+                <div class="panel-body">
+                  <ul>
+                    <li>Möjligt att slå på webkameror via nätet <a href="http://news.cnet.com/8301-30977_3-10457077-10347072.html"><i class="fa fa-external-link"></i></a> <a href="http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/"><i class="fa fa-external-link"></i></a></li>
+                    <li>Omöjligt att hindra infektion/fjärrmanövrering av telefoner<a href="http://www.osnews.com/story/27416/The_second_operating_system_hiding_in_every_mobile_phone"><i class="fa fa-external-link"></i></a></li>
+                    <li>Övervakningskameror (både med tillstånd och utan) <a href="https://en.wikipedia.org/wiki/Surveillance_camera"><i class="fa fa-external-link"></i></a><ul>
+                      <li>Övervakningskameror "läcker" <a href="http://www.dagbladet.no/2013/10/02/nyheter/nullctrl/innenriks/datasikkerhet/28551640/"><i class="fa fa-external-link"></i></a></li>
+                      <li>Mer övervakning ger inte färre brott <a href="http://www.nrk.no/ostlandssendingen/_-overvakning-gir-ikke-resultater-1.7869062"><i class="fa fa-external-link"></i></a></li>
+                      <li>Minskning av brottsligheten i Storbritannien<ul>
+                      <li>Parkeringsplatser: 51%</li>
+                        <li>Kollektivtrafik: 23%</li>
+                        <li>Gator: 7%</li>
+                      </ul></li>
+                      <li>I andra länder: Ytterst liten skillnad</li>
+                    </ul></li>
+                  </ul>
+                </div>
               </div>
-
-              <div class="bs-docs-section">
-                <h1 id="collapse" class="page-header">Collapse <small>collapse.js</small></h1>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <h2 id="collapse-examples">Example uses</h2>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-                <h2 id="collapse-usage">Usage</h2>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Transport</h3></div>
+                <div class="panel-body">
+                  <ul>
+                    <li>Trängseltullar <a href="http://www.stockholmsfria.se/artikel/18993"><i class="fa fa-external-link"></i></a></li>
+                    <li>Andra registreringsskyltsläsande kameror <a href="http://betaboston.com/news/2014/03/05/a-vast-hidden-surveillance-network-runs-across-america-powered-by-the-repo-industry/"><i class="fa fa-external-link"></i></a></li>
+                    <li>Kollektivtrafiksbiljetter <a href="https://www.privacyinternational.org/blog/oyster-octopus-and-metro-cards-what-happens-to-our-data"><i class="fa fa-external-link"></i></a></li>
+                    <li>"Svarta lådor" i bilar <a href="http://www.alltomvetenskap.se/nyheter/svarta-ladan-bilen"><i class="fa fa-external-link"></i></a> <a href="http://nyadagbladet.se/utrikes/svarta-lador-ska-driva-in-skatt-genom-att-spara-bilar/"><i class="fa fa-external-link"></i></a> <a href="http://www.corren.se/sverige/artikel.aspx?articleId=6786707"><i class="fa fa-external-link"></i></a></li>
+                    <li>ID-kontroll på tåg <a href="http://www.svd.se/opinion/ledarsidan/ursparad-jakt-pa-biljetter_3458559.svd"><i class="fa fa-external-link"></i></a></li>
+                    <li>REVA <a href="http://www.dn.se/kultur-noje/basta-beatrice-ask/"><i class="fa fa-external-link"></i></a></li>
+                  </ul>
+                </div>
               </div>
-
-
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Hem</h3></div>
+                <div class="panel-body">
+                  <ul>
+                    <li>Smart Meters för el <a href="http://skeptics.stackexchange.com/questions/5470/are-electronic-power-consumption-smart-meters-an-invasion-of-privacy#5485"><i class="fa fa-external-link"></i></a></li>
+                    <li>Kameraövervakning i trapphus i flerbostadshus <a href="http://sverigesradio.se/sida/artikel.aspx?programid=83&amp;artikel=377259"><i class="fa fa-external-link"></i></a></li>
+                  </ul>
+                </div>
+              </div>
             </div>
-            <div class="col-md-3">
-              <div class="bs-docs-sidebar hidden-print affix" role="complementary">
-                <ul class="nav bs-docs-sidenav">
-                  <li>
-                    <a href="#buttons">Button</a>
-                    <ul class="nav">
-                      <li><a href="#buttons-examples">Examples</a></li>
-                      <li><a href="#buttons-usage">Usage</a></li>
-                    </ul>
-                  </li>
-                  <li>
-                    <a href="#collapse">Collapse</a>
-                    <ul class="nav">
-                      <li><a href="#collapse-examples">Examples</a></li>
-                      <li><a href="#collapse-usage">Usage</a></li>
-                    </ul>
-                  </li>
+            <div class="col-md-6">
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Positionering av personer</h3></div>
+                <div class="panel-body">
+                  <ul>
+                  <li>Mobiltelefoner med GPS <a href="https://en.wikipedia.org/wiki/Mobile_phone_tracking#Handset-based"><i class="fa fa-external-link"></i></a></li>
+                    <li>Triangulering av mobiltelefoner <a href="https://en.wikipedia.org/wiki/Mobile_phone_tracking#Network-based"><i class="fa fa-external-link"></i></a></li>
+                    <li>Övervakningskameror med biometri <a href="http://www.securityworldnews.com/2010/11/16/what-is-biometric-security-surveillance/"><i class="fa fa-external-link"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Kommunikation</h3></div>
+                <div class="panel-body">
+                  <ul>
+                    <li>PRISM, datalagring</li>
+                    <li>aktiv signalspaning / hacking</li>
+                    <li>fakeade cert/CA-cert / MtM.</li>
+                    <li>"porrfilter" (speciellt i england)</li>
+                    <li>facebook/twitter</li>
+                    <li>sociogram</li>
+                    <li>TOR, i2p</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Kultur</h3></div>
+                <div class="panel-body">
+                  <ul>
+                    <li>e-böcker kan raderas från läsplattor <a href="http://blogg.dn.se/teknikbloggen/2012/10/25/amazon-raderade-kundens-alla-e-bocker/"><i class="fa fa-external-link"></i></a></li>
+                    <li>full historik över köpta e-böcker hos leverantören</li>
+                    <li>bibliotekshistorik kan begäras ut i USA</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="panel panel-default">
+                <div class="panel-heading"><h3 class="panel-title">Ekonomi/handel</h3></div>
+                <div class="panel-body">
+                  <ul>
+                    <li>VISA och Mastercard vägrar vissa typer av laglig handel (sexhjälpmedel osv).<a href="http://www.idg.se/2.1085/1.518192/kortbranschens-moralregler-ska-granskas"><i class="fa fa-external-link"></i></a></li>
+                    <li>SMS-betalningar kräver registrering <a href="http://www.mobil.se/business/sms-biljetter-bara-fr-n-registrerade-kort"><i class="fa fa-external-link"></i></a></li>
+                    <li>SWIFT-avtalet <a href="http://www.dn.se/nyheter/varlden/bakgrund-det-har-ar-swiftavtalet/"><i class="fa fa-external-link"></i></a> <a href="http://www.europaportalen.se/tema/swiftavtalet"><i class="fa fa-external-link"></i></a></li>
+                    <li>"Big Data" statistik och slutsatser<a href="http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html"><i class="fa fa-external-link"></i></a></li>
+                    <li>Bitcoin</li>
+                  </ul>
 
-
-                </ul>
-                <a class="back-to-top" href="#top">
-                  Back to top
-                </a>
+                </div>
               </div>
             </div>
           </div>
