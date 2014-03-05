@@ -8,8 +8,8 @@
   "stories": [
     {
       "timeline": "World", "time": "2014", "title": "SORM: Vinter-OS i Sochi",
-      "content": "FSB hade gjort upp ett hemligt avtal om att uppgradera SORM. Samtidigt hade man pratat med alla internetleverantörer om att nya regler skulle börja gälla i mars 2013. All kommunikation under vinter-OS i Sochi blev nu filtrerad av ett system som nogrannt går igenom vad som sägs, skrivs och vem som kontaktar vem. Systemet använder Deep Packet Inspection för att kunna avlyssna även innehållet i kommunikationen. Det vill säga både OS-hjältarna som gett sitt allt, och besökarna, har helt saknat privatliv i Sochi och myndigheterna har vetat om exakt vad de gjort, vad de sagt och till vem.",
-      "sources": ["http://en.wikipedia.org/wiki/SORM"]
+      "content": "<p><b>FSB hade gjort upp ett hemligt avtal om att uppgradera SORM. Samtidigt hade man pratat med alla internetleverantörer om att nya regler skulle börja gälla i mars 2013. All kommunikation under vinter-OS i Sochi blev nu filtrerad av ett system som nogrannt går igenom vad som sägs, skrivs och vem som kontaktar vem. Systemet använder Deep Packet Inspection för att kunna avlyssna även innehållet i kommunikationen. Det vill säga både OS-hjältarna som gett sitt allt, och besökarna, har helt saknat privatliv i Sochi och myndigheterna har vetat om exakt vad de gjort, vad de sagt och till vem.</b></p><p>Kyle Wilhoit, en Säkerhets-researcher, visade en journlist hos new yorker hur snabbt hackare tog sig in i journalistens mobil bara minutrar efter att han hade kopplat upp sig via WIFI på ett café i Moskva. Skadliga program hade kapat journalistens telefon innan han ens hade hunnit dricka upp sitt kaffe. Senare berättade Wilhoit att myndigheterna hade hackat śig in i hans telefon just för att han brukar besöka 'farliga' sidor. De som hackat sig in hade då inte placerat virus i hans telefon, utan mjukvara för att förhindra honom att komma in på, enligt dem, farliga sidor.</p><p>En annan veteranreporter inom säkerhet gav denna kommentar när han fick höra om journalistens test: 'Den tekniska motsvarigheten till att dricka ett provrör shot av kolera för att se huruvida osynliga patogener kan vara farlig.' Men i och med att Sochi hade många terroristhot, så är det idag det dyraste spelet hittills, när det kommer till övervakningen inför och under spelen.</p><p>Anläggningen 'ring of steel', hade Ryssland själva beskrivit att de bestod av drönare, soldater, övervaknings luftskepp, metalldetektorer, tusentals kameror och annan högteknologisk utrustning, till exempel VibraImage, ett skanningssystem som analyserar muskelvibrationer i nacken och huvudet för att upptäcka någon som verkar alldaglig men som egentligen är mentalt sjuk eller nervös så staten kan signalera ett överhängande hot.</p><p>Varje åskådare som skulle besöka OS genomgick en länge utvärderingsprocess än man kan ana, detta i ett säkerhetssyfte. Man gjorde en grundlig bakgrundsutvärdering av alla som besökte OS.</p><p>USAs State Department varnade amerikaner om att de inte alls kommer att ha något privatliv alls om de åker till Ryssland under OS. De jämförde även sedan SORM som PRISM på steorider. Då har man jobbat sedan 2011 med att få den absolut bästa och vassaste övervakningssystemet till OS.</p><p>Man har nu planer på att SORM ska bli OS-boostad i hela Ryssland och att det kommer att vara övervakningsstandarden.</p><p>Under OS så har man också gjort tester med att man först ska identifiera sig själv innan man kopplar upp sig till WIFI.</p>",
+      "sources": ["http://en.wikipedia.org/wiki/SORM", "http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
       "timeline": "World", "time": "2013", "title": "PRISM: Snowdens avslöjade",
@@ -25,6 +25,11 @@
       "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering",
       "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, <a href='https://lagen.nu/2003:389#K6R11'>implementeras i svensk rätt</a>.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet#Sverige"]
+    },
+    {
+      "timeline": "EU", "time": "2012", "title": "OS i London",
+      "content": "OS i London, en stad som är känd för att övervaka sin befolkning, som till och med hade en övervakningskamera som sin OS-maskot. Teknologi som ansiktsigenkänning och nummerplåts-läsare var något som man använde under hela OS. var även något som Englands polis var snabba att snappa upp för att själva använda för att lättare hitta kriminella. Detta gick på över en biljon dollar. Man sa att detta var den största mobila militära och säkerhetsinsatsen som pågått i England sedan andra världskriget.",
+      "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
       "timeline": "World", "time": "2010-02", "title": "Kameraövervakning av gymnasieelever i deras hem", "minor": true,
@@ -45,6 +50,11 @@
       "timeline": "EU", "time": "2008–2012", "title": "Optic Nerve",
       "content": "Storbritaniens övervakningstjänst, GCHQ, har samlat in webcam-bilder från 1.8 miljoner Yahoo-användares videochattar, många av dem med sexuellt innehåll.",
       "sources": ["http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo"]
+    },
+    {
+      "timeline": "World", "time": "2008", "title": "OS i Beijing",
+      "content": "OS, i Beijing, så hade Kina köpt en hel del ny övervakningsutrustning från väst, inklusive hundratusentals kameror beväpnade med biometrisk identifiering programvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
+      "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
       "timeline": "World", "time": "2007", "title": "PRISM",
