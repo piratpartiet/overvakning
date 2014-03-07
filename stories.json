@@ -12,6 +12,11 @@
       "sources": ["http://en.wikipedia.org/wiki/SORM", "http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
+      "timeline": "Tech", "time": "2013-10-28", "title": "Sociogram: Relationer på väg att avslutas",
+      "content": "Forskare från Cornell University och Facebook visar att man kan räkna ut chansen att ett kärleksförhållande kommer att ta slut utifrån personernas sociala kontext - vem som känner vem.",
+      "sources": ["http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
+    },
+    {
       "timeline": "World", "time": "2013", "title": "PRISM: Snowdens avslöjade",
       "content": "<p>PRISM fick allmänheten reda på när 41 powerpointslides läcktes ut från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visar att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation åker igenom/förbi USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, google och Yahoo stod för 98% av matrialet i PRISM.</p><p>Snowden avslöjade också att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också tar stor del av världens internetkommunikation för att lagra. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databasar där allt finns lagrat och att de bara kan gå in och söka efter exakt det som de vill och de lär finna resultat.</p><p>Många, speciellt tyskarna, påstår att NSA egentligen är involverad i en farlig och kriminell aktivitet genom att hacka sig in hos privatpersoner och tar del utav deras privatliv. Speciellt genom att hacka sig in hos sjukhus, universitet och privata företag.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM"]
@@ -239,8 +244,8 @@
     },
     {
       "timeline": "Tech", "time": "1934", "title": "Sociogram",
-      "content": "Jacob L. Moreno forskar på analysering av sociala nätverk och skapar sociogramet",
-      "sources": ["https://en.wikipedia.org/wiki/Sociogram"]
+      "content": "Jacob L. Moreno forskar på analysering av sociala nätverk och skapar sociogramet. Sociogram kan användas för många typer av analyser av mänskliga grupper, t.ex. för att avgöra chansen för att en kärleksrelation skall uppstå eller avslutas.",
+      "sources": ["https://en.wikipedia.org/wiki/Sociogram", "http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
     },
     {
       "timeline": "EU", "time": "1934", "title": "Bokbål på oariska böcker",
