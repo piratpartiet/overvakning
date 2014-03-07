@@ -1,0 +1,174 @@
+{
+  "categories": [
+    {"title": "Ljud- och bildövervakning", "icon": "fa-camera"},
+    {"title": "Transport", "icon": "fa-truck"},
+    {"title": "Hem", "icon": "fa-home"},
+    {"title": "Positionering av personer", "icon": "fa-map-marker"},
+    {"title": "Kultur", "icon": "fa-book"},
+    {"title": "Ekonomi/handel", "icon": "fa-money"},
+    {"title": "Kommunikation", "icon": "fa-phone"}
+  ],
+  "tech": [
+    {
+      "category": "Ljud- och bildövervakning",
+      "title": "Möjligt att slå på webkameror via nätet",
+      "sources": ["http://news.cnet.com/8301-30977_3-10457077-10347072.html", "http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/"]
+    },
+    {
+      "category": "Ljud- och bildövervakning",
+      "title": "Omöjligt att hindra infektion/fjärrmanövrering av telefoner",
+      "sources": ["http://www.osnews.com/story/27416/The_second_operating_system_hiding_in_every_mobile_phone"]
+    },
+    {
+      "category": "Ljud- och bildövervakning",
+      "title": "Övervakningskameror (både med tillstånd och utan)",
+      "sources": ["https://en.wikipedia.org/wiki/Surveillance_camera"]
+    },
+    {
+      "category": "Ljud- och bildövervakning",
+      "title": "Övervakningskameror 'läcker'",
+      "sources": ["http://www.dagbladet.no/2013/10/02/nyheter/nullctrl/innenriks/datasikkerhet/28551640/"]
+    },
+    {
+      "category": "Ljud- och bildövervakning",
+      "title": "Mer övervakning ger inte färre brott",
+      "sources": ["http://www.nrk.no/ostlandssendingen/_-overvakning-gir-ikke-resultater-1.7869062"]
+    },
+
+    {
+      "category": "Transport",
+      "title": "Trängseltullar",
+      "sources": ["http://www.stockholmsfria.se/artikel/18993"]
+    },
+    {
+      "category": "Transport",
+      "title": "Andra registreringsskyltsläsande kameror",
+      "sources": ["http://betaboston.com/news/2014/03/05/a-vast-hidden-surveillance-network-runs-across-america-powered-by-the-repo-industry/"]
+    },
+    {
+      "category": "Transport",
+      "title": "Kollektivtrafiksbiljetter",
+      "sources": ["https://www.privacyinternational.org/blog/oyster-octopus-and-metro-cards-what-happens-to-our-data"]
+    },
+    {
+      "category": "Transport",
+      "title": "'Svarta lådor' i bilar",
+      "sources": ["http://www.alltomvetenskap.se/nyheter/svarta-ladan-bilen", "http://nyadagbladet.se/utrikes/svarta-lador-ska-driva-in-skatt-genom-att-spara-bilar/", "http://www.corren.se/sverige/artikel.aspx?articleId=6786707"]
+    },
+    {
+      "category": "Transport",
+      "title": "ID-kontroll på tåg",
+      "sources": ["http://www.svd.se/opinion/ledarsidan/ursparad-jakt-pa-biljetter_3458559.svd"]
+    },
+    {
+      "category": "Transport",
+      "title": "REVA",
+      "sources": ["http://www.dn.se/kultur-noje/basta-beatrice-ask/"]
+    },
+    {
+      "category": "Hem",
+      "title": "Smart Meters för el",
+      "sources": ["http://skeptics.stackexchange.com/questions/5470/are-electronic-power-consumption-smart-meters-an-invasion-of-privacy#5485"]
+    },
+    {
+      "category": "Hem",
+      "title": "Kameraövervakning i trapphus i flerbostadshus",
+      "sources": ["http://sverigesradio.se/sida/artikel.aspx?programid=83&amp;artikel=377259"]
+    },
+    {
+      "category": "Positionering av personer",
+      "title": "Mobiltelefoner med GPS",
+      "sources": ["https://en.wikipedia.org/wiki/Mobile_phone_tracking#Handset-based"]
+    },
+    {
+      "category": "Positionering av personer",
+      "title": "Triangulering av mobiltelefoner",
+      "sources": ["https://en.wikipedia.org/wiki/Mobile_phone_tracking#Network-based"]
+    },
+    {
+      "category": "Positionering av personer",
+      "title": "Övervakningskameror med biometri",
+      "sources": ["http://www.securityworldnews.com/2010/11/16/what-is-biometric-security-surveillance/"]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "PRISM, datalagring",
+      "sources": [""]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "Aktiv signalspaning / hacking",
+      "sources": [""]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "Underminerande av websidekryptering",
+      "sources": ["https://freedom-to-tinker.com/blog/felten/mozilla-debates-whether-trust-chinese-ca/"]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "'Porrfilter' (speciellt i england)",
+      "sources": ["https://www.techdirt.com/articles/20131227/07290125695/uk-porn-filter-blocks-porn-filter-advocate-claire-perrys-website-updated.shtml"]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "Facebook",
+      "sources": ["http://www.itproportal.com/2010/11/30/facebooks-button-tracking-you/"]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "Twitter",
+      "sources": ["http://nakedsecurity.sophos.com/2013/12/11/how-twitter-tracks-the-websites-you-visit-and-how-to-stop-it/"]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "Google",
+      "sources": ["http://donttrack.us"]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "Sociogram",
+      "sources": [""]
+    },
+    {
+      "category": "Kommunikation",
+      "title": "TOR, i2p",
+      "sources": [""]
+    },
+    {
+      "category": "Kultur",
+      "title": "Läsplattor kan fjärrstyras av förlagen och e-böcker har raderats utan orsak",
+      "sources": ["http://blogg.dn.se/teknikbloggen/2012/10/25/amazon-raderade-kundens-alla-e-bocker/"]
+    },
+    {
+      "category": "Kultur",
+      "title": "Bibliotekshistorik kan begäras ut i USA",
+      "sources": [""]
+    },
+    {
+      "category": "Ekonomi/handel",
+      "title": "VISA och Mastercard vägrar vissa typer av laglig handel (sexhjälpmedel osv).",
+      "sources": ["http://www.idg.se/2.1085/1.518192/kortbranschens-moralregler-ska-granskas"]
+    },
+    {
+      "category": "Ekonomi/handel",
+      "title": "SMS-betalningar kräver registrering",
+      "sources": ["http://www.mobil.se/business/sms-biljetter-bara-fr-n-registrerade-kort"]
+    },
+    {
+      "category": "Ekonomi/handel",
+      "title": "SWIFT-avtalet",
+      "sources": ["http://www.dn.se/nyheter/varlden/bakgrund-det-har-ar-swiftavtalet/"]
+    },
+    {
+      "category": "Ekonomi/handel",
+      "title": "'Big Data' statistik och slutsatser",
+      "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html"]
+    },
+    {
+      "category": "Ekonomi/handel",
+      "title": "Bitcoin",
+      "sources": [""]
+    }
+  ]
+}

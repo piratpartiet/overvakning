@@ -1,6 +1,5 @@
 var map, layer;
 
-var data = {};
 var state = {category: "Privacy International 2007/Total"};
 
 function padDigits(number, digits) {
@@ -132,7 +131,7 @@ $(document).ready(function () {
       );
 
       function addGroup(groups, slug, title, extra) {
-        var group = $(".template .panel").clone();
+        var group = $(".template .mapcontrol-category").clone();
         groups.append(group);
         group.find(".panel-title a").html(title);
         group.find(".panel-title a").attr({href: "#" + slug});
