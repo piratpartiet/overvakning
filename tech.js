@@ -8,7 +8,7 @@ $(document).ready(function () {
     function(cb){
       function createGroup(category) {
         var group = $(".template .tech-category").clone();
-        group.find(".panel-title").prepend(category.title);
+        group.find(".panel-title").append(category.title);
         group.find(".panel-title .fa").addClass(category.icon);
         return group;
       }
