@@ -1,4 +1,9 @@
 [
+
+  {
+    "title": "Övervakningskameror på Open Street Map",
+    "source": "http://osmcamera.tk"
+  },
   {
     "title": "Övervakningskameror i Frankrike",
     "source": "http://www.leretourdelautruche.com/map/cctv/cctv_map.php"
@@ -6,5 +11,9 @@
   {
     "title": "Övervakningskameror i Danmark",
     "source": "http://www.journalism.co.uk/news/data-journalism-crowdmapping-denmark-s-cctv-cameras/s2/a550761/"
+  },
+  {
+    "title": "Övervakningskameror i några amerikanska städer",
+    "source": "http://www.notbored.org/maps-usa.html"
   }
 ]
