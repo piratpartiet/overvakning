@@ -6,7 +6,8 @@
     {"title": "Positionering av personer", "icon": "fa-map-marker"},
     {"title": "Kultur", "icon": "fa-book"},
     {"title": "Ekonomi/handel", "icon": "fa-money"},
-    {"title": "Kommunikation", "icon": "fa-phone"}
+    {"title": "Kommunikation", "icon": "fa-phone"},
+    {"title": "Demokrati", "icon": "fa-thumbs-o-up"}
   ],
   "tech": [
     {
@@ -93,12 +94,12 @@
     {
       "category": "Kommunikation",
       "title": "PRISM, datalagring",
-      "sources": [""]
+      "sources": []
     },
     {
       "category": "Kommunikation",
       "title": "Aktiv signalspaning / hacking",
-      "sources": [""]
+      "sources": []
     },
     {
       "category": "Kommunikation",
@@ -128,12 +129,7 @@
     {
       "category": "Kommunikation",
       "title": "Sociogram",
-      "sources": [""]
-    },
-    {
-      "category": "Kommunikation",
-      "title": "TOR, i2p",
-      "sources": [""]
+      "sources": []
     },
     {
       "category": "Kultur",
@@ -143,7 +139,7 @@
     {
       "category": "Kultur",
       "title": "Bibliotekshistorik kan begäras ut i USA",
-      "sources": [""]
+      "sources": []
     },
     {
       "category": "Ekonomi/handel",
@@ -166,9 +162,14 @@
       "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html"]
     },
     {
-      "category": "Ekonomi/handel",
-      "title": "Bitcoin",
-      "sources": [""]
+      "category": "Demokrati",
+      "title": "Spioneri på valda representanter",
+      "sources": ["https://firstlook.org/theintercept/2014/03/05/congress-intelligence-community-whos-overseeing/", "http://www.huffingtonpost.com/2013/10/27/nsa-angela-merkel_n_4168476.html"]
+    },
+    {
+      "category": "Demokrati",
+      "title": "E-röstning",
+      "sources": ["https://en.wikipedia.org/wiki/Electronic_voting#Documented_problems"]
     }
   ]
 }
