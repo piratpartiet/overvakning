@@ -94,12 +94,12 @@
     {
       "category": "Kommunikation",
       "title": "PRISM, datalagring",
-      "sources": []
+      "sources": ["https://en.wikipedia.org/wiki/PRISM", "https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
       "category": "Kommunikation",
       "title": "Aktiv signalspaning / hacking",
-      "sources": []
+      "sources": ["http://www.svt.se/ug/fra-hackar-datorer"]
     },
     {
       "category": "Kommunikation",
@@ -129,7 +129,7 @@
     {
       "category": "Kommunikation",
       "title": "Sociogram",
-      "sources": []
+      "sources": ["https://en.wikipedia.org/wiki/Sociogram"]
     },
     {
       "category": "Kultur",
@@ -139,7 +139,7 @@
     {
       "category": "Kultur",
       "title": "Bibliotekshistorik kan begäras ut i USA",
-      "sources": []
+      "sources": ["http://en.wikipedia.org/wiki/Patriot_Act"]
     },
     {
       "category": "Ekonomi/handel",
