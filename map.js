@@ -20,6 +20,10 @@ $(document).ready(function () {
     },
 
     function(cb){
+      $.get("maplinks.json", function (json) { data.maplinks = json; cb (); }, "json");
+    },
+
+    function(cb){
       $.get("country-rankings.csv", function (regiondata) {
         data.regiondata = {};
         data.categories = {};
@@ -173,6 +177,14 @@ $(document).ready(function () {
       }
 
       addCategories(data.categories);
+
+      data.maplinks.map(function (item) {
+        var html = $("<div><a></a></div>");
+        var lnk = html.find("a");
+        lnk.html(item.title);
+        lnk.attr({href: item.source});
+        $("#mapcontrols").append(html);
+      });
 
       cb();
 
