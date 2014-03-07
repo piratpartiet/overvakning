@@ -113,6 +113,11 @@
     },
     {
       "category": "Kommunikation",
+      "title": "Skype",
+      "sources": ["http://computersweden.idg.se/2.2683/1.498024/inbyggd-avlyssning-i-kinesiska-skype"]
+    },
+    {
+      "category": "Kommunikation",
       "title": "Facebook",
       "sources": ["http://www.itproportal.com/2010/11/30/facebooks-button-tracking-you/"]
     },
