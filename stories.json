@@ -78,7 +78,8 @@
     },
     {
       "timeline": "World", "time": "2003", "title": "Golden Shield: Operativ",
-      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' blir fullt operativ och censurerar och övervakar Internet inom landets gränser. C.a. 30000 till 50000 poliser jobbar idag i Golden Shield-projektet. Golden Shield kan idag blocka IP-adresser, blocka eller omdirrigera domännamn, filtrera webadresser, filtrera IP-paket, och stoppa anslutningar"
+      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' blir fullt operativ och censurerar och övervakar Internet inom landets gränser. C.a. 30000 till 50000 poliser jobbar idag i Golden Shield-projektet. Golden Shield kan idag blocka IP-adresser, blocka eller omdirrigera domännamn, filtrera webadresser, filtrera IP-paket, och stoppa anslutningar",
+      "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
       "timeline": "World", "time": "2002", "title": "Target, graviditet och statistik", "minor": true,
@@ -102,7 +103,8 @@
     },
     {
       "timeline": "World", "time": "1998", "title": "Golden Shield: Projektstart",
-      "content": "Kina startar sitt nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China'. Målet är i första hand en allomfattande censur och övervakning av Internet inom landets gränser, och i andra hand att integrera alla typer av övervakning (internet, kameror, ansiktsigenkänning, smartcards, kreditkort etc) i ett verktyg."
+      "content": "Kina startar sitt nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China'. Målet är i första hand en allomfattande censur och övervakning av Internet inom landets gränser, och i andra hand att integrera alla typer av övervakning (internet, kameror, ansiktsigenkänning, smartcards, kreditkort etc) i ett verktyg.",
+      "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
       "timeline": "World", "time": "1998", "title": "SORM-2",
@@ -151,7 +153,8 @@
     },
     {
       "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true,
-      "content": "Forskning inom ansiktsigenkänning påbörjas av Woody Bledsoe, Stanford"
+      "content": "Forskning inom ansiktsigenkänning påbörjas av Woody Bledsoe, Stanford",
+      "sources": ["https://en.wikipedia.org/wiki/Facial_recognition_system#History"]
     },
     {
       "timeline": "World", "time": "1964", "title": "UKUSA: Echelon",
@@ -194,7 +197,7 @@
     {
       "timeline": "Tech", "time": "1942", "title": "Kameraövervakning",
       "content": "Det första kameraövervakningssystemet installeras i Tyskland för att övervaka starten av V-II-raketer",
-      "cource": "https://en.wikipedia.org/wiki/Cctv#History"
+      "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
       "timeline": "SE",
