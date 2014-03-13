@@ -1,6 +1,6 @@
 var map, layer;
 
-var state = {category: "Privacy International 2007/Total"};
+var state = {category: "Privacy International 2007/Totalt"};
 
 function padDigits(number, digits) {
   return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;
@@ -156,7 +156,23 @@ $(document).ready(function () {
           if (category == "Source") continue;
           var categorypath = path.concat([category]);
           var categoryslug = $.slugify(categorypath);
-          if (Object.keys(categories[category]).length > 0) {
+          var subcategories = Object.keys(categories[category]);
+          if (subcategories.length == 0 || (subcategories.length == 1 && subcategories[0] == 'Source')) {
+            var choice = $("<div><input type='radio' name='category' id='" + categoryslug + "' value='" + categorypath.join("/") + "'><label for='" + categoryslug + "'>" + category + "</label> </div>");
+            var src = getByCategory(data.regiondata.All, categorypath.concat(["Source"]).join("/")).value;
+            if (src) {
+              link = $("<a><i class='fa fa-external-link'></i></a>");
+              link.attr({href: src});
+              choice.append(link);
+            }
+            choice.find("input").change(function () {
+              if (!$(this).is(':checked')) return;
+              state.category = $(this).val();
+              vector_layer.redraw();
+            });
+            parent.append(choice);
+
+          } else {
             var link;
             var src = getByCategory(data.regiondata.All, categorypath.concat(["Source"]).join("/")).value;
             if (src) {
@@ -164,14 +180,6 @@ $(document).ready(function () {
               link.attr({href: src});
             }
             addCategories(categories[category], addGroup(groups, categoryslug, category, link), categorypath);
-          } else {
-            var choice = $("<div><input type='radio' name='category' id='" + categoryslug + "' value='" + categorypath.join("/") + "'><label for='" + categoryslug + "'>" + category + "</label></div>");
-            choice.find("input").change(function () {
-              if (!$(this).is(':checked')) return;
-              state.category = $(this).val();
-              vector_layer.redraw();
-            });
-            parent.append(choice);
           }
         }
       }
