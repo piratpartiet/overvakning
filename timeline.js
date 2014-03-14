@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  $.get("stories.json", function (data) {
+  $.get("data/stories.json", function (data) {
     var timelines = {};
     var idx = 0;
     data.timelines.map(function (timeline) {

@@ -2,7 +2,7 @@ $(document).ready(function () {
 
   async.series([
     function(cb){
-      $.get("tech.json", function (json) { data.tech = json; cb (); }, "json");
+      $.get("data/tech.json", function (json) { data.tech = json; cb (); }, "json");
     },
 
     function(cb){

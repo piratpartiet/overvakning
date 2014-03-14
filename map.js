@@ -16,15 +16,15 @@ $(document).ready(function () {
 
   async.series([
     function(cb){
-      $.get("world.geojson", function (geojson) { data.worldmap = geojson; cb (); }, "json");
+      $.get("data/world.geojson", function (geojson) { data.worldmap = geojson; cb (); }, "json");
     },
 
     function(cb){
-      $.get("maplinks.json", function (json) { data.maplinks = json; cb (); }, "json");
+      $.get("data/maplinks.json", function (json) { data.maplinks = json; cb (); }, "json");
     },
 
     function(cb){
-      $.get("country-rankings.csv", function (regiondata) {
+      $.get("data/country-rankings.csv", function (regiondata) {
         data.regiondata = {};
         data.categories = {};
         $.csv.toObjects(regiondata).map(function (info) {
