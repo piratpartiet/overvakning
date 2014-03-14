@@ -20,7 +20,7 @@ body {
   box-shadow: 0 0 @shadowwidth @shadowwidth @color-shadow;
 }
 
-.template {
+.template, .more {
   display: none;
 }
 
@@ -156,9 +156,6 @@ body {
         color: inherit;
         margin-left: 5pt;
         margin-top: 2pt;
-      }
-      .more {
-        display: none;
       }
     }
 
@@ -316,8 +313,8 @@ body {
     border-color: black !important;
     font-size: 10pt !important;
   }
-  .stories .story .info .more {
-    display: block;
+  .more {
+    display: block !important;
   }
   .stories .story,
   .stories .story.minor {

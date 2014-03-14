@@ -36,7 +36,32 @@ $(document).ready(function () {
           lnk.attr({href: source});
           html.append(lnk);
         });
- 
+        if (item.content) {
+          var more = $("<div class='more'>")
+          more.append(item.content);
+          html.append(more);
+        } 
+
+        (function (html) {
+          var timeout;
+          html.mouseenter(function () {
+            if (timeout) clearTimeout(timeout);
+            timeout = setTimeout(function () {
+              timeout = undefined;
+              html.addClass("expanded");
+              html.find(".more").slideDown();
+            }, 500);
+          });
+          html.mouseleave(function () {
+            if (timeout) clearTimeout(timeout);
+            timeout = setTimeout(function () {
+              timeout = undefined;
+              html.removeClass("expanded");
+              html.find(".more").slideUp();
+            }, 500);
+          });
+        })(html);
+
         lst.append(html);
       }
     }

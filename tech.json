@@ -18,16 +18,18 @@
     {
       "category": "Ljud- och bildövervakning",
       "title": "Omöjligt att hindra infektion/fjärrmanövrering av telefoner",
+      "content": "Även om man kan installera ett nytt operativsystem på sin telefon, som man är säker på inte innehåller några säkerhetshål, så kan telefonbolag och myndigheter ändå infektera den med spionprogrammvara, eftersom telefoner innehåller en extra 'gömd' processorer, som kan skriva till allt minne. Denna extra processor används för att kontrollera GSM-modulen (radion) i telefonen, och kör ett eget operativsystem som användaren inte kan byta, men som kan uppgraderas via telenätet (så kallade OTA-updateringar).",
       "sources": ["http://www.osnews.com/story/27416/The_second_operating_system_hiding_in_every_mobile_phone"]
     },
     {
       "category": "Ljud- och bildövervakning",
-      "title": "Övervakningskameror (både med tillstånd och utan)",
+      "title": "Övervakningskameror",
       "sources": ["https://en.wikipedia.org/wiki/Surveillance_camera"]
     },
     {
       "category": "Ljud- och bildövervakning",
       "title": "Övervakningskameror 'läcker'",
+      "content": "Datasäkerhet är svårt, speciellt för de som inte har det som yrke. Övervakningskameror sätts upp av allt fler utan specialistkompetens på datasäkerhet, och många bilder och videoströmmar är mer eller mindre öppna för hela världen.",
       "sources": ["http://www.dagbladet.no/2013/10/02/nyheter/nullctrl/innenriks/datasikkerhet/28551640/"]
     },
     {
@@ -68,7 +70,8 @@
     },
     {
       "category": "Hem",
-      "title": "Smart Meters för el",
+      "title": "Smarta elmätare",
+      "content": "Så kallade 'Smarta elmätare' mäter elförbrukningen ner på sekundnivå och skickar informationen till elbolaget. Med så noggranna användningsdata kan man dra korekta slutsatser om vilka maskiner som använts när och till vad i hemmet. Detta kan t.ex. visa på om någon varit hemma en viss tid, sett ett vist TV-program osv.",
       "sources": ["http://skeptics.stackexchange.com/questions/5470/are-electronic-power-consumption-smart-meters-an-invasion-of-privacy#5485"]
     },
     {
@@ -89,6 +92,7 @@
     {
       "category": "Positionering av personer",
       "title": "Övervakningskameror med biometri",
+      "content": "Genom att använda ansikts- eller gångstilsigenkänning kan personer följas från kamera till kamera och deras väg plottas in via kamerornas position.",
       "sources": ["http://www.securityworldnews.com/2010/11/16/what-is-biometric-security-surveillance/"]
     },
     {
@@ -104,6 +108,7 @@
     {
       "category": "Kommunikation",
       "title": "Underminerande av websidekryptering",
+      "content": "För att säkerställa identiteten till ägaren av en websida används ett system med en kedja av kryptografiska certifikat, där varje ceryifikat i kedjan signerat nästa. Överst i kedjan återfinns webläsartillverkaren. Om någon i kedjan börjar utfärda felaktiga certifikat, t.ex. ett som påstår att övervakningsorganet NSA är banken Nordea, så finns det inget sätt för dig som användare att upptäcka att websidan du ser på kommer från NSAs server och inte Nordeas.",
       "sources": ["https://freedom-to-tinker.com/blog/felten/mozilla-debates-whether-trust-chinese-ca/"]
     },
     {
