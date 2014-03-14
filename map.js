@@ -173,7 +173,7 @@ $(document).ready(function () {
             parent.append(choice);
 
           } else {
-            var link;
+            var link = undefined;
             var src = getByCategory(data.regiondata.All, categorypath.concat(["Source"]).join("/")).value;
             if (src) {
               link = $("<a class='pull-right'><i class='fa fa-external-link'></i></a>");
