@@ -80,6 +80,11 @@
       "sources": ["http://sverigesradio.se/sida/artikel.aspx?programid=83&amp;artikel=377259"]
     },
     {
+      "category": "Hem",
+      "title": "Registrering av hyresgäster",
+      "sources": ["http://www.fastighetssverige.se/artikel/hyresgaster-registreras-over-hela-landet-12305/"]
+    },
+    {
       "category": "Positionering av personer",
       "title": "Mobiltelefoner med GPS",
       "sources": ["https://en.wikipedia.org/wiki/Mobile_phone_tracking#Handset-based"]
