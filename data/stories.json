@@ -352,6 +352,11 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
+      "timeline": "EU", "time": "1892", "title": "Fingeravtryck: Bottsregister",
+      "content": "Den argentinske polischefen Juan Vucetich skapade den första byrån som registrerade fingeravtryck, år 1892. Sju år sedan, 1897, etablerades en motsvarande byrå i Calcutta, Indien, efter att regeringen fattat ett beslut om att börja registrera fingeravtryck i syfte att organisera brottssregistret.",
+      "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
+    },
+    {
       "timeline": "Tech", "time": "1888", "title": "Holleriths tabulator",
       "content": "Under 1800-talets 8e decennium hade det Amerikanska folkräkningsinstitutet så mycket data om befolkningen att de inte kunde hantera mängden. Herman Hollerith uppfann då en hålkortsbaserad räknemaskin som lösning på problemet.",
       "sources": ["https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html"]
