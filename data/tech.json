@@ -181,6 +181,7 @@
     {
       "category": "Kultur",
       "title": "Bibliotekshistorik kan begäras ut i USA",
+      "content": "I USA kan myndigheterna enligt Patriot Act begära ut lånehistorik från bibliotek i jakten på terrorister.",
       "sources": ["http://en.wikipedia.org/wiki/Patriot_Act"]
     },
     {
@@ -192,6 +193,7 @@
     {
       "category": "Ekonomi/handel",
       "title": "SMS-betalningar kräver registrering",
+      "content": "Enligt betaltjänstlagen får endast telefoner där ägaren är registrerad med personnummer användas för köp av varor och tjänster, till exempel biljetter i kollektivtrafiken. Tillsammans med de elektroniska biljettsystemen för vanliga biljetter, och avsaknaden på många håll av möjlighet att köpa biljetter kontant, gör det det väldigt svårt att resa kollektivt utan att lämna elektroniska spår både hos trafikbolagen och myndigheterna.",
       "sources": ["http://www.mobil.se/business/sms-biljetter-bara-fr-n-registrerade-kort"]
     },
     {
@@ -202,16 +204,19 @@
     {
       "category": "Ekonomi/handel",
       "title": "'Big Data' statistik och slutsatser",
+      "content": "Med stora mänder information och statistik är det ofta möjligt att dra avancerade slutsatser om en person. Till exempel har matvarukedjan Target i USA kunnat ta reda på om en kund är gravid, bara utifrån ändrade köpmönster.",
       "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html"]
     },
     {
       "category": "Demokrati",
       "title": "Spioneri på valda representanter",
+      "content": "Spionorganisationerna övervakar inte bara vanliga medborgare, utan även valda representanter, både utomlands, men mer problematiskt, i det egna landet. I USA har CIA övervakat den arbetsgrupp inom amerikanska kongressen som var satt att kontrollera CIAs arbete.",
       "sources": ["https://firstlook.org/theintercept/2014/03/05/congress-intelligence-community-whos-overseeing/", "http://www.huffingtonpost.com/2013/10/27/nsa-angela-merkel_n_4168476.html"]
     },
     {
       "category": "Demokrati",
       "title": "E-röstning",
+      "content": "Elektroniska val gör det närmast omöjligt att garantera att en röst räknats korekt och inte manipulerats. Maskinerna som används är komplexa och använder många standardprogrammvaror. Röstmanipulerande kod kan införas i vilken som helst av dessa programmvaror, och är närmast omöjlig att hitta för en expert. Som vanlig röstande är det inte möjligt att avgöra röstmaskinens funktionalitet.",
       "sources": ["https://en.wikipedia.org/wiki/Electronic_voting#Documented_problems"]
     }
   ]
