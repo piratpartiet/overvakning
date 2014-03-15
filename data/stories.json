@@ -195,6 +195,11 @@
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
+      "timeline": "World", "time": "1943", "title": "IBM och registreringen av fångar",
+      "content": "<p>IBM vidareutvecklade tekniken för Holleriths hålkortsmaskiner och blev underleverantörer till amerikanska fångläger och fängelser. Under WW2, när USA låg i krig med Japan, användes registreringsmetoden till exempel.</p><p>Att IBM var leverantörer av liknande teknik till naziregimen var en källa till kontrovers för IBM när regimen föll.</p>",
+      "sources": ["https://en.wikipedia.org/wiki/IBM_during_World_War_II"]
+    },
+    {
       "timeline": "Tech", "time": "1942", "title": "Kameraövervakning",
       "content": "Det första kameraövervakningssystemet installeras i Tyskland för att övervaka starten av V-II-raketer",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
@@ -296,11 +301,6 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "World", "time": "193?", "title": "Hålkort",
-      "content": "USA och Tyskland använder Hollerith:s hålkortsmaskiner från IBM för att registrera fångar i internerings- och utrotningsläger",
-      "sources": ["https://en.wikipedia.org/wiki/IBM_during_World_War_II"]
-    },
-    {
       "timeline": "EU", "time": "1930", "title": "Judarnas kommer in i bilden",
       "content": "En ökad ström med judainvandring i Europa. I Tyskland så började man att kontrollera vilka som var judar genom att säga att alla judiska pass var ogiltiga, för att de sedan fick ansöka om ett nytt pass för att sen sätta ett rött J på deras pass. Det gjorde att i början och under WW2 var det omöjligt för judar att röra sig över vissa gränser.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
@@ -318,7 +318,7 @@
     {
       "timeline": "Tech", "time": "1920", "title": "ENIGMA, den första krypteringsmaskinen.",
       "content":  "<p>Arthur Scherbius, var en tysk elektroingenjör, som är känd som fadern till chiffermaskinen ENIGMA. Den här maskonen producerades från första hälften av 1920-talet. Mest känt är Nazitysklands användning av maskinen, före och under andra världskriget, då den antogs av tyska flottan och armén där den modifierades. Wehrmacht Enigma är den tyska modellen, som oftast avses i sammanhanget. En stor anledning till att maskinen uppmärksammats beror på att de allierade lyckades dechiffrera en stor mängd information som krypterats med maskinen.</p><p>Den sekretssbelagda informationen som de lyckades komma över på detta sättet var en viktig del i alliansens framgångar.</p>",
-      "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
+      "sources": ["https://sv.wikipedia.org/wiki/Kryptering", "https://sv.wikipedia.org/wiki/Arthur_Scherbius", "https://sv.wikipedia.org/wiki/Enigma_%28krypteringsmaskin%29", "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
       "timeline": "SE", "time": "1918", "title": "Övervakning av utlänningar",
