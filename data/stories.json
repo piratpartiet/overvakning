@@ -316,8 +316,8 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "Tech", "time": "1920", "title": "Kryptering",
-      "content":  "Under WW1 föddes krypteringen. Arthur Scherius var den som uppfann första krypteringsmaskinen. 1920 kom hans maskin i en bättre version än den första som militären började köpa in då inställningarna hade mångdubblats. Man började då att uppfinna liknande maskiner i bland annat Polen för att ta reda på vad militären höll på med.",
+      "timeline": "Tech", "time": "1920", "title": "ENIGMA, den första krypteringsmaskinen.",
+      "content":  "<p>Arthur Scherbius, var en tysk elektroingenjör, som är känd som fadern till chiffermaskinen ENIGMA. Den här maskonen producerades från första hälften av 1920-talet. Mest känt är Nazitysklands användning av maskinen, före och under andra världskriget, då den antogs av tyska flottan och armén där den modifierades. Wehrmacht Enigma är den tyska modellen, som oftast avses i sammanhanget. En stor anledning till att maskinen uppmärksammats beror på att de allierade lyckades dechiffrera en stor mängd information som krypterats med maskinen.</p><p>Den sekretssbelagda informationen som de lyckades komma över på detta sättet var en viktig del i alliansens framgångar.</p>",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
@@ -357,13 +357,13 @@
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
-      "timeline": "Tech", "time": "1888", "title": "Hollerith tabulator",
-      "content": "Herman Hollerith uppfinner en hålkortsbaserad räknemaskin för den amerikanska folkräkningen",
+      "timeline": "Tech", "time": "1888", "title": "Holleriths tabulator",
+      "content": "Under 1800-talets 8e decennium hade det Amerikanska folkräkningsinstitutet så mycket data om befolkningen att de inte kunde hantera mängden. Herman Hollerith uppfann då en hålkortsbaserad räknemaskin som lösning på problemet.",
       "sources": ["https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html"]
     },
     {
-      "timeline": "World", "time": "1860", "title": "Signalspaning föds",
-      "content":  "1860: Då kom radiotelegrafik som gav signalspaning sitt stora genombrott. Hade stor inverkan i Amerika vid deras inbördeskrig.",
+      "timeline": "World", "time": "1860", "title": "Signalspaningens födelse",
+      "content":  "Radiotelegrafin kom till, vilket möjliggjorde signalspaningens genombrott. Den nya tekniken hade stor inverkan i Nordamerika under inbördeskriget.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
 
