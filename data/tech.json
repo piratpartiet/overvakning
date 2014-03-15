@@ -145,31 +145,37 @@
     {
       "category": "Kommunikation",
       "title": "Skype",
+      "content": "Den version av internettelefonprogrammvaran Skype som erbjuds i Kina innehåller funktioner för både politisk censur av ord, och loggning av samtal med 'känsligt' innehåll.",
       "sources": ["http://computersweden.idg.se/2.2683/1.498024/inbyggd-avlyssning-i-kinesiska-skype"]
     },
     {
       "category": "Kommunikation",
       "title": "Facebook",
+      "content": "Facebook tillhandahåller knappar till websidebyggare för att 'gilla' och 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Facebooks servrar, och de kan se och lagra vilken sida som besökts och koppla det till besökarens facebookanvändare, även om besökaren inte tryckt på någon av knapparna.",
       "sources": ["http://www.itproportal.com/2010/11/30/facebooks-button-tracking-you/"]
     },
     {
       "category": "Kommunikation",
       "title": "Twitter",
+      "content": "Twitter tillhandahåller knappar till websidebyggare för att 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Twitters servrar, och de kan se och lagra vilken sida som besökts och koppla det till besökarens twitterkonto, även om besökaren inte tryckt på någon av knapparna.",
       "sources": ["http://nakedsecurity.sophos.com/2013/12/11/how-twitter-tracks-the-websites-you-visit-and-how-to-stop-it/"]
     },
     {
       "category": "Kommunikation",
       "title": "Google",
+      "content": "Google lagrar söktermer och kopplar dessa till användarens webbrowser och IP-nummer. Söktermer skickas också till websidorna som användaren väljer att besöka. All den informationen kan senare komma att lämnas ut till myndigheter, eller säljas till reklamföretag.",
       "sources": ["http://donttrack.us"]
     },
     {
       "category": "Kommunikation",
       "title": "Sociogram",
+      "content": "Sociogram är grafiska beskrivningar av människors relationer och interaktioner. De kan användas för att dra slutsatser om en persons åsikter, intressen eller vanor och ger myndigheter och företag möjligheten att 'se helheten'. Sociogram skapas ofta från stora databaser över var för sig obetydliga händelser.",
       "sources": ["https://en.wikipedia.org/wiki/Sociogram"]
     },
     {
       "category": "Kultur",
       "title": "Läsplattor kan fjärrstyras av förlagen och e-böcker har raderats utan orsak",
+      "content": "För att förhindra piratkopiering har bokbranschen givit sig själva fullständig kontroll över programmvaran för läsning av elektroniska böcker. Man har både ett centralt register över allas köp, och möjlighet att fjärrstyra läsplattor och radera, ändra eller lägga till titlar eller funktioner.",
       "sources": ["http://blogg.dn.se/teknikbloggen/2012/10/25/amazon-raderade-kundens-alla-e-bocker/"]
     },
     {
@@ -179,7 +185,8 @@
     },
     {
       "category": "Ekonomi/handel",
-      "title": "VISA och Mastercard vägrar vissa typer av laglig handel (sexhjälpmedel osv).",
+      "title": "Betalningsbolagen hindrar betalningar.",
+      "content": "Företagen VISA och Mastercard har båda vägrat att hantera betalningar för webshoppar och andra organisationer som bedriver laglig verksamhet, men som enligt dem inte uppfyller deras krav på etik eller moral. Eftersom dessa två företag i praktiken har monopol på online-betalningar betyder det att dessa företag och organisationer inte kan ta emot betalningar över huvud taget. Exempel är butiker som säljer sexhjälpmedel, och visselblåsarsiten Wikileaks.",
       "sources": ["http://www.idg.se/2.1085/1.518192/kortbranschens-moralregler-ska-granskas"]
     },
     {
