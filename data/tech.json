@@ -13,6 +13,7 @@
     {
       "category": "Ljud- och bildövervakning",
       "title": "Möjligt att slå på webkameror via nätet",
+      "content": "Datorer som infekterats med ett virus, eller som någon hackat in i kan fjärrstyras och därmed även alla kringenheter som är kopplade, t.ex. webkameror och microfoner. Data som samlas in på det viset kan sedan skickas över till den som skapat viruset. Fjärrstyrningen kan ske antingen direkt av en person, eller följa ett förprogrammerat eller schemalagt mönster.",
       "sources": ["http://news.cnet.com/8301-30977_3-10457077-10347072.html", "http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/"]
     },
     {
@@ -35,32 +36,38 @@
     {
       "category": "Ljud- och bildövervakning",
       "title": "Mer övervakning ger inte färre brott",
+      "content": "Kameraövervakning ger inte färre brott. Ett exempel är Oslo Centrum där man de sista åren monterat upp väldigt många kameror, men där brottsstatistiken inte ändrats.",
       "sources": ["http://www.nrk.no/ostlandssendingen/_-overvakning-gir-ikke-resultater-1.7869062"]
     },
 
     {
       "category": "Transport",
       "title": "Trängseltullar",
+      "content": "Automatiska betalningsstationer för trängselskatt registrerar och lagrar registreringsnumrena för de bilar som passerar. Datat behövs för faktureringen, men kan också missbrukas till andra ändamål. När data från ett stort antal stationer sammanställs kan en detaljerad bild av någons resmönster skapas.",
       "sources": ["http://www.stockholmsfria.se/artikel/18993"]
     },
     {
       "category": "Transport",
       "title": "Andra registreringsskyltsläsande kameror",
+      "content": "Kameror för att läsa av registreringsskyltar kan användas av många olika operatörer utöver trängseltullar. Till exempel kan mobila kameror användas för att hitta bilar som belånats eller skall förverkas av kronofogden. Den som hanterar sådana mobila läsare kan över tid samla in en stor mängd information om människors positioner.",
       "sources": ["http://betaboston.com/news/2014/03/05/a-vast-hidden-surveillance-network-runs-across-america-powered-by-the-repo-industry/"]
     },
     {
       "category": "Transport",
       "title": "Kollektivtrafiksbiljetter",
+      "content": "Moderna biljettsystem i kollektivtrafiken baseras på elektroniska ID-kort som avläses vid varje resa. Kortets identitetsnummer, tid och fordonets identitet lagras både för att utföra själva betalningen men också för att skapa detaljerad statistik över vilka linjer och övergångar mellan linjer som används och hur mycket. Passagerare uppmanas också ofta att registrera sitt kort för att kunna återfå det om det skulle tappas. Registreringen innebär att kortets identitet knyts mot användarens personnummer eller namn och adress. Tillsammans ger det transportbolaget en väldigt detaljerad bild över en persons resmönster.",
       "sources": ["https://www.privacyinternational.org/blog/oyster-octopus-and-metro-cards-what-happens-to-our-data"]
     },
     {
       "category": "Transport",
       "title": "'Svarta lådor' i bilar",
+      "content": "I USA arbetar miljögrupper för att bilar skall utrustas med spårsändare för att kunna driva in skatter baserade på körd distans och område. Här i Sverige varnar Datainspektionen för att ett spårsystem EU föreslår att nya bilar från och med hösten 2015 kommer hota den personliga integriteten. Systemet skall automatiskt larma om bilens position vid alvarliga olyckor.",
       "sources": ["http://www.alltomvetenskap.se/nyheter/svarta-ladan-bilen", "http://nyadagbladet.se/utrikes/svarta-lador-ska-driva-in-skatt-genom-att-spara-bilar/", "http://www.corren.se/sverige/artikel.aspx?articleId=6786707"]
     },
     {
       "category": "Transport",
       "title": "ID-kontroll på tåg",
+      "content": "Flera tågbolag har sedan några år börjat med personliga biljetter och ID-tvång ombord med hänvisning till att vilja hindra en svart marknad för biljetter. Tågbolagen får därmed ett register på vem som rest vart och när.",
       "sources": ["http://www.svd.se/opinion/ledarsidan/ursparad-jakt-pa-biljetter_3458559.svd"]
     },
     {
