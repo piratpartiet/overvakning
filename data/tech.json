@@ -73,6 +73,7 @@
     {
       "category": "Transport",
       "title": "REVA",
+      "content": "REVA är ett projekt inom polisen för att finna och utvisa människor som befinner sig i Sverige utan uppehållstillstånd. Bland annat har projektet inneburit att polisen använt misstankar om plankning i kollektivtrafiken som förevändning att ID-kontrollera alla med utom-nordiskt utseende.",
       "sources": ["http://www.dn.se/kultur-noje/basta-beatrice-ask/"]
     },
     {
@@ -84,37 +85,50 @@
     {
       "category": "Hem",
       "title": "Kameraövervakning i trapphus i flerbostadshus",
-      "sources": ["http://sverigesradio.se/sida/artikel.aspx?programid=83&amp;artikel=377259"]
+      "content": "Kameraövervakning i trapphus i flerbostadshus innebär att hyresgästernas rörelser in och ut ur huset registreras och att värden därför får information om hyresgästens privatliv. Kameraövervakning har redan använts på flera håll, men bör enligt branschorganisationen Fastighetsägarna begränsas till när det är absolut nödvändigt för att förebygga skadegörelse.",
+      "sources": ["http://www.fastighetsagarna.se/kunskapsbanken/fastighetsforvaltning2/etik/kameraovervakning"]
+    },
+    {
+      "category": "Hem",
+      "title": "Elektroniska nycklar lämnar spår",
+      "content": "Elektroniska nyckelbrickor för ger bostadsbolagen detaljerade loggfiler över in- och ut-passeringar, både till hemmet och till olika faciliteter som till exempel tvättstuga och garage. Det finns önskemål från hyresvärdarnas sida om att få lov att använda den informationen för att t.ex. straffa hyresgäster som smutsar ner.",
+      "sources": ["http://www.datainspektionen.se/press/nyheter/2008/elektronisk-nyckel-far-inte-anvandas-for-att-spara-vem-som-smutsat-ner-i-tvattstugan/"]
     },
     {
       "category": "Hem",
       "title": "Registrering av hyresgäster",
+      "content": "Hyrsvärdar över hela Sverige har i strid med personuppgiftslagen registrerat både politiska åsikter, sjukdomstillstånd och brottsmisstankar/brottshistorik för boende i sina register. Registreringen har skett som löpande text i kommentarsfält vilket gör det svårt att överblicka exakt vad som registrerats och den totala omfattningen, även om man kunnat avgöra att registreringen i många fall varit omfattande.",
       "sources": ["http://www.fastighetssverige.se/artikel/hyresgaster-registreras-over-hela-landet-12305/"]
     },
     {
       "category": "Positionering av personer",
       "title": "Mobiltelefoner med GPS",
+      "content": "Mobiltelefoners position lagras kontinuerligt hos operatörerna och kan användas till övervakning av en persons rörelser, men också för att ta reda på vem han eller hon mött.",
       "sources": ["https://en.wikipedia.org/wiki/Mobile_phone_tracking#Handset-based"]
     },
     {
       "category": "Positionering av personer",
       "title": "Triangulering av mobiltelefoner",
+      "content": "Även positionen till äldre mobiltelefoner utan inbyggd GPS kan beräknas genom att mäta signalstyrkan vid minst tre basstationer. Denna typ av mätning är en nödvändig del av mobiltelefonnätets funktion, men positionen lagras också enligt EU-direktivet om datalagring.",
       "sources": ["https://en.wikipedia.org/wiki/Mobile_phone_tracking#Network-based"]
     },
     {
       "category": "Positionering av personer",
       "title": "Övervakningskameror med biometri",
+      "content": "Övervakningskameror med programmvara för att känna igen ansikten eller gångstilar kan användas för att följa en persons förflyttning genom en stad, från kamera till kamera.",
       "content": "Genom att använda ansikts- eller gångstilsigenkänning kan personer följas från kamera till kamera och deras väg plottas in via kamerornas position.",
       "sources": ["http://www.securityworldnews.com/2010/11/16/what-is-biometric-security-surveillance/"]
     },
     {
       "category": "Kommunikation",
       "title": "PRISM, datalagring",
+      "content": "All kommunikation lagras idag både lagligt och olagligt av olika aktörer. Inom EU lagras all metadata (vem som kommunicerat med vem, när och var) i två år. USA lagrar också all kommunikation de kan komma över inom sitt program PRISM.",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
       "category": "Kommunikation",
       "title": "Aktiv signalspaning / hacking",
+      "content": "Övervakningsorganisationer använder inte bara passiv avlyssning av kabeltrafiken, utan utvecklar och använder olika typer av virus och datainbrott för att skaffa sig tillgång till information redan innan den lämnar en användares dator. Detta kan användas för att ta sig runt olika skyddsmetoder som kryptering och anonymiseringsnätverk.",
       "sources": ["http://www.svt.se/ug/fra-hackar-datorer"]
     },
     {
