@@ -28,6 +28,8 @@ $(document).ready(function () {
         });
       }
       if (story.minor) elstory.addClass("minor");
+      if (story.revised) elstory.addClass("revised");
+      if (story.problematic) elstory.addClass("problematic");
 
       if (timeline.idx < data.timelines.length / 2) {
         elstory.addClass("left");
