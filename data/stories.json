@@ -87,8 +87,8 @@
       "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
-      "timeline": "World", "time": "2002", "title": "Target, graviditet och statistik", "minor": true,
-      "content": "Det amerikanska detaljhandelsföretaget Target bygger en statistisk modell som kan avgöra om en kund är gravid, och i vilken månad, enbart basserat på ändringar i köpmönster. De använder modellen för att skicka riktad reklam till blivande mödrar.",
+      "timeline": "World", "time": "2002", "title": "Target: Köpmönster", "minor": true, "revised": true,
+      "content": "Genom att analyser  förändringar i kunders köpmönster byggde det amerikanska detaljhandelsföretaget Target en statistisk modell. Modellen blev en metod för att  avgöra om en kund var gravid, och i så fall i vilken månad. De använde modellen för att skicka riktad reklam till blivande mödrar.",
       "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html", "http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/"]
     },
     {
