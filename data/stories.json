@@ -286,82 +286,82 @@
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Tyska regeringens kontrollbehov ökar", "minor": true,
-      "content":"Den tyska regeringen försökte även påverka vad som skrevs i andra länder. När en utländsk tidning skrev något negativt om Nazityskland, skickades en officiell protest till det aktuella landets regering. Protesten var oftast, mer eller mindre, hotfullt formulerad. Många utländska tidningar förbjöds i Tyskland och det blev också förbjudet att lyssna på utländsk radio.",
+      "timeline": "EU", "time": "1933", "title": "Tysk propaganda", "minor": true, "revised": true,
+      "content":"Den tyska regeringen försökte påverka vad som skrevs om Tyskland i andra länder genom att skicka oficiella protester till andra länders regeringar när tidningar i de länderna skrev negativt om Tyskland. Protesterna var oftast, mer eller mindre hotfullt formulerade. Många utländska tidningar förbjöds också i Tyskland och det blev förbjudet att lyssna på utländsk radio.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Tysklands regering tar allt fastare kontroll",
+      "timeline": "EU", "time": "1933", "title": "Tysklands censur ökar", "revised": true,
       "content": "Under 1933 tog regeringen allt fastare kontroll över den tyska radion och pressen. Hårda restriktioner infördes för vad som fick sändas och skrivas. Också musik-, teater- och filmproduktion kontrollerades av regimen.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "SE", "time": "1932", "title": "Polisens kontroll över nazister och kommunister",
-      "content": "Polisen hade kontroll över nazister och kommunister. I deras register fanns då omkring 100 000 personer..",
+      "timeline": "SE", "time": "1932", "title": "Åsiktsregistrering av nazister och kommunister", "minor": true, "revised": true,
+      "content": "Polisen åsiktsregistrerade nazister och kommunister. I registret fanns cirka 100 000 namn.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1930", "title": "Etnisk registrering",
+      "timeline": "EU", "time": "1930", "title": "Etnisk registrering", "revised": true,
       "content": "<p>Vid den här tiden ökar invandringen och utvandringen mellan  europeiska länder. I Tyskland började man att kontrollera vilka som var judar genom att deklarera att alla judiska pass var ogiltiga. Konsekvensen av den här  strategin blev att judarna var tvungna att ansöka om ett nytt pass. I detta pass markerade myndigheterna sedan ett rött j för att påvisa att innehavaren av passet hade judisk etnicitet.</p><p>Detta gjorde att det för judar, i början och under WW2, var omöjligt  att röra sig över vissa gränser.</p>",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "SE", "time": "1929", "title": "Hårdare kontroll av lumpendeltagare!", "minor": true,
-      "content": "Man började att registrera alla som skulle mönstra och göra lumpen. Under denna tid passade man på att ta deras fakta kring politiska åsikter, familjetillhörigheter etc. Militären fick tillstånd av regeringen att göra detta. Detta blev dock inte offentligt lagligt förrän 1969.",
+      "timeline": "SE", "time": "1929", "title": "Åsiktsregistrering av värnpliktiga", "minor": true, "revised": true,
+      "content": "Man började att registrera alla värnpliktiga, deras familjetillhörighet och politiska åsikter. Det blev dock inte offentligt att militären fått tillstånd att göra detta förrän 1969.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1921", "title": "Kommunister och nazister övervakades",
+      "timeline": "SE", "time": "1921", "title": "Kommunister och nazister övervakades", "revised": true,
       "content": "Man började att övervaka alla svenska politiker, utom stadsministern själv. UB fick 20 000 kr varje år för att spionera och marinens underrättelsetjänst fick mellan 5-10 000 kr för att hjälpa till. Dessutom sköts en okänd summa privata medel till.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1921", "title": "Kommunister avskedades",
+      "timeline": "SE", "time": "1921", "title": "Kommunister avskedades", "revised": true,
       "content": "Kommunister förbjöds att ha statlig tjänst, och kommunistiska militärer avskedades. Kommunister fick inte heller använda vapen när de gjorde lumpen.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "Tech", "time": "1920", "title": "ENIGMA, den första krypteringsmaskinen.",
+      "timeline": "Tech", "time": "1920", "title": "ENIGMA, den första krypteringsmaskinen.", "revised": true,
       "content":  "<p>Arthur Scherbius, var en tysk elektroingenjör, som är känd som fadern till chiffermaskinen ENIGMA. Den här maskonen producerades från första hälften av 1920-talet. Mest känt är Nazitysklands användning av maskinen, före och under andra världskriget, då den antogs av tyska flottan och armén där den modifierades. Wehrmacht Enigma är den tyska modellen, som oftast avses i sammanhanget. En stor anledning till att maskinen uppmärksammats beror på att de allierade lyckades dechiffrera en stor mängd information som krypterats med maskinen.</p><p>Den sekretssbelagda informationen som de lyckades komma över på detta sättet var en viktig del i alliansens framgångar.</p>",
       "sources": ["https://sv.wikipedia.org/wiki/Kryptering", "https://sv.wikipedia.org/wiki/Arthur_Scherbius", "https://sv.wikipedia.org/wiki/Enigma_%28krypteringsmaskin%29", "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1918", "title": "Övervakning av utlänningar",
+      "timeline": "SE", "time": "1918", "title": "Övervakning av utlänningar", "problematic": true,
       "content": "Polisen tog kontroll över utlänningar samt att krav från regering kom att skärpa övervakningen av kommunister och nazister.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1916", "title": "Hur den nyfunna tekniken har förstörde överaskningsmoment",
+      "timeline": "EU", "time": "1916", "title": "Hur den nyfunna tekniken har förstörde överaskningsmoment", "problematic": true,
       "content": "Använde sig britterna av att avlyssna tysk marintrafik och blev förvarnad om Skagerraksslaget. Britterna vann.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1914", "title": "Generalstabens första byrå",
+      "timeline": "SE", "time": "1914", "title": "Generalstabens första byrå", "revised": true,
       "content": "Idag kallad för SÄPO, var Sverige första polisstyrka vars huvudsyfte då var, men även idag är att arbeta med brott som hotar rikets säkerhet.",
       "sources": ["http://www.sakerhetspolisen.se/"]
     },
     {
-      "timeline": "EU", "time": "1914", "title": "Signalspaning: Utnyttjande i krig",
+      "timeline": "EU", "time": "1914", "title": "Signalspaning: Utnyttjande i krig", "revised": true,
       "content": "Under WW1 använde tyskarna signalspaning mot ryssarna och fick reda på deras planer inför slaget vid Tannenerg 1914, vilket ledde till att Tyskland segrade.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1892", "title": "Fingeravtryck: Bottsregister",
+      "timeline": "EU", "time": "1892", "title": "Fingeravtryck: Bottsregister", "revised": true,
       "content": "Den argentinske polischefen Juan Vucetich skapade den första byrån som registrerade fingeravtryck, år 1892. Sju år sedan, 1897, etablerades en motsvarande byrå i Calcutta, Indien, efter att regeringen fattat ett beslut om att börja registrera fingeravtryck i syfte att organisera brottssregistret.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
-      "timeline": "Tech", "time": "1888", "title": "Holleriths tabulator",
+      "timeline": "Tech", "time": "1888", "title": "Holleriths tabulator", "revised": true,
       "content": "Under 1800-talets 8e decennium hade det Amerikanska folkräkningsinstitutet så mycket data om befolkningen att de inte kunde hantera mängden. Herman Hollerith uppfann då en hålkortsbaserad räknemaskin som lösning på problemet.",
       "sources": ["https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html"]
     },
     {
-      "timeline": "Tech", "time": "1877", "title": "Fingeravtryck: Signering av kontrakt",
+      "timeline": "Tech", "time": "1877", "title": "Fingeravtryck: Signering av kontrakt", "revised": true,
       "content":  "1858 introducerade Sir William James Herschel fingeravtryckstagnin i Indien, och 1877 instiftade han fingeravtryckstagning som en metod att signera kontrakt. Detta för att förhindra bedrägeri och att försäkra sig om att kontrakt och avtal inte bröts.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
-      "timeline": "Tech", "time": "1863", "title": "Fingeravtryck är unika",
+      "timeline": "Tech", "time": "1863", "title": "Fingeravtryck är unika", "revised": true,
       "content":  "<p>Den franske kemisten Paul-Jean Coulier upptäckte att ånga från jod kan blotta dolda avtryck på papper. Detta följdes med att kirurgen Dr. Henry Faulds publicerade en artikel i den prestigefulla tidningen Nature. I den diskuterade han dugligheten i att registrera fingeravtryck och föreslog en metod där tryckbläck används.</p><p>Vid den här tiden erbjuder han sin teknik som en arbetsmetod till polisen i London, vilket de tackar nej till.</p><p>Faulds beskrev sin metod för Charles Darwin som i sin tur gav informationen till antropologen Francis Galton som därefter studerade ämnet i tio år och kom fram till att sannolikheten att två personer har samma fingeravtryck är 1 på 64 miljarder. I sin bok Finger Prints  uppmuntrade han till att metoden skulle användas av rättsväsendet.</p>",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
@@ -372,7 +372,7 @@
     },
 
     {
-      "timeline": "Tech", "time": "1823", "title": "Fingeravtryck: De första studierna",
+      "timeline": "Tech", "time": "1823", "title": "Fingeravtryck: De första studierna", "revised": true,
       "content": "Jan Evangelista Purkyně publicerade 1823 en avhandling där han diskuterade mönstret på nio olika fingeravtryck. Några år senare studerade anatomiexperten Georg von Meissner räfflorna på fingerspetsarna.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
