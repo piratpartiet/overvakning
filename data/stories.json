@@ -157,23 +157,23 @@
       "sources": ["https://sv.wikipedia.org/wiki/IB"]
     },
     {
-      "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true,
-      "content": "Forskning inom ansiktsigenkänning påbörjas av Woody Bledsoe, Stanford",
+      "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true, "revised": true,
+      "content": "Forskning inom ansiktsigenkänning påbörjas av matematikern Woody Bledsoe på University of Stanford i USA.",
       "sources": ["https://en.wikipedia.org/wiki/Facial_recognition_system#History"]
     },
     {
-      "timeline": "World", "time": "1964", "title": "UKUSA: Echelon",
-      "content": "Ett världsomspännande signalspaningssammarbete och -nät, kallat ECHELON grundas av Australien, Kanada, Nya Zealand, Storbritanien, och USA (Five Eyes).",
+      "timeline": "World", "time": "1964", "title": "UKUSA: Echelon", "revised": true,
+      "content": "Ett världsomspännande signalspanings- och nätsammarbete, kallat ECHELON grundas av Austarlien, Kanada, Nya Zealand, Storbritanien, och USA. Den här konstellationen kallas i vissa sammanhang för Five Eyes.",
       "sources": ["https://en.wikipedia.org/wiki/ECHELON"]
     },
     {
-      "timeline": "Tech", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning",
-      "content": "Spionsatelliter med en upplösning av 0.3m skjuts upp (CORONA)",
+      "timeline": "Tech", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning", "revised": true,
+      "content": "Under spionsattelitprogrammet CORONA skjuter USA upp satelliter runt jordens omloppsbana. Dessa satelliter tog helt analoga bilder som med en upplösning av 0.3m är bättre än de bilder som är tillgängliga idag genom google earth.",
       "sources": ["https://en.wikipedia.org/wiki/CORONA"]
     },
     {
-      "timeline": "Tech", "time": "1955-03-16", "title": "Spionsatteliter", "minor": true,
-      "content": "Amerikanska luftförsvaret USAF beställer den första spionsatelliten",
+      "timeline": "Tech", "time": "1955-03-16", "title": "Spionsatelliter", "minor": true, "revised": true,
+      "content": "Amerikanska luftförsvaret USAF beställer den första spionsatelliten.",
       "sources": ["https://en.wikipedia.org/wiki/Spy_satellites#History"]
     },
     {
