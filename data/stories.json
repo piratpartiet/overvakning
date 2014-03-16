@@ -177,11 +177,8 @@
       "sources": ["https://en.wikipedia.org/wiki/Mass_surveillance_in_East_Germany"]
     },
     {
-      "minor": true,
-      "timeline": "EU",
-      "time": "1946",
-      "title": "Övervakningskostnader",
-      "content": "Efter WW2 så kostade det 300 000 skr i engångskostnad om man ville spionera. Ett flyg att hyra kostade 100 000 skr. För att få en pilot i planet så kostade det 70 000 skr för rese och traktament kostnader. Sedan kostade det 24 000 i övrig kostnad (mat, boende etc.) Detta gav 400 spiontimmar.",
+      "timeline": "EU", "time": "1946", "title": "Övervakningskostnader", "minor": true, "problematic": true,
+      "content": "Efter WW2 kostade det 300 000kr för flygspaning/övervakning per tillfälle, fördelat på 100 000kr för hyra för flygplanet, 70 000kr i lön, rese- och traktamenteskostnader för en pilot, samt 24 000 övriga kostnader (mat, boende etc.). Det medgav ca. 400 spiontimmar per år.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false2"]
     },
     {
@@ -190,8 +187,8 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1945", "title": "Övervakning i Sverige fortsatte",
-      "content": " 1946, lyssnade man fortfarande av alla telefoner för potentiella hot. Dock kom man nu fram till att de hade för dåliga mottagare. Nu blev även säkerhetstjänsten helt permanent, dock skar man ned på antal anställda pga ekonomiska skäl och ett mindre behov av att behöva övervaka exakt allt hela tiden.",
+      "timeline": "SE", "time": "1945", "title": "Övervakning i Sverige efter kriget", "revised": true,
+      "content": " Efter andra världskrigets slut fortsatte1 man att avlyssna alla telefoner för potentiella hot och säkerhetstjänsten permanentades, dock med något mindre budget.  Efter en tid minskades avlyssningens omfattning på grund av tekniska problem.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
@@ -201,19 +198,17 @@
     },
     {
       "timeline": "Tech", "time": "1942", "title": "Kameraövervakning",
-      "content": "Det första kameraövervakningssystemet installeras i Tyskland för att övervaka starten av V-II-raketer",
+      "content": "Det första kameraövervakningssystemet installerades i Tyskland för att övervaka starten av V-II-raketer.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "SE",
-      "time": "1940-1970",
-      "title": "Svenska säkerhetstjänstens missbruk",
+      "timeline": "SE", "time": "1940-1970", "title": "Svenska säkerhetstjänstens missbruk",
       "content": "1940-1970 missbrukade säkerhetstjänsten sin makt och bevakade registrering, telefoner och all post. De stalkade specifikt vänsterrörelsen, Vietnamrörelser, högerextremistiska grupper och fredsgrupper för att de inte gillade deras ideologier. Man påstod att man övervakade för att identifiera säkerhetskriser genom att registrera medborgares politiska tillhörigheter som började före WW1 och fortsatte efter det. Vänstersocialisterna var finlandsflyktingarnas främsta vapendragare påstod man då. Övervakning av svenska socialister har varit en självklarhet av polisen sedan 1917.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1939-1944", "title": "Så många blev förföljda under Andra Världskriget",
-      "content":  "Hemlig polisiär säkerhetstjänst bildads pga hotet av ett nytt världskrig. Registrering av hela befolkningen och tillhörighet samt deras potentiella sammarbeten tillämpades. 200 000 brev i veckan blev granskade under denna tiden. 11 miljoner samtal blev avlyssnade under hela WW2 tiden. ",
+      "timeline": "SE", "time": "1939-1944", "title": "Omfattande övervakning", "revised": true,
+      "content":  "En hemlig polisiär säkerhetstjänst bildads för att hantera hotet av ett nytt världskrig, och man åsiktsregistrerade hela befolkningen samt eventuella sammarbeten och kontakter. Cirka 200 000 brev i veckan granskades, och totalt 11 miljoner samtal blev avlyssnade under hela WW2.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
