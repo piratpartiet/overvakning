@@ -47,6 +47,14 @@ function strMul(str, nr) {
   return res;
 }
 
+function scoreToColor(score) {
+  if (typeof(score) != "number") return "#999999";
+  var red = padDigits(Math.round(255 / 5 * (5 - score)).toString(16), 2)
+  var green = padDigits(Math.round(255 / 5 * score).toString(16), 2)
+  var blue = "00";
+  return "#" + red + green + blue;
+}
+
 function dataToTable(data) {
   var width = dataToTableWidth(data);
   var res = "<table>";
@@ -67,10 +75,13 @@ function dataToTable(data) {
       if (i < path.length - 1) {
         v = '';
       }
-      if (typeof(v) == "number") {
-        v = Math.round(v * 100) / 100;
+      vstr = v;
+      background = '';
+      if (typeof(vstr) == "number") {
+        vstr = Math.round(vstr * 100) / 100;
+        background = 'background: ' + scoreToColor(v);
       }
-      res += '<td class="value">' + v + '</td>';
+      res += '<td class="value" style="' + background + '">' + vstr + '</td>';
       res += '</tr>';
     }
   }
@@ -141,17 +152,11 @@ $(document).ready(function () {
         fillColor : "${getBlockColor}",
       },{context: {
         getBlockColor: function (feature) {
-          var score;
+          var score = undefined;
           try {
             score = getByCategory(data.regiondata[feature.data.ISO_2_CODE], state.category).value;
-            if (typeof(score) != "number") throw "not a number";
-          } catch(e) {
-            return "#999999";
-          }
-          var red = padDigits(Math.round(255 / 5 * (5 - score)).toString(16), 2)
-          var green = padDigits(Math.round(255 / 5 * score).toString(16), 2)
-          var blue = "00";
-          return "#" + red + green + blue;
+          } catch(e) {}
+          return scoreToColor(score);
         }
       }});
 
