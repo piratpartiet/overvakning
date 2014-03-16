@@ -22,23 +22,23 @@
       "sources": ["https://en.wikipedia.org/wiki/PRISM"]
     },
     {
-      "timeline": "SE", "time": "2013", "title": "SMS-betalningar", "minor": true,
-      "content": "<a href='https://lagen.nu/2010:751'>Betaltjänstlagen</a> tvingar leverantörer och användare av SMS-betalningstjänster att registrera användarnas identitet.",
+      "timeline": "SE", "time": "2013", "title": "SMS-betalningar", "minor": true, "revised": true,
+      "content": "<a href='https://lagen.nu/2010:751'>Betaltjänstlagen</a> tvingar leverantörer av SMS-betalningstjänster att upprätthålla ett register över de som använder tjänsten.",
       "sources": ["https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=5458787"]
     },
     {
-      "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering",
-      "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, <a href='https://lagen.nu/2003:389#K6R11'>implementeras i svensk rätt</a>.",
+      "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering", "revised": true,
+      "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, <a href='https://lagen.nu/2003:389#K6R11'>införs i svensk lagstiftning</a>.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet#Sverige"]
     },
     {
-      "timeline": "EU", "time": "2012", "title": "OS i London",
-      "content": "OS i London, en stad som är känd för att övervaka sin befolkning, som till och med hade en övervakningskamera som sin OS-maskot. Teknologi som ansiktsigenkänning och nummerplåts-läsare var något som man använde under hela OS. var även något som Englands polis var snabba att snappa upp för att själva använda för att lättare hitta kriminella. Detta gick på över en biljon dollar. Man sa att detta var den största mobila militära och säkerhetsinsatsen som pågått i England sedan andra världskriget.",
+      "timeline": "EU", "time": "2012", "title": "OS i London", "revised": true,
+      "content": "London, en stad som är känd för att övervaka sin befolkning, hade en övervakningskamera som sin OS-maskot. Teknologi som ansiktsigenkänning och nummerplåts-läsare var något som användes systematiskt under hela OS, metoder som Englands polis snabbt anammade för att lättare hitta kriminella. Man sa att insatsen var den största mobila militära och säkerhetsåtergärden som pågått i England sedan andra världskriget, vilket kostade över en biljon dollar att verkställa.",
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
-      "timeline": "World", "time": "2010-02", "title": "Kameraövervakning av gymnasieelever i deras hem", "minor": true,
-      "content": "Det kommer fram att två gymnasieskolor i USA spionerat på sina studenter med webkamerorna i de laptops som studenterna fått låna av skolan. Övervakningen skall ha skett även på fritiden, och i studenternas hem. Skolorna har även övervakat chattloggar och websidehistorik.",
+      "timeline": "World", "time": "2010-02", "title": "Kameraövervakning av highschoolelever", "minor": true, "revised": true,
+      "content": "Det uppdagades att två gymnasieskolor i USA spionerat på sina studenter med webkamerorna i de laptops som studenterna fått låna av skolan. Övervakningen skall ha skett även på fritiden, och i studenternas hem. Skolorna hade även övervakat chattloggar och websidehistorik.",
       "sources": ["http://en.wikipedia.org/wiki/Robbins_v._Lower_Merion_School_District"]
     },
     {
@@ -247,19 +247,19 @@
       "sources": ["https://en.wikipedia.org/wiki/Sociogram", "http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
     },
     {
-      "timeline": "EU", "time": "1934", "title": "Bokbål på oariska böcker", "revised": true,
-      "content": "Det tyska propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. Ett stort nätverk av propagandakontor upprättades också i hela landet. En av metoderna för att kontrollera landets kultur var att bränna 'otyska' böcker.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]     
+      "timeline": "EU", "time": "1933-05-10", "title": "Bokbål på oariska böcker", "revised": true,
+      "content": "Det tyska propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. En av metoderna för att kontrollera landets kultur var att bränna 'otyska' böcker och den 10 maj genomfördes stora bokbål runt om i landet. Vid slutet av 1934 hade över 5000 boktitlar förbjudits.",
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]     
     },
     {
       "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades", "revised": true,
-      "content":"Tyskland införde den så kallade 'ariska klausulen'. Enligt denna kunde judar avskedas från statliga och offentliga tjänster utan anledning.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "content": "Tyskland införde den så kallade 'ariska klausulen'. Enligt denna kunde judar avskedas från statliga och offentliga tjänster utan anledning.",
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/de-forsta-anti-judiska-atgarderna"]
     },
     {
       "timeline": "EU", "time": "1933", "title": "Etnisk rensning under Anschluß", "revised": true,
-      "content": "Tyskland tog över Östrerike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly.  Under sommaren 1938 flydde uppskattningsvis 50 000 judar från Österrike, i maj 1939 hade ytterligare ca 50 000 lämnat landet och de skulle följas av omkring 25 000 under de två följande åren. Av de som blev kvar mördades omkring 65 000 personer.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "content": "Tyskland tog över Östrerike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly. Av de som stannade mördades omkring 65 000 personer. Under sommaren 1938 flydde cirka 50 000, under den följande hösten och vintern ytterligare ca 50 000, och under de två åtföljande åren ytterligare 25 000.",
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/judeforfoljelserna-i-osterrike"]
     },
     {
       "timeline": "EU", "time": "1933", "title": "Konsekvensen med att sparka alla judar", "minor": true, "problematic": true,
@@ -269,7 +269,7 @@
     {
       "timeline": "EU", "time": "1933", "title": "Judar utestängs från högre utbildning", "minor": true, "revised": true,
       "content": "Den 25 april 1933 begränsades judars möjligheter till högre utbildning. Enligt en ny lag fick judar utgöra högst 1,5 procent av alla gymnasie- och universitetsstuderande i Tyskland. Varje enskild skola fick ha högst 5 procent judiska studenter. På grund av en gällande lag om obligatorisk skolplikt gjordes inga begränsningar för judar i grundskolan. Många judiska grundskoleelever flyttade ändå frivilligt över till rent judiska skolor på grund av det anti-judiska klimatet och trakasserier från icke-judiska lärare och elever.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/de-forsta-anti-judiska-atgarderna"]
     },
     {
       "timeline": "EU", "time": "1933", "title": "Tysk propaganda", "minor": true, "revised": true,
@@ -278,8 +278,8 @@
     },
     {
       "timeline": "EU", "time": "1933", "title": "Tysklands censur ökar", "revised": true,
-      "content": "Under 1933 tog regeringen allt fastare kontroll över den tyska radion och pressen. Hårda restriktioner infördes för vad som fick sändas och skrivas. Också musik-, teater- och filmproduktion kontrollerades av regimen.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "content": "Under 1933 införde regeringen allt hårdare restriktioner för vad som fick sändas och skrivas i medierna, och man kontrollerade och begränsade musik-, teater- och filmproduktion.",
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]
     },
     {
       "timeline": "SE", "time": "1932", "title": "Åsiktsregistrering av nazister och kommunister", "minor": true, "revised": true,
@@ -289,7 +289,7 @@
     {
       "timeline": "EU", "time": "1930", "title": "Etnisk registrering", "revised": true,
       "content": "<p>Vid den här tiden ökade invandringen och utvandringen mellan de europeiska länderna. I Tyskland började man att kontrollera vilka som var judar genom att deklarera att alla judiska pass var ogiltiga, vilket tvingade judarna att ansöka om ett nytt pass. I detta nya pass markerade myndigheterna sedan ett rött j för att markera att bäraren hade judiskt påbrå.</p><p>Detta gjorde det omöjligt för judar i början av och under WW2 att röra sig över vissa gränser.</p>",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-j-i-alla-tyska-judars-pass"]
     },
     {
       "timeline": "SE", "time": "1929", "title": "Åsiktsregistrering av värnpliktiga", "minor": true, "revised": true,
