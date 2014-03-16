@@ -42,23 +42,23 @@
       "sources": ["http://en.wikipedia.org/wiki/Robbins_v._Lower_Merion_School_District"]
     },
     {
-      "timeline": "SE", "time": "2009-10-14", "title": "FRA-lagen",
-      "content": "<a href='http://www.regeringen.se/sb/d/8670/a/78367'>FRA-lagen</a> röstas igenom med rösttalen 158 mot 153 efter stor debatt. Lagen ger Försvarets Radioanstallt (FRA) rätt att avlyssna all trådbunden trafik som passerar Sveriges gränser, t.ex. internet- och tele-trafik. FRA lagrar metadata för alla sådan trafik i en databas som kallas Titan. FRA utbyter även avlyssningsinformation med övervakningstjänster i andra länder, i första hand inom gruppen Five Eyes. Det finns läckta dokument som tyder på att FRA-lagen kom till genom ett samarbete mellan USA, Storbritannien och Sverige.",
+      "timeline": "SE", "time": "2009-10-14", "title": "FRA-lagen", "revised": true,
+      "content": "Trots lobbande och debatter röstades <a href='http://www.regeringen.se/sb/d/8670/a/78367'>FRA-lagen</a> igenom med inte större marginal än 158 röster mot 153 röster. Lagen ger Försvarets Radioanstallt (FRA) rätt att avlyssna all trådbunden trafik som passerar Sveriges gränser, t.ex. internet- och tele-trafik. FRA lagrar metadata för alla sådan trafik i en databas som kallas Titan. FRA utbyter även avlyssningsinformation med övervakningstjänster i andra länder, i första hand inom gruppen Five Eyes. Det finns läckta dokument som tyder på att FRA-lagen kom till genom ett samarbete mellan USA, Storbritannien och Sverige.",
       "sources": ["https://sv.wikipedia.org/wiki/FRA-lagen", "https://sv.wikipedia.org/wiki/Trafikdatabasen_Titan"]
     },
     {
-      "timeline": "EU", "time": "2009-2014", "title": "INDECT",
-      "content": "INDECT är ett forskningsprojekt inom EU med en budget på €14,828,107. Forskningen är inriktad på övervakningsteknologi, speciellt inom rörelse- mönster- och person-igenkänning i video och semantisk sökning på igenkännda objekt.",
+      "timeline": "EU", "time": "2009-2014", "title": "INDECT", "revised": true,
+      "content": "INDECT är ett forskningsprojekt inom EU med en budget på €14,828,107. Forskningen är inriktad på övervakningsteknologi, speciellt inom rörelse- mönster- och person-igenkänning i video, och  sökning bland automatiskt igenkända objekt och relationer.",
       "sources": ["https://en.wikipedia.org/wiki/INDECT"]
     },
     {
-      "timeline": "EU", "time": "2008–2012", "title": "Optic Nerve",
-      "content": "Storbritaniens övervakningstjänst, GCHQ, har samlat in webcam-bilder från 1.8 miljoner Yahoo-användares videochattar, många av dem med sexuellt innehåll.",
+      "timeline": "EU", "time": "2008–2012", "title": "Optic Nerve", "revised": true,
+      "content": "Storbritanniens övervakningstjänst, GCHQ, hade vid den här tiden samlat in webcam-bilder från 1.8 miljoner Yahoo-användares videochattar, många av dem med sexuellt innehåll.",
       "sources": ["http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo"]
     },
     {
-      "timeline": "World", "time": "2008", "title": "OS i Beijing",
-      "content": "OS, i Beijing, så hade Kina köpt en hel del ny övervakningsutrustning från väst, inklusive hundratusentals kameror beväpnade med biometrisk identifiering programvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
+      "timeline": "World", "time": "2008", "title": "OS i Beijing", "revised": true,
+      "content": "Kina köpte in en hel del ny övervakningsutrustning från väst, inkluderat hundratusentals kameror beväpnade med biometrisk identifiering programvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
@@ -219,7 +219,7 @@
     {
       "timeline": "EU", "time": "1938", "title": "Interneringsläger", "revised": true,
       "content": "I Europa fanns 30000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades och kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger"]
     },
     {
       "timeline": "EU", "time": "1937-10-21", "title": "Återvändande sattes i koncentrationsläger", "minor": true, "revised": true,
@@ -227,18 +227,18 @@
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1937", "title": "Judar anhölls",
-      "content": "Den 13 september 1937 utfärdade SS högsta ledare Heinrich Himmler en order som innebar att fängslade judar skulle friges om de lovade att emigrera från Tyskland. Det var en strategi i ett led av ansträngningar att göra Tyskland judefritt. Den möjlighet kom senare att ”erbjudas” många av de tiotusentals judar som arresterades under Kristallnatten i november 1938.",
-      "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
+      "timeline": "EU", "time": "1937-09-13", "title": "Judar uppmanas emigrera", "minor": true, "revised": true,
+      "content": "SS högsta ledare Heinrich Himmler utfärdade en order att fängslade judar skulle friges om de emigrerade från Tyskland. Många av de tiotusentals judar som arresterades under Kristallnatten i november 1938 kom senare att 'erbjudas' samma möjlighet.",
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-judefritt-tyskland"]
+    },
+    {
+      "timeline": "EU", "time": "1935-02-10", "title": "Förbud mot att uppmuntra judar", "minor": true,
+      "content":"1935 kom en lag i Tyskland om att man inte fick ha möten eller göra något uppmuntrande för att judarna skulle få stanna kvar i tyskland. Man uppmuntrade judarna att isolera sig eller emigrera för att inte störa det Tyska samhället.",
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-judefritt-tyskland"]
     },
     {
       "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger", "minor": true, "revised": true,
       "content":"Under senare delen av 1930-talet genomförde nazisterna flera arresteringsaktioner mot judar med syftet att öka pressen på judiska personer att lämna Tyskland. Judarna som arresterats sändes till koncentrationsläger.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
-    },
-    {
-      "timeline": "EU", "time": "1935", "title": "Förbud mot att uppmuntra judar", "minor": true,
-      "content":"1935 kom en lag i Tyskland om att man inte fick ha möten eller göra något uppmuntrande för att judarna skulle få stanna kvar i tyskland. Man uppmuntrade judarna att isolera sig eller emigrera för att inte störa det Tyska samhället.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
