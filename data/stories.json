@@ -62,8 +62,8 @@
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
-      "timeline": "World", "time": "2007", "title": "PRISM",
-      "content": "<p>Ett världsomspännande datalagringssystem skapas av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, facebook, apple etc själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA. Man började med PRISM i ett 'skydda Amerika'-projekt. Man ville veta vilka som var ett hot mot landet. Man ville specifikt finna alla terrorhot, som the goverment påstår att de har lyckats att avvärja tack vare PRISM. Samtidigt känner man till folks vanor, intressen och vart de befinner sig pga/genom detta. Pågrund av den hemliga naturen som blivit i USA så har det delats upp i två läger, American Civil Liberties Union v. National Security Agency. The Real Time Regional Gateway var ett program som man 2005 använde i Irak under kriget där för att spåra och samla data där till NSA. 'Collect it all/skydda amerika'-projektet initierades utav NSAs direktör Keith B Alexander. Detta för att skapa ett jättearkiv där all världens kommunikationsdata finns samlad. NSA har också ett bra sammarbete med 100 pålitliga amerikanska företag som hjälper NSA att upprätthålla dem med information.</p><p>Med PRISM så kan man läsa alla mejl, lyssna av alla telefonsamtal, läsa av alla livechattar, utan att behöva gå till rätten med det om att få tillstånd och man gör det såpass försiktigt att det inte heller märks och man kan då inte bli anklagad för olaga intrång.</p>",
+      "timeline": "World", "time": "2007", "title": "PRISM", "revised": true,
+      "content": "<p>Ett världsomspännande datalagringssystem skapades av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, facebook, apple etc själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA.</p><p>Genom PRISM är det lagligt att läsa alla mejl, lyssna av alla telefonsamtal, läsa av alla livechattar, utan att ansöka om en husransakningsorder.</p><p>Man började med PRISM i ett 'skydda Amerika'-projekt med syfte att upptäcka terrorhot och få specifik kunskap om vilka som var ett hot mot landets säkerhet.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"]
     },
     {
@@ -214,7 +214,7 @@
     {
       "timeline": "EU", "time": "1938-11-??", "title": "Etnisk åtskillnad i skolan", "minor": true, "revised": true,
       "content": "Judiska barn flyttades till särskilda judiska skolor. Tre år senare förbjöds all skolgång för judiska barn.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "sources": ["http://www.theholocaustexplained.org/ks3/life-in-nazi-occupied-europe/impact-on-jewish-communities/education-the-jewish-experience/"]
     },
     {
       "timeline": "EU", "time": "1938", "title": "Interneringsläger", "revised": true,
@@ -232,7 +232,7 @@
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-judefritt-tyskland"]
     },
     {
-      "timeline": "EU", "time": "1935-02-10", "title": "Förbud mot att uppmuntra judar", "minor": true,
+      "timeline": "EU", "time": "1935-02-10", "title": "Förbud mot att uppmuntra judar", "minor": true, "revised": true,
       "content":"1935 kom en lag i Tyskland om att man inte fick ha möten eller göra något uppmuntrande för att judarna skulle få stanna kvar i tyskland. Man uppmuntrade judarna att isolera sig eller emigrera för att inte störa det Tyska samhället.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-judefritt-tyskland"]
     },
@@ -269,7 +269,7 @@
     {
       "timeline": "EU", "time": "1933", "title": "Tysk propaganda", "minor": true, "revised": true,
       "content":"Den tyska regeringen försökte påverka vad som skrevs om Tyskland i andra länder genom att skicka oficiella protester till andra länders regeringar när tidningar i de länderna skrev negativt om Tyskland. Protesterna var oftast, mer eller mindre hotfullt formulerade. Många utländska tidningar förbjöds också i Tyskland och det blev förbjudet att lyssna på utländsk radio.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]
     },
     {
       "timeline": "EU", "time": "1933", "title": "Tysklands censur ökar", "revised": true,
