@@ -197,7 +197,7 @@
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "World", "time": "1943", "title": "IBM och registreringen av fångar",
+      "timeline": "World", "time": "1943", "title": "IBM och registreringen av fångar", "revised": true,
       "content": "<p>IBM vidareutvecklade tekniken för Holleriths hålkortsmaskiner och blev underleverantörer till amerikanska fångläger och fängelser. Under WW2, när USA låg i krig med Japan, användes registreringsmetoden till exempel.</p><p>Att IBM var leverantörer av liknande teknik till naziregimen var en källa till kontrovers för IBM när regimen föll.</p>",
       "sources": ["https://en.wikipedia.org/wiki/IBM_during_World_War_II"]
     },
