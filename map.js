@@ -11,6 +11,72 @@ function getByCategory(data, category) {
   return data;
 }
 
+function dataGetCategories(data) {
+  return Object.keys(data).filter(function (x) { return x != 'Source' && x != 'value'; });
+}
+
+function dataToTableWidth(data) {
+  var res = 1;
+  dataGetCategories(data).map(function (key) {
+    var sub = data[key];
+    var sublength = 1;
+    if (typeof(sub) == "object") {
+      var subcategories = dataGetCategories(sub);
+      if (subcategories.length > 0) {
+        sublength = dataToTableWidth(sub);
+      }
+    }
+    res = Math.max(res, 1 + sublength);
+  });
+  return res;
+}
+
+function commonPrefix(path1, path2) {
+  var i;
+  for (i = 0; i < Math.min(path1.length, path2.length); i++) {
+    if (path1[i] != path2[i]) return i;
+  }
+  return i;
+}
+
+function dataToTable(data) {
+  var width = dataToTableWidth(data);
+  var res = "<table>";
+  var lastpath = [];
+
+  function updatePath(path, value) {
+    var common = commonPrefix(lastpath, path);
+    lastpath = path;
+    path = path.slice(common);
+
+    res += '<tr>';
+    for (var i = 0; i < common; i++) {
+      res += '<td></td>';
+    }
+    path.map(function (item) {
+      colspan = width - common.length - path.length - 1;
+      res += '<td colspan=' +  colspan.toString() + '>' +  item + '</td>';
+    });
+    
+    res += '<td>' + value + '</td>';
+    res += '</tr>';
+  }
+
+  function dataToTable(path, data) {
+    dataGetCategories(data).map(function (key) {
+      var sub = data[key];
+      var subpath = path.concat([key]);
+      if (sub.value != undefined) {
+        updatePath(subpath, sub.value);
+      }
+      dataToTable(subpath, sub);
+    });
+  }
+  dataToTable([], data);
+  res += "</table>";
+  return res;
+}
+
 $(document).ready(function () {
   var mapTabClicked;
 
@@ -82,41 +148,9 @@ $(document).ready(function () {
         eventListeners:{
           'featureselected':function(evt){
             var feature = evt.feature;
-
-            function dataToTable(data) {
-              if (data.value != undefined) return data.value;
-              var res = "<table>";
-              for (var key in data) {
-                var sub = data[key];
-                if (typeof(sub) == "object") {
-                  if (sub.length != undefined) {
-                    sub = JSON.stringify(sub);
-                  } else {
-                    sub = dataToTable(sub);
-                  }
-                }
-                res += "<tr><th>" + key + "</th><td>" + sub + "</td></tr>";
-              }
-              res += "</table>";
-              return res;
-            }
-
-            var popup = new OpenLayers.Popup.FramedCloud(
-              "popup",
-              OpenLayers.LonLat.fromString(feature.geometry.getCentroid().toShortString()),
-              null,
-              "<b>" + feature.data.NAME + "</b>" + dataToTable(data.regiondata[feature.data.ISO_2_CODE]),
-              null,
-              true
-            );
-            feature.popup = popup;
-            map.addPopup(popup);
+            $(".iteminfo").html("<b>" + feature.data.NAME + "</b>" + dataToTable(data.regiondata[feature.data.ISO_2_CODE]));
           },
           'featureunselected':function(evt){
-            var feature = evt.feature;
-            map.removePopup(feature.popup);
-            feature.popup.destroy();
-            feature.popup = null;
           }
         }
       });
@@ -193,6 +227,8 @@ $(document).ready(function () {
         lnk.attr({href: item.source});
         $("#mapcontrols").append(html);
       });
+
+      $("#mapcontrols").append("<div class='iteminfo'></div>");
 
       cb();
 
