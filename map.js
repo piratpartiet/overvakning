@@ -161,7 +161,10 @@ $(document).ready(function () {
         eventListeners:{
           'featureselected':function(evt){
             var feature = evt.feature;
-            $(".iteminfo").html("<b>" + feature.data.NAME + "</b>" + dataToTable(data.regiondata[feature.data.ISO_2_CODE]));
+            var iteminfo = $('.template .iteminfo-box').clone();
+            iteminfo.find('.panel-heading h3').append(feature.data.NAME);
+            iteminfo.find('.panel-body').html(dataToTable(data.regiondata[feature.data.ISO_2_CODE]));
+            $(".iteminfo").html(iteminfo);
           },
           'featureunselected':function(evt){
           }
