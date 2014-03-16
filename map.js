@@ -39,34 +39,47 @@ function commonPrefix(path1, path2) {
   return i;
 }
 
+function strMul(str, nr) {
+  res = '';
+  for (var i = 0; i < nr; i++) {
+    res += str;
+  }
+  return res;
+}
+
 function dataToTable(data) {
   var width = dataToTableWidth(data);
   var res = "<table>";
   var lastpath = [];
+
 
   function updatePath(path, value) {
     var common = commonPrefix(lastpath, path);
     lastpath = path;
     path = path.slice(common);
 
-    res += '<tr>';
-    for (var i = 0; i < common; i++) {
-      res += '<td></td>';
+    for (var i = 0; i < path.length; i ++) {
+      var colspan = width - common - i - 1;
+      res += '<tr>';
+      res += strMul('<td class="iteminfo-bump">&nbsp;</td>', common + i);
+      res += '<td colspan="' + colspan + '">' + path[i] + '</td>';
+      var v = value;
+      if (i < path.length - 1) {
+        v = '';
+      }
+      if (typeof(v) == "number") {
+        v = Math.round(v * 100) / 100;
+      }
+      res += '<td class="value">' + v + '</td>';
+      res += '</tr>';
     }
-    path.map(function (item) {
-      colspan = width - common.length - path.length - 1;
-      res += '<td colspan=' +  colspan.toString() + '>' +  item + '</td>';
-    });
-    
-    res += '<td>' + value + '</td>';
-    res += '</tr>';
   }
 
   function dataToTable(path, data) {
     dataGetCategories(data).map(function (key) {
       var sub = data[key];
       var subpath = path.concat([key]);
-      if (sub.value != undefined) {
+      if (sub.value != undefined && sub.value != '') {
         updatePath(subpath, sub.value);
       }
       dataToTable(subpath, sub);
