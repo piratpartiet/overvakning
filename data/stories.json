@@ -67,18 +67,23 @@
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"]
     },
     {
-      "timeline": "EU", "time": "2006-05-03", "title": "Datalagringsdirektivet",
-      "content": "Datalagringsdirektivet är ett <a href='http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:105:0054:01:EN:HTML'>EU-direktiv</a> som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land). Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position), och kan användas för att bygga sociogram.",
+      "timeline": "EU", "time": "2006-05-03", "title": "Datalagringsdirektivet", "revised": true,
+      "content": "Datalagringsdirektivet är ett <a href='http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:105:0054:01:EN:HTML'>EU-direktiv</a> som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land). Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position), och kan användas bland annat för att bygga sociogram.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
-      "timeline": "SE", "time": "2006", "title": "Integritet för hyresgäster", "minor": true,
-      "content": "Branchorganisationen SAB skriver en överenskommelse för bostadsbolag för vad de får registrera om boende. Det framkommer senare att många bolag över hela Sverige både brutit mot överenskommelsen, och registrerat uppgifter i strid med Personuppgiftslagen, t.ex. om boendes sjukdomstillstånd, politiska åsikter eller brottshistoria.",
+      "timeline": "SE", "time": "2006", "title": "Hyresgästers integritet", "minor": true, "revised": true,
+      "content": "<p>År 2006 skrev SABO en branschöverenskommelse om vilka uppgifter privata och kommunala bostadsbolag får registrera om sina hyresgäster. Överenskommelsen skulle tillsammans med personuppgiftslagen garantera hyresgästers integritet.</p><p>2013 framkommer det att ett flertal bostadsbolag över hela Sverige både brutit mot överenskommelsen, och registrerat uppgifter i strid med Personuppgiftslagen.</p>",
       "sources": ["http://www.fastighetssverige.se/artikel/hyresgaster-registreras-over-hela-landet-12305/", "http://www.svt.se/nyheter/regionalt/vastnytt/dom-om-register-kan-fa-konsekvenser"]
     },
     {
-      "timeline": "World", "time": "2003", "title": "Golden Shield: Operativ",
-      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' blir fullt operativ och censurerar och övervakar Internet inom landets gränser. C.a. 30000 till 50000 poliser jobbar idag i Golden Shield-projektet. Golden Shield kan idag blocka IP-adresser, blocka eller omdirrigera domännamn, filtrera webadresser, filtrera IP-paket, och stoppa anslutningar",
+      "timeline": "World", "time": "2005", "title": "The Real Time Regional Gateway", "revised": true,
+      "content": "Ett datalagringsprogram som implementerades av NSA under kriget i Irak. Programmet samlade in all elektronisk kommunikation i Irak, lagrade och analyserade datat. På det här sättet kom man effektivt åt information om irakiska rebeller.",
+      "sources": ["https://en.wikipedia.org/wiki/National_Security_Agency"]
+    },
+    {
+      "timeline": "World", "time": "2003", "title": "Golden Shield tas i bruk", "revised": true,
+      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' tas i bruk. Den censurerar och övervakar Internet inom landets gränser, blockar IP-adresser, blocka och/eller omdirrigerar domännamn, filtrerar webadresser, filtrerar IP-paket, och stoppar anslutningar. Ciska 30000 till 50000 poliser jobbar idag i Golden Shield-projektet.",
       "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
@@ -87,17 +92,17 @@
       "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html", "http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/"]
     },
     {
-      "timeline": "World", "time": "2001-10-26", "title": "USA PATRIOT ACT",
-      "content": "Amerikansk lagstiftning som tillåter inspärrning av icke-medborgare på obestämd tid, lättvindig telefonavlyssning och tillgång till historik över boklån på bibliotek, sjukhusvistelser och andra företagsregister.",
+      "timeline": "World", "time": "2001-10-26", "title": "USA PATRIOT ACT", "revised": true,
+      "content": "Amerikansk lagstiftning som tillåter att icke-medborgare kan spärras in på obestämd tid. Myndigheterna har rätt att avlyssna medborgare, begära ut historik över boklån på bibliotek och företagsregister, information om sjukhusvistelser vid misstanke terrorverksamhet. Myndigheterna har även rätt att förhindra företag från att meddela berörd part att informationen lämnats ut.",
       "sources": ["http://en.wikipedia.org/wiki/Patriot_Act"]
     },
     {
-      "timeline": "World", "time": "2000", "title": "SORM: Tillgänglighet",
-      "content": "Under Vladmir Putins första vecka som president så antogs en ny lag om att sju nya statliga organisationer fick tillgång till den information FSB samlat in genom övervakningsverktyget SORM.",
+      "timeline": "World", "time": "2000", "title": "SORM: Tillgänglighet", "revised": true,
+      "content": "Under Vladmir Putins första vecka som Rysslands president antogs en ny lag om att sju nya statliga organisationer skulle få tillgång till den information FSB samlat in genom övervakningsverktyget SORM.",
       "sources": ["http://en.wikipedia.org/wiki/SORM"]
     },
     {
-      "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning",
+      "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning", "revised": true,
       "content": "Benefon producerar den första mobilen med inbygd GPS-mottagare.",
       "sources": ["https://en.wikipedia.org/wiki/Benefon#Historical_products"]
     },
