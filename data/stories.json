@@ -217,32 +217,28 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU",
-      "time": "1938",
-      "title": "Judiska barn får bara gå i judiska skolor",
-      "content": "I november 1938 fick judiska barn endast gå i judiska skolor. Hösten 1941 förbjöds även alla judiska skolor.",
+      "timeline": "EU", "time": "1938-11-??", "title": "Etnisk åtskillnad i skolan", "minor": true, "revised": true,
+      "content": "Judiska barn flyttades till särskilda judiska skolor. Tre år senare förbjöds all skolgång för judiska barn.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1938", "title": "Interneringsläger",
-      "content": "I Europa fanns 30000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades eller kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
+      "timeline": "EU", "time": "1938", "title": "Interneringsläger", "revised": true,
+      "content": "I Europa fanns 30000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades och kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU",
-      "time": "1937",
-      "title": "Judar anhölls",
+      "timeline": "EU", "time": "1937-10-21", "title": "Återvändande sattes i koncentrationsläger", "minor": true, "revised": true,
+      "content":"Himmler utfärdade en order om att alla tyskar som hade emigrerat från Tyskland efter den 30 januari 1933 skulle arresteras och sändas till koncentrationsläger om de återvände. Orden syftade till att hindra både judar och politiska motståndare från att återvända till Tyskland.",
+      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
+    },
+    {
+      "timeline": "EU", "time": "1937", "title": "Judar anhölls",
       "content": "Den 13 september 1937 utfärdade SS högsta ledare Heinrich Himmler en order som innebar att fängslade judar skulle friges om de lovade att emigrera från Tyskland. Det var en strategi i ett led av ansträngningar att göra Tyskland judefritt. Den möjlighet kom senare att ”erbjudas” många av de tiotusentals judar som arresterades under Kristallnatten i november 1938.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1937", "title": "Återvändande judar sattes i koncentrationsläger",
-      "content":"Den 21 oktober 1937 utfärdade Himmler ytterligare en order. Den innebar att alla tyskar som hade emigrerat från Tyskland efter den 30 januari 1933 skulle arresteras och sändas till koncentrationsläger om de återvände. Orden syftade till att hindra både judar och politiska motståndare från att återvända till Tyskland.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
-    },
-    {
-      "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger", "minor": true,
-      "content":"Under senare delen av 1930-talet genomförde nazisterna flera aktioner där många judar arresterades och sändes till koncentrationsläger. Syftet var att öka pressen på judiska personer att lämna Tyskland.",
+      "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger", "minor": true, "revised": true,
+      "content":"Under senare delen av 1930-talet genomförde nazisterna flera arresteringsaktioner mot judar med syftet att öka pressen på judiska personer att lämna Tyskland. Judarna som arresterats sändes till koncentrationsläger.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
@@ -251,30 +247,27 @@
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "Tech", "time": "1934", "title": "Sociogram",
-      "content": "Jacob L. Moreno forskar på analysering av sociala nätverk och skapar sociogramet. Sociogram kan användas för många typer av analyser av mänskliga grupper, t.ex. för att avgöra chansen för att en kärleksrelation skall uppstå eller avslutas.",
+      "timeline": "Tech", "time": "1934", "title": "Sociogram", "revised": true,
+      "content": "Jacob L. Moreno forskade på sociala nätverk och hur de kan analyseras och skapade ett visuellt hjölpmedel som kallas sociogram. Ett sociogram kan användas för många typer av analyser av mänskliga grupper, t.ex. för att avgöra chansen för att en kärleksrelation skall uppstå eller avslutas.",
       "sources": ["https://en.wikipedia.org/wiki/Sociogram", "http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
     },
     {
-      "timeline": "EU", "time": "1934", "title": "Bokbål på oariska böcker",
-      "content": "Att bränna ”otyska” böcker var en av de åtgärder som naziregimen använde för att bestämma över människors tankar och åsikter, och begränsa yttrandefriheten. Propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. Ett stort nätverk av propagandakontor upprättades i hela landet.",
-     "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"],
-     "minor": true
+      "timeline": "EU", "time": "1934", "title": "Bokbål på oariska böcker", "revised": true,
+      "content": "Det tyska propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. Ett stort nätverk av propagandakontor upprättades också i hela landet. En av metoderna för att kontrollera landets kultur var att bränna 'otyska' böcker.",
+      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]     
     },
     {
-      "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades",
-      "content":"Den första anti-judiska förordningen infördes i Nazityskland den 7 april år 1933. Enligt den så kallade ”ariska klausulen” kunde judar avskedas från statliga och offentliga tjänster utan anledning.",
+      "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades", "revised": true,
+      "content":"Tyskland införde den så kallade 'ariska klausulen'. Enligt denna kunde judar avskedas från statliga och offentliga tjänster utan anledning.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU",
-      "time": "1933",
-      "title": "Flyktingproblem och folkmord",
-      "content": "Tyskland tog över Östreriket och lagarna blev desamma som i Tyskland. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ. Andra försökte att fly.  Under sommaren 1938 flydde uppskattningsvis 50 000 judar från Österrike, i maj 1939 hade ytterligare ca 50 000 lämnat landet och de skulle följas av omkring 25 000 under de två följande åren. Av de som blev kvar mördades omkring 65 000 personer.",
+      "timeline": "EU", "time": "1933", "title": "Etnisk rensning under Anschluß", "revised": true,
+      "content": "Tyskland tog över Östrerike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly.  Under sommaren 1938 flydde uppskattningsvis 50 000 judar från Österrike, i maj 1939 hade ytterligare ca 50 000 lämnat landet och de skulle följas av omkring 25 000 under de två följande åren. Av de som blev kvar mördades omkring 65 000 personer.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Konsekvensen med att sparka alla judar", "minor": true,
+      "timeline": "EU", "time": "1933", "title": "Konsekvensen med att sparka alla judar", "minor": true, "problematic": true,
       "content": "Lagen om att inte uppmuntra judar förde med sig att de tyska judarna ganska snart förbjöds att tjänstgöra inom de flesta offentliga yrken, exempelvis som läkare, tandläkare, lärare, advokater och redaktörer. De utestängdes också från allmänna organisationer och föreningar, exempelvis idrottsföreningar. I november 1933 avskedades alla judar, och även alla icke-judar som var gifta med en judisk person, från det tyska järnvägsbolaget.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
@@ -364,8 +357,8 @@
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
-      "timeline": "World", "time": "1860", "title": "Signalspaningens födelse",
-      "content":  "Radiotelegrafin kom till, vilket möjliggjorde signalspaningens genombrott. Den nya tekniken hade stor inverkan i Nordamerika under inbördeskriget.",
+      "timeline": "World", "time": "1860", "title": "Signalspaningens födelse", "revised": true,
+      "content":  "Som en konsekvens av radiotelegrafins födelse uppkom också signalspaning. Den nya tekniken hade stor inverkan i Nordamerika under inbördeskriget.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
 
