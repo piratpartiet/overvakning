@@ -177,8 +177,8 @@
       "sources": ["https://en.wikipedia.org/wiki/Spy_satellites#History"]
     },
     {
-      "timeline": "EU", "time": "1950-02-08", "title": "STASI",
-      "content": "Öst-tysklands övervakningsorgan STASI grundades. STASI kom att ha 90000 anställda, 170000 inofficiella fulltidsarbetande kollaboratörer (ca. 2% av medborgarna), samt ett stort antal deltidsinformanter, totalt 1 STASI-informatör per 6.5 personer. STASI ägnade sig åt ljud- och videoövervakning av hem, öppnade brev och utpressade medborgare för att skaffa informanter och information. 123000 tyskar och 35000 andra internerades i läger i Östtyskland.",
+      "timeline": "EU", "time": "1950-02-08", "title": "STASI", "revised": true,
+      "content": "<p>Östtysklands övervakningsorgan STASI grundades. STASI kom att ha 90000 anställda, 170000 inofficiella fulltidsarbetande kollaboratörer (ca. 2% av medborgarna), samt ett stort antal deltidsinformanter. Totalt fanns det en(1) STASI-informatör per 6.5 invånare. STASI ägnade sig åt ljud- och videoövervakning av hem, öppnade brev och utpressade medborgare på information och de värvades som informanter.</p><p>123000 tyska medborgare och 35000 personer med annan härkomst internerades i läger i Östtyskland.</p>",
       "sources": ["https://en.wikipedia.org/wiki/Mass_surveillance_in_East_Germany"]
     },
     {
