@@ -274,15 +274,13 @@
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU",
-      "time": "1933",
-      "title": "Konsekvensen med att sparka alla judar", "minor": true,
+      "timeline": "EU", "time": "1933", "title": "Konsekvensen med att sparka alla judar", "minor": true,
       "content": "Lagen om att inte uppmuntra judar förde med sig att de tyska judarna ganska snart förbjöds att tjänstgöra inom de flesta offentliga yrken, exempelvis som läkare, tandläkare, lärare, advokater och redaktörer. De utestängdes också från allmänna organisationer och föreningar, exempelvis idrottsföreningar. I november 1933 avskedades alla judar, och även alla icke-judar som var gifta med en judisk person, från det tyska järnvägsbolaget.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Judar förbjuds till högre utbildning", "minor": true,
-      "content": "Den 25 april 1933 kom en lag som begränsade judars möjligheter till högre utbildning. Enligt lagen fick judar utgöra högst 1,5 procent av alla gymnasie- och universitetsstuderande i Tyskland. Varje enskild skola fick ha högst 5 procent judiska studenter. På grund av en gällande lag om obligatorisk skolplikt gjordes inga begränsningar för judar i grundskolan. Många judiska grundskoleelever flyttade ändå frivilligt över till rent judiska skolor . Det på grund av att de skrämdes av det anti-judiska klimatet och blev trakasserade av icke-judiska lärare och elever.",
+      "timeline": "EU", "time": "1933", "title": "Judar utestängs från högre utbildning", "minor": true, "revised": true,
+      "content": "Den 25 april 1933 begränsades judars möjligheter till högre utbildning. Enligt en ny lag fick judar utgöra högst 1,5 procent av alla gymnasie- och universitetsstuderande i Tyskland. Varje enskild skola fick ha högst 5 procent judiska studenter. På grund av en gällande lag om obligatorisk skolplikt gjordes inga begränsningar för judar i grundskolan. Många judiska grundskoleelever flyttade ändå frivilligt över till rent judiska skolor på grund av det anti-judiska klimatet och trakasserier från icke-judiska lärare och elever.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
@@ -302,7 +300,7 @@
     },
     {
       "timeline": "EU", "time": "1930", "title": "Etnisk registrering", "revised": true,
-      "content": "<p>Vid den här tiden ökar invandringen och utvandringen mellan  europeiska länder. I Tyskland började man att kontrollera vilka som var judar genom att deklarera att alla judiska pass var ogiltiga. Konsekvensen av den här  strategin blev att judarna var tvungna att ansöka om ett nytt pass. I detta pass markerade myndigheterna sedan ett rött j för att påvisa att innehavaren av passet hade judisk etnicitet.</p><p>Detta gjorde att det för judar, i början och under WW2, var omöjligt  att röra sig över vissa gränser.</p>",
+      "content": "<p>Vid den här tiden ökade invandringen och utvandringen mellan de europeiska länderna. I Tyskland började man att kontrollera vilka som var judar genom att deklarera att alla judiska pass var ogiltiga, vilket tvingade judarna att ansöka om ett nytt pass. I detta nya pass markerade myndigheterna sedan ett rött j för att markera att bäraren hade judiskt påbrå.</p><p>Detta gjorde det omöjligt för judar i början av och under WW2 att röra sig över vissa gränser.</p>",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
@@ -347,7 +345,7 @@
     },
     {
       "timeline": "EU", "time": "1892", "title": "Fingeravtryck: Bottsregister", "revised": true,
-      "content": "Den argentinske polischefen Juan Vucetich skapade den första byrån som registrerade fingeravtryck, år 1892. Sju år sedan, 1897, etablerades en motsvarande byrå i Calcutta, Indien, efter att regeringen fattat ett beslut om att börja registrera fingeravtryck i syfte att organisera brottssregistret.",
+      "content": "Den argentinske polischefen Juan Vucetich skapade den första byrån som registrerade fingeravtryck, år 1892. Sju år senare, 1897, etablerades en motsvarande byrå i Calcutta, Indien, efter att regeringen fattat ett beslut om att börja registrera fingeravtryck i syfte att organisera brottssregistret.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
@@ -362,7 +360,7 @@
     },
     {
       "timeline": "Tech", "time": "1863", "title": "Fingeravtryck är unika", "revised": true,
-      "content":  "<p>Den franske kemisten Paul-Jean Coulier upptäckte att ånga från jod kan blotta dolda avtryck på papper. Detta följdes med att kirurgen Dr. Henry Faulds publicerade en artikel i den prestigefulla tidningen Nature. I den diskuterade han dugligheten i att registrera fingeravtryck och föreslog en metod där tryckbläck används.</p><p>Vid den här tiden erbjuder han sin teknik som en arbetsmetod till polisen i London, vilket de tackar nej till.</p><p>Faulds beskrev sin metod för Charles Darwin som i sin tur gav informationen till antropologen Francis Galton som därefter studerade ämnet i tio år och kom fram till att sannolikheten att två personer har samma fingeravtryck är 1 på 64 miljarder. I sin bok Finger Prints  uppmuntrade han till att metoden skulle användas av rättsväsendet.</p>",
+      "content":  "<p>Den franske kemisten Paul-Jean Coulier upptäckte att ånga från jod kan blotta dolda avtryck på papper. Detta följdes med att kirurgen Dr. Henry Faulds publicerade en artikel i den prestigefulla tidningen Nature. I den diskuterade han dugligheten i att registrera fingeravtryck och föreslog en metod där tryckbläck används.</p><p>Vid den här tiden erbjuder han sin teknik som en arbetsmetod till polisen i London, vilket de tackar nej till.</p><p>Faulds beskrev sin metod för Charles Darwin som i sin tur gav informationen till antropologen Francis Galton som därefter studerade ämnet i tio år och kom fram till att sannolikheten att två personer har samma fingeravtryck är 1 på 64 miljarder. I sin bok Finger Prints uppmuntrade han till att metoden skulle användas av rättsväsendet.</p>",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
