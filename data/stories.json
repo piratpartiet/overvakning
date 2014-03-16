@@ -137,18 +137,18 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1973", "title": "IB: Avslöjjas",
-      "content": "Jan Guillou och Peter Bratt avslöjjar att den socialdemokratiska regeringen byggt upp en parallell organisation till SÄPO för att övervaka kommunister. Det dröjjer dock till 1982 innan socialdemokraternas partisekreterare Sten Andersson erkänner affären.",
+      "timeline": "SE", "time": "1973", "title": "IB: Avslöjjas", "revised": true,
+      "content": "Jan Guillou och Peter Bratt avslöjar att den socialdemokratiska regeringen byggt upp en parallell organisation till SÄPO för att övervaka kommunister. Det dröjer dock till 1982 innan socialdemokraternas partisekreterare Sten Andersson erkänner affären.",
       "sources": ["http://wwwc.aftonbladet.se/nyheter/9808/18/sten.html"]
     },
     {
-      "timeline": "Tech", "time": "197?", "title": "Kameraövervakning: Videobandspelare",
-      "content": "Kameraövervakning blir betydligt vanligare i och med videobandspelarnas intåg",
+      "timeline": "Tech", "time": "197?", "title": "Kameraövervakning: Videobandspelare", "revised": true,
+      "content": "I och med videobandspelarnas intåg skapades nyare och effektivare möjligheter för kamerövervakning. Detta gjorde att metoden blev betydligt vanligare.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "Tech", "time": "1968", "title": "Kameraövervakning: Av en vanlig shopping-gata", "minor": true,
-      "content": "",
+      "timeline": "Tech", "time": "1968", "title": "Kameraövervakning: I vardagen", "minor": true, "revised": true,
+      "content": "För första gången användes en kamera för att bevaka en helt vanlig shoppinggata, tidigare gjordes detta bara vid ytterst specifika omständigheter.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
