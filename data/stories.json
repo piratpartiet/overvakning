@@ -182,7 +182,7 @@
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false2"]
     },
     {
-      "timeline": "EU", "time": "1945", "title": "England signalspanar i Sverige", "minor": true,
+      "timeline": "EU", "time": "1945", "title": "England signalspanar i Sverige", "minor": true, "problematic": true,
       "content": "1945 var England i Sverige på ett pensionat utanför Göteborg och signalspanade.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
@@ -253,18 +253,13 @@
     },
     {
       "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades", "revised": true,
-      "content": "Tyskland införde den så kallade 'ariska klausulen'. Enligt denna kunde judar avskedas från statliga och offentliga tjänster utan anledning.",
+      "content": "Tyskland införde den så kallade 'ariska klausulen'. Enligt denna kunde judar avskedas från statliga och offentliga tjänster utan anledning. Lagen medförde att att de tyska judarna ganska snart förbjöds att tjänstgöra inom de flesta offentliga yrken, exempelvis som läkare, tandläkare, lärare, advokater och redaktörer. De utestängdes också från allmänna organisationer och föreningar, exempelvis idrottsföreningar.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/de-forsta-anti-judiska-atgarderna"]
     },
     {
       "timeline": "EU", "time": "1933", "title": "Etnisk rensning under Anschluß", "revised": true,
       "content": "Tyskland tog över Östrerike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly. Av de som stannade mördades omkring 65 000 personer. Under sommaren 1938 flydde cirka 50 000, under den följande hösten och vintern ytterligare ca 50 000, och under de två åtföljande åren ytterligare 25 000.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/judeforfoljelserna-i-osterrike"]
-    },
-    {
-      "timeline": "EU", "time": "1933", "title": "Konsekvensen med att sparka alla judar", "minor": true, "problematic": true,
-      "content": "Lagen om att inte uppmuntra judar förde med sig att de tyska judarna ganska snart förbjöds att tjänstgöra inom de flesta offentliga yrken, exempelvis som läkare, tandläkare, lärare, advokater och redaktörer. De utestängdes också från allmänna organisationer och föreningar, exempelvis idrottsföreningar. I november 1933 avskedades alla judar, och även alla icke-judar som var gifta med en judisk person, från det tyska järnvägsbolaget.",
-      "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
       "timeline": "EU", "time": "1933", "title": "Judar utestängs från högre utbildning", "minor": true, "revised": true,
@@ -313,7 +308,7 @@
     },
     {
       "timeline": "SE", "time": "1914", "title": "Generalstabens första byrå", "revised": true,
-      "content": "Idag kallad för SÄPO, var Sverige första polisstyrka vars huvudsyfte då var, men även idag är att arbeta med brott som hotar rikets säkerhet.",
+      "content": "Idag kallad för SÄPO, var Sverige första polisstyrka vars huvudsyfte var, och fortfarande är, att arbeta med brott som hotar rikets säkerhet.",
       "sources": ["http://www.sakerhetspolisen.se/"]
     },
     {
