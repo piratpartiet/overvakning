@@ -231,6 +231,8 @@ $(document).ready(function () {
         }
       }
 
+      $("#mapcontrols").append("<div class='iteminfo'></div>");
+
       addCategories(data.categories);
 
       data.maplinks.map(function (item) {
@@ -240,8 +242,6 @@ $(document).ready(function () {
         lnk.attr({href: item.source});
         $("#mapcontrols").append(html);
       });
-
-      $("#mapcontrols").append("<div class='iteminfo'></div>");
 
       cb();
 
