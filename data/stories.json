@@ -107,28 +107,28 @@
       "sources": ["https://en.wikipedia.org/wiki/Benefon#Historical_products"]
     },
     {
-      "timeline": "World", "time": "1998", "title": "Golden Shield: Projektstart",
+      "timeline": "World", "time": "1998", "title": "Golden Shield: Projektstart", "revised": true,
       "content": "Kina startar sitt nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China'. Målet är i första hand en allomfattande censur och övervakning av Internet inom landets gränser, och i andra hand att integrera alla typer av övervakning (internet, kameror, ansiktsigenkänning, smartcards, kreditkort etc) i ett verktyg.",
       "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
-      "timeline": "World", "time": "1998", "title": "SORM-2",
-      "content": "<p>En reformering av SORM-1 som innebar att man nu även kontrollerade allt på internet. Enligt lag så måste alla internetleverantörer i Ryssland installera SORM-programmet i sitt system för att få vara internetleverantörer, så at FSB kan söka i deras system om de vill hitta information om någon. Att installera detta kostar mellan 10-30 000 dollar per leverantör och bekostas av internetleverantören själv. Vissa internetleverantörer tvingas dessutom att ha en deras servrar direkt anslutna till FSB så att all information hamnar där direkt. Detta beräknas kosta omkring 100 000 dollar per leverantör och betalas även det utav internetleverantören själv.</p><p>Med SORM så tar man upp allt ifrån kreditkortsbetalningar till internetchattar, e-mail och allt man gör med en telefon eller online med en dator.</p>",
+      "timeline": "World", "time": "1998", "title": "SORM-2", "revised": true,
+      "content": "<p>En reformering av SORM-1 som innebar att man nu även kontrollerade allt på internet. Enligt lag så måste alla internetleverantörer i Ryssland installera SORM-programmet i sitt system för att få vara internetleverantörer. Detta för att FSB ska kunna söka i deras system om de vill hitta information om någon. Att installera detta kostar mellan 10-30 000 dollar per leverantör och bekostas av internetleverantören själv. Vissa internetleverantörer tvingas dessutom att ha sina servrar direkt anslutna till FSB så att all information hamnar där direkt. Detta beräknas kosta omkring 100 000 dollar per leverantör och betalas även det utav internetleverantören själv.</p><p>Med SORM kan man ta upplysningar om allt ifrån kreditkortsbetalningar till internetchattar, e-mail och allt man gör med en telefon eller online med en dator.</p>",
       "sources": ["http://en.wikipedia.org/wiki/SORM"]
     },
     {
-      "timeline": "Tech", "time": "1997", "title": "Ansiktsigenkänning: Kommersialisering",
-      "content": "Ansiktsigenkänning blir kommersiellt tillgängligt i och med lanseringen av ZN-Face",
+      "timeline": "Tech", "time": "1997", "title": "Ansiktsigenkänning: Kommersialisering", "revised": true,
+      "content": "Ansiktsigenkänning blir kommersiellt tillgängligt i och med lanseringen mjukvaran ZN-Face.",
       "sources": ["https://en.wikipedia.org/wiki/Facial_recognition_system#History"]
     },
     {
-      "timeline": "World", "time": "1996", "title": "SORM-1",
-      "content": "Ryssland införde i Ryssland, som gått igenom för att installera 'SORM' så att FSB kunde registrera alla telefonsamtal inom landet, för att på så sätt kunna hitta om det finns hot och liknande.",
+      "timeline": "World", "time": "1996", "title": "SORM-1", "revised": true,
+      "content": "Är ett tekniskt system gjort för att kunna söka och övervaka Internet. 1995 stiftades en lag i Ryssland som gjorde det möjligt för FSB att avlyssna nationell telefon- och internetkommunikation med SORM.",
       "sources": ["http://en.wikipedia.org/wiki/SORM"]
     },
     {
-      "timeline": "Tech", "time": "199?", "title": "Kameraövervakning: Rörelseaktivering",
-      "content": "Rörelseaktiverad kameraövervakning minskar kostnaderna för övervakningen avsevärt",
+      "timeline": "Tech", "time": "199?", "title": "Kameraövervakning: Rörelseaktivering", "revised": true,
+      "content": "Rörelseaktiverad kameraövervakning minskar kostnaderna för övervakningen avsevärt, vilket gjorde att användandet av kameraövervakning ökade drastiskt.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
