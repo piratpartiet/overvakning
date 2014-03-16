@@ -90,7 +90,7 @@ function dataToTable(data) {
     dataGetCategories(data).map(function (key) {
       var sub = data[key];
       var subpath = path.concat([key]);
-      if (sub.value != undefined && sub.value != '') {
+      if (sub.value != undefined && sub.value !== '') {
         updatePath(subpath, sub.value);
       }
       dataToTable(subpath, sub);
