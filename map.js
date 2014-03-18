@@ -61,7 +61,7 @@ function dataToTable(data) {
   var lastpath = [];
 
 
-  function updatePath(path, value) {
+  function updatePath(path) {
     var common = commonPrefix(lastpath, path);
     lastpath = path;
     path = path.slice(common);
@@ -70,8 +70,12 @@ function dataToTable(data) {
       var colspan = width - common - i - 1;
       res += '<tr>';
       res += strMul('<td class="iteminfo-bump">&nbsp;</td>', common + i);
-      res += '<td colspan="' + colspan + '">' + path[i] + '</td>';
-      var v = value;
+      var label = path[i].key;
+      if (path[i].item.Source && path[i].item.Source.value) {
+        label += " <a href='" + path[i].item.Source.value + "'><i class='fa fa-external-link'></i></a>";
+      }
+      res += '<td colspan="' + colspan + '">' + label + '</td>';
+      var v = path[path.length-1].item.value;
       if (i < path.length - 1) {
         v = '';
       }
@@ -89,9 +93,9 @@ function dataToTable(data) {
   function dataToTable(path, data) {
     dataGetCategories(data).map(function (key) {
       var sub = data[key];
-      var subpath = path.concat([key]);
+      var subpath = path.concat([{key:key, item:sub}]);
       if (sub.value != undefined && sub.value !== '') {
-        updatePath(subpath, sub.value);
+        updatePath(subpath);
       }
       dataToTable(subpath, sub);
     });
