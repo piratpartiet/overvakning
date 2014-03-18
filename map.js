@@ -2,6 +2,22 @@ var map, layer;
 
 var state = {category: "Privacy International 2007/Totalt"};
 
+function Condition() {
+  this.is_true = false;
+  this.waiting = [];
+}
+Condition.prototype.set = function (cb) {
+  this.is_true = true;
+  async.series(this.waiting, cb);
+}
+Condition.prototype.wait = function (cb) {
+  if (this.is_true) {
+    cb(function () {});
+  } else {
+    this.waiting.push(cb);
+  }
+}
+
 function padDigits(number, digits) {
   return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;
 }
@@ -106,7 +122,7 @@ function dataToTable(data) {
 }
 
 $(document).ready(function () {
-  var mapTabClicked;
+  var mapTabClicked = new Condition();
 
   async.series([
     function(cb){
@@ -137,7 +153,7 @@ $(document).ready(function () {
     },
 
     function (cb) {
-      mapTabClicked = cb;
+      mapTabClicked.wait(function () { cb(); });
     },
 
     function (cb) {
@@ -262,5 +278,5 @@ $(document).ready(function () {
   function(err, results){
 
   });
-    $('#map-tab a').on('shown.bs.tab', function (e) { if (mapTabClicked) mapTabClicked(); mapTabClicked = false; });
+  $('#map-tab a').on('shown.bs.tab', function (e) { mapTabClicked.set(); });
 });
