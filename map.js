@@ -271,6 +271,8 @@ $(document).ready(function () {
         $("#mapcontrols").append(html);
       });
 
+      $("#map-pane .loading").fadeOut(1000);
+      
       cb();
 
     }
