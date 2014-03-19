@@ -233,7 +233,7 @@ $(document).ready(function () {
           var categoryslug = $.slugify(categorypath);
           var subcategories = Object.keys(categories[category]);
           if (subcategories.length == 0 || (subcategories.length == 1 && subcategories[0] == 'Source')) {
-            var choice = $("<div><input type='radio' name='category' id='" + categoryslug + "' value='" + categorypath.join("/") + "'><label for='" + categoryslug + "'>" + category + "</label> </div>");
+            var choice = $("<div class='nowrap'><input type='radio' name='category' id='" + categoryslug + "' value='" + categorypath.join("/") + "'><label class='wrap' for='" + categoryslug + "'>" + category + "</label> </div>");
             var src = getByCategory(data.regiondata.All, categorypath.concat(["Source"]).join("/")).value;
             if (src) {
               link = $("<a><i class='fa fa-external-link'></i></a>");
