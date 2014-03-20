@@ -7,172 +7,172 @@
   ],
   "stories": [
     {
-      "timeline": "World", "time": "2014", "title": "SORM: Vinter-OS i Sochi", "revised": true,
+      "timeline": "World", "time": "2014", "title": "SORM: Vinter-OS i Sochi",
       "content": "<p>Det ryska övervakningsdepartementet, FSB, beslutade att i hemlighet göra en märkbar uppgradering av SORM inför vinter OS i Sotji med syfte att kunna övervaka all kommunikation inför och under de olympiska spelen. Med metoden Deep Packet Inspection hade man i smyg översikt över innehållet i all kommunikation utöver vem som kommunicerat med vem. Det vill säga att ingen person, varken tävlande, åskådare, arrangörer eller invånare i Sotji undkom ryska statens övervakning.</p><p>Ditresande amerikaner hade blivit förvarnade om omfattningen av övervakningssystemet, vilket många besökare ändå inte var medvetna om.</p><p>'Ring of steel' är Rysslands egna benämning på säkerthetsystemet, där SORM bara utgör en mindre del. En standard förklaring, till att övervakning av den här graden behövs, är hotet om terrorism. OS i Sotji är ett av de mest påkostade OS genom tiderna och det gäller även för övervakningen.</p>",
       "sources": ["http://en.wikipedia.org/wiki/SORM", "http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
-      "timeline": "Tech", "time": "2013-10-28", "title": "Sociogram: Relationer på väg att avslutas", "revised": true,
+      "timeline": "Tech", "time": "2013-10-28", "title": "Sociogram: Relationer på väg att avslutas",
       "content": "Forskare från Cornell University, i sammarbete med Facebook, visade att man kan räkna ut hur stor sannolikheten är att en kärleksrelation kommer att ta slut utifrån personernas sociala kontext - vem som känner vem.",
       "sources": ["http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
     },
     {
-      "timeline": "World", "time": "2013", "title": "PRISM: Snowdens avslöjade", "revised": true,
+      "timeline": "World", "time": "2013", "title": "PRISM: Snowdens avslöjade",
       "content": "<p>PRISM fick allmänheten vetskap om när 41 powerpointslides läcktes ut från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visade att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation åker igenom/förbi USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, google och Yahoo stod för 98% av matrialet i PRISM.</p><p>Snowden avslöjade också att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också lagrar en stor del av världens internetkommunikation. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databaser där allt finns lagrat, vilket innebär att de ohindrat kan gå in och söka efter exakt den informationen de söker. Utan tvekan hittar de information som få personer ens är medvetna om att de lämnar bakoms sig genom sin blotta närvaro som  internetanvändare.</p><p>Kärnan i avslöjandet handlar om att det man tror och vill ska vara privat är något som man som individ inte längre har så stor kontroll över.</p><p>Många, speciellt tyskarna, påstår efter avsöjandet att NSA egentligen är involverad i en farlig och kriminell aktivitet. Man menar att de genom att hacka sig in hos privatpersoner tar del utav deras privatliv obemärkt, men även sjukhus, universitet och privata företag.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM"]
     },
     {
-      "timeline": "SE", "time": "2013", "title": "SMS-betalningar", "minor": true, "revised": true,
+      "timeline": "SE", "time": "2013", "title": "SMS-betalningar", "minor": true,
       "content": "<a href='https://lagen.nu/2010:751'>Betaltjänstlagen</a> tvingar leverantörer av SMS-betalningstjänster att upprätthålla ett register över de som använder tjänsten.",
       "sources": ["https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=5458787"]
     },
     {
-      "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering", "revised": true,
+      "timeline": "SE", "time": "2012-03-21", "title": "Datalagringsdirektivet: Implementering",
       "content": "Datalagringsdirektivet, som innebär att all metadata om internet- och teletrafik måste lagras av operatörerna, <a href='https://lagen.nu/2003:389#K6R11'>införs i svensk lagstiftning</a>.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet#Sverige"]
     },
     {
-      "timeline": "EU", "time": "2012", "title": "OS i London", "revised": true,
+      "timeline": "EU", "time": "2012", "title": "OS i London",
       "content": "London, en stad som är känd för att övervaka sin befolkning, hade en övervakningskamera som sin OS-maskot. Teknologi som ansiktsigenkänning och nummerplåts-läsare var något som användes systematiskt under hela OS, metoder som Englands polis snabbt anammade för att lättare hitta kriminella. Man sa att insatsen var den största mobila militära och säkerhetsåtergärden som pågått i England sedan andra världskriget, vilket kostade över en biljon dollar att verkställa.",
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
-      "timeline": "World", "time": "2010-02", "title": "Kameraövervakning av highschoolelever", "minor": true, "revised": true,
+      "timeline": "World", "time": "2010-02", "title": "Kameraövervakning av highschoolelever", "minor": true,
       "content": "Det uppdagades att två gymnasieskolor i USA spionerat på sina studenter med webkamerorna i de laptops som studenterna fått låna av skolan. Övervakningen skall ha skett även på fritiden, och i studenternas hem. Skolorna hade även övervakat chattloggar och websidehistorik.",
       "sources": ["http://en.wikipedia.org/wiki/Robbins_v._Lower_Merion_School_District"]
     },
     {
-      "timeline": "SE", "time": "2009-10-14", "title": "FRA-lagen", "revised": true,
+      "timeline": "SE", "time": "2009-10-14", "title": "FRA-lagen",
       "content": "Trots lobbande och debatter röstades <a href='http://www.regeringen.se/sb/d/8670/a/78367'>FRA-lagen</a> igenom med inte större marginal än 158 röster mot 153 röster. Lagen ger Försvarets Radioanstallt (FRA) rätt att avlyssna all trådbunden trafik som passerar Sveriges gränser, t.ex. internet- och tele-trafik. FRA lagrar metadata för alla sådan trafik i en databas som kallas Titan. FRA utbyter även avlyssningsinformation med övervakningstjänster i andra länder, i första hand inom gruppen Five Eyes. Det finns läckta dokument som tyder på att FRA-lagen kom till genom ett samarbete mellan USA, Storbritannien och Sverige.",
       "sources": ["https://sv.wikipedia.org/wiki/FRA-lagen", "https://sv.wikipedia.org/wiki/Trafikdatabasen_Titan"]
     },
     {
-      "timeline": "EU", "time": "2009-2014", "title": "INDECT", "revised": true,
+      "timeline": "EU", "time": "2009-2014", "title": "INDECT",
       "content": "INDECT är ett forskningsprojekt inom EU med en budget på €14,828,107. Forskningen är inriktad på övervakningsteknologi, speciellt inom rörelse- mönster- och person-igenkänning i video, och  sökning bland automatiskt igenkända objekt och relationer.",
       "sources": ["https://en.wikipedia.org/wiki/INDECT"]
     },
     {
-      "timeline": "EU", "time": "2008–2012", "title": "Optic Nerve", "revised": true,
+      "timeline": "EU", "time": "2008–2012", "title": "Optic Nerve",
       "content": "Storbritanniens övervakningstjänst, GCHQ, hade vid den här tiden samlat in webcam-bilder från 1.8 miljoner Yahoo-användares videochattar, många av dem med sexuellt innehåll.",
       "sources": ["http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo"]
     },
     {
-      "timeline": "World", "time": "2008", "title": "OS i Beijing", "revised": true,
+      "timeline": "World", "time": "2008", "title": "OS i Beijing",
       "content": "Kina köpte in en hel del ny övervakningsutrustning från väst, inkluderat hundratusentals kameror beväpnade med biometrisk identifiering programvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
-      "timeline": "World", "time": "2007", "title": "PRISM", "revised": true,
+      "timeline": "World", "time": "2007", "title": "PRISM",
       "content": "<p>Ett världsomspännande datalagringssystem skapades av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, facebook, apple etc själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA.</p><p>Genom PRISM är det lagligt att läsa alla mejl, lyssna av alla telefonsamtal, läsa av alla livechattar, utan att ansöka om en husransakningsorder.</p><p>Man började med PRISM i ett 'skydda Amerika'-projekt med syfte att upptäcka terrorhot och få specifik kunskap om vilka som var ett hot mot landets säkerhet.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"]
     },
     {
-      "timeline": "EU", "time": "2006-05-03", "title": "Datalagringsdirektivet", "revised": true,
+      "timeline": "EU", "time": "2006-05-03", "title": "Datalagringsdirektivet",
       "content": "Datalagringsdirektivet är ett <a href='http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:105:0054:01:EN:HTML'>EU-direktiv</a> som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land). Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position), och kan användas bland annat för att bygga sociogram.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
-      "timeline": "SE", "time": "2006", "title": "Hyresgästers integritet", "minor": true, "revised": true,
+      "timeline": "SE", "time": "2006", "title": "Hyresgästers integritet", "minor": true,
       "content": "<p>År 2006 skrev SABO en branschöverenskommelse om vilka uppgifter privata och kommunala bostadsbolag får registrera om sina hyresgäster. Överenskommelsen skulle tillsammans med personuppgiftslagen garantera hyresgästers integritet.</p><p>2013 framkommer det att ett flertal bostadsbolag över hela Sverige både brutit mot överenskommelsen, och registrerat uppgifter i strid med Personuppgiftslagen.</p>",
       "sources": ["http://www.fastighetssverige.se/artikel/hyresgaster-registreras-over-hela-landet-12305/", "http://www.svt.se/nyheter/regionalt/vastnytt/dom-om-register-kan-fa-konsekvenser"]
     },
     {
-      "timeline": "World", "time": "2005", "title": "The Real Time Regional Gateway", "revised": true,
+      "timeline": "World", "time": "2005", "title": "The Real Time Regional Gateway",
       "content": "Ett datalagringsprogram som implementerades av NSA under kriget i Irak. Programmet samlade in all elektronisk kommunikation i Irak, lagrade och analyserade datat. På det här sättet kom man effektivt åt information om irakiska rebeller.",
       "sources": ["https://en.wikipedia.org/wiki/National_Security_Agency"]
     },
     {
-      "timeline": "World", "time": "2003", "title": "Golden Shield tas i bruk", "revised": true,
+      "timeline": "World", "time": "2003", "title": "Golden Shield tas i bruk",
       "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' tas i bruk. Den censurerar och övervakar Internet inom landets gränser, blockar IP-adresser, blocka och/eller omdirrigerar domännamn, filtrerar webadresser, filtrerar IP-paket, och stoppar anslutningar. Ciska 30000 till 50000 poliser jobbar idag i Golden Shield-projektet.",
       "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
-      "timeline": "World", "time": "2002", "title": "Target: Köpmönster", "minor": true, "revised": true,
+      "timeline": "World", "time": "2002", "title": "Target: Köpmönster", "minor": true,
       "content": "Genom att analyser  förändringar i kunders köpmönster byggde det amerikanska detaljhandelsföretaget Target en statistisk modell. Modellen blev en metod för att  avgöra om en kund var gravid, och i så fall i vilken månad. De använde modellen för att skicka riktad reklam till blivande mödrar.",
       "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html", "http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/"]
     },
     {
-      "timeline": "World", "time": "2001-10-26", "title": "USA PATRIOT ACT", "revised": true,
+      "timeline": "World", "time": "2001-10-26", "title": "USA PATRIOT ACT",
       "content": "Amerikansk lagstiftning som tillåter att icke-medborgare kan spärras in på obestämd tid. Myndigheterna har rätt att avlyssna medborgare, begära ut historik över boklån på bibliotek och företagsregister, information om sjukhusvistelser vid misstanke terrorverksamhet. Myndigheterna har även rätt att förhindra företag från att meddela berörd part att informationen lämnats ut.",
       "sources": ["http://en.wikipedia.org/wiki/Patriot_Act"]
     },
     {
-      "timeline": "World", "time": "2000", "title": "SORM: Tillgänglighet", "revised": true,
+      "timeline": "World", "time": "2000", "title": "SORM: Tillgänglighet",
       "content": "Under Vladmir Putins första vecka som Rysslands president antogs en ny lag om att sju nya statliga organisationer skulle få tillgång till den information FSB samlat in genom övervakningsverktyget SORM.",
       "sources": ["http://en.wikipedia.org/wiki/SORM"]
     },
     {
-      "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning", "revised": true,
+      "timeline": "Tech", "time": "1999", "title": "Mobiltelefoner: GPS-spårning",
       "content": "Benefon producerar den första mobilen med inbygd GPS-mottagare.",
       "sources": ["https://en.wikipedia.org/wiki/Benefon#Historical_products"]
     },
     {
-      "timeline": "World", "time": "1998", "title": "Golden Shield: Projektstart", "revised": true,
+      "timeline": "World", "time": "1998", "title": "Golden Shield: Projektstart",
       "content": "Kina startar sitt nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China'. Målet är i första hand en allomfattande censur och övervakning av Internet inom landets gränser, och i andra hand att integrera alla typer av övervakning (internet, kameror, ansiktsigenkänning, smartcards, kreditkort etc) i ett verktyg.",
       "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
-      "timeline": "World", "time": "1998", "title": "SORM-2", "revised": true,
+      "timeline": "World", "time": "1998", "title": "SORM-2",
       "content": "<p>En reformering av SORM-1 som innebar att man nu även kontrollerade allt på internet. Enligt lag så måste alla internetleverantörer i Ryssland installera SORM-programmet i sitt system för att få vara internetleverantörer. Detta för att FSB ska kunna söka i deras system om de vill hitta information om någon. Att installera detta kostar mellan 10-30 000 dollar per leverantör och bekostas av internetleverantören själv. Vissa internetleverantörer tvingas dessutom att ha sina servrar direkt anslutna till FSB så att all information hamnar där direkt. Detta beräknas kosta omkring 100 000 dollar per leverantör och betalas även det utav internetleverantören själv.</p><p>Med SORM kan man ta upplysningar om allt ifrån kreditkortsbetalningar till internetchattar, e-mail och allt man gör med en telefon eller online med en dator.</p>",
       "sources": ["http://en.wikipedia.org/wiki/SORM"]
     },
     {
-      "timeline": "Tech", "time": "1997", "title": "Ansiktsigenkänning: Kommersialisering", "revised": true,
+      "timeline": "Tech", "time": "1997", "title": "Ansiktsigenkänning: Kommersialisering",
       "content": "Ansiktsigenkänning blir kommersiellt tillgängligt i och med lanseringen mjukvaran ZN-Face.",
       "sources": ["https://en.wikipedia.org/wiki/Facial_recognition_system#History"]
     },
     {
-      "timeline": "World", "time": "1996", "title": "SORM-1", "revised": true,
+      "timeline": "World", "time": "1996", "title": "SORM-1",
       "content": "Är ett tekniskt system gjort för att kunna söka och övervaka Internet. 1995 stiftades en lag i Ryssland som gjorde det möjligt för FSB att avlyssna nationell telefon- och internetkommunikation med SORM.",
       "sources": ["http://en.wikipedia.org/wiki/SORM"]
     },
     {
-      "timeline": "Tech", "time": "199?", "title": "Kameraövervakning: Rörelseaktivering", "revised": true,
+      "timeline": "Tech", "time": "199?", "title": "Kameraövervakning: Rörelseaktivering",
       "content": "Rörelseaktiverad kameraövervakning minskar kostnaderna för övervakningen avsevärt, vilket gjorde att användandet av kameraövervakning ökade drastiskt.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "SE", "time": "1973", "title": "IB: Avslöjjas", "revised": true,
+      "timeline": "SE", "time": "1973", "title": "IB: Avslöjjas",
       "content": "Jan Guillou och Peter Bratt avslöjar att den socialdemokratiska regeringen byggt upp en parallell organisation till SÄPO för att övervaka kommunister. Det dröjer dock till 1982 innan socialdemokraternas partisekreterare Sten Andersson erkänner affären.",
       "sources": ["http://wwwc.aftonbladet.se/nyheter/9808/18/sten.html"]
     },
     {
-      "timeline": "Tech", "time": "197?", "title": "Kameraövervakning: Videobandspelare", "revised": true,
+      "timeline": "Tech", "time": "197?", "title": "Kameraövervakning: Videobandspelare",
       "content": "I och med videobandspelarnas intåg skapades nyare och effektivare möjligheter för kamerövervakning. Detta gjorde att metoden blev betydligt vanligare.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "Tech", "time": "1968", "title": "Kameraövervakning: I vardagen", "minor": true, "revised": true,
+      "timeline": "Tech", "time": "1968", "title": "Kameraövervakning: I vardagen", "minor": true,
       "content": "För första gången användes en kamera för att bevaka en helt vanlig shoppinggata, tidigare gjordes detta bara vid ytterst specifika omständigheter.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true, "revised": true,
+      "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true,
       "content": "Forskning inom ansiktsigenkänning påbörjas av matematikern Woody Bledsoe på University of Stanford i USA.",
       "sources": ["https://en.wikipedia.org/wiki/Facial_recognition_system#History"]
     },
     {
-      "timeline": "World", "time": "1964", "title": "UKUSA: Echelon", "revised": true,
+      "timeline": "World", "time": "1964", "title": "UKUSA: Echelon",
       "content": "Ett världsomspännande signalspanings- och nätsammarbete, kallat ECHELON grundas av Austarlien, Kanada, Nya Zealand, Storbritanien, och USA. Den här konstellationen kallas i vissa sammanhang för Five Eyes.",
       "sources": ["https://en.wikipedia.org/wiki/ECHELON"]
     },
     {
-      "timeline": "Tech", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning", "revised": true,
+      "timeline": "Tech", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning",
       "content": "Under spionsattelitprogrammet CORONA skjuter USA upp satelliter runt jordens omloppsbana. Dessa satelliter tog helt analoga bilder som med en upplösning av 0.3m är bättre än de bilder som är tillgängliga idag genom google earth.",
       "sources": ["https://en.wikipedia.org/wiki/CORONA"]
     },
     {
-      "timeline": "SE", "time": "1957", "title": "IB: Försvarsstabens särskilda byrå", "revised": true,
+      "timeline": "SE", "time": "1957", "title": "IB: Försvarsstabens särskilda byrå",
       "content": "<p>Vid Försvarsstabens sektion II/Inrikesavdelningen inrättades 1957 en enhet för inrikes säkerhetsfrågor, Grupp B. 1961 blev organisationen mer självständig och döptes därför om till B-kontoret. 1965 slogs det inrikesinriktade B-kontoret samman med det utrikesinriktade T-kontoret och blev Försvarsstabens särskilda byrå.</p><p>Organisationen, som var en svensk underrättelseorganisation, kom senare att kallas IB när det uppdagades att informationen som fackförbundens arbetsplatsombud samlat in överlämnats till Grupp B.</p><p>Skandalen var ett faktum när det även framkom att Grupp B vidarebefordrat delar av denna information till Säpo, som införde uppgifterna i sitt centrala register. Detta register användes bland annat vid personalkontroll inför anställningar vid ett stort antal företag som hade betydelse för totalförsvaret.</p>",
       "sources": ["https://sv.wikipedia.org/wiki/IB"]
     },
     {
-      "timeline": "Tech", "time": "1955-03-16", "title": "Spionsatelliter", "minor": true, "revised": true,
+      "timeline": "Tech", "time": "1955-03-16", "title": "Spionsatelliter", "minor": true,
       "content": "Amerikanska luftförsvaret USAF beställer den första spionsatelliten.",
       "sources": ["https://en.wikipedia.org/wiki/Spy_satellites#History"]
     },
     {
-      "timeline": "EU", "time": "1950-02-08", "title": "STASI", "revised": true,
+      "timeline": "EU", "time": "1950-02-08", "title": "STASI",
       "content": "<p>Östtysklands övervakningsorgan STASI grundades. STASI kom att ha 90000 anställda, 170000 inofficiella fulltidsarbetande kollaboratörer (ca. 2% av medborgarna), samt ett stort antal deltidsinformanter. Totalt fanns det en(1) STASI-informatör per 6.5 invånare. STASI ägnade sig åt ljud- och videoövervakning av hem, öppnade brev och utpressade medborgare på information och de värvades som informanter.</p><p>123000 tyska medborgare och 35000 personer med annan härkomst internerades i läger i Östtyskland.</p>",
       "sources": ["https://en.wikipedia.org/wiki/Mass_surveillance_in_East_Germany"]
     },
@@ -187,163 +187,163 @@
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1945", "title": "Övervakning i Sverige efter kriget", "revised": true,
+      "timeline": "SE", "time": "1945", "title": "Övervakning i Sverige efter kriget",
       "content": " Efter andra världskrigets slut fortsatte1 man att avlyssna alla telefoner för potentiella hot och säkerhetstjänsten permanentades, dock med något mindre budget.  Efter en tid minskades avlyssningens omfattning på grund av tekniska problem.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1944", "title": "IB: Socialdemokraterna och fackförbunden", "revised": true,
+      "timeline": "SE", "time": "1944", "title": "IB: Socialdemokraterna och fackförbunden",
       "content": "<p>Sveriges kommunistiska parti (SKP) fick 10,3 procent av rösterna i andrakammarvalet 1944 och en allt mer betydande roll i den svenska arbetarrörelsen. I kampen mot SKP om makten över fackföreningsrörelsen var  Socialdemokraternas strategi att låta 20 000 arbetsplatsombud rapportera vilka fackföreningsmedlemmar som antogs vara kommunister. Det slöts en överenskommelse mellan Försvarsstaben och representanter för socialdemokraterna, där Försvarsstaben skulle få nyttja sig av arbetsplatsorganisationen som partiet hade byggt upp.</p><p>Informationen som arbetsplatsombuden samlat in överlämnades till Försvarsstaben och ett omfattande åsiktsregister byggdes upp. Det användes vid kontroller av arbetssökande till försvarsmakten, samt inför inkallelser och krigsplaceringar.</p>",
       "sources": ["https://sv.wikipedia.org/wiki/IB", "https://sv.wikipedia.org/wiki/V%C3%A4nsterpartiet", "https://sv.wikipedia.org/wiki/Andrakammarvalet_1944"]
     },
     {
-      "timeline": "World", "time": "1943", "title": "IBM och registreringen av fångar", "revised": true,
+      "timeline": "World", "time": "1943", "title": "IBM och registreringen av fångar",
       "content": "<p>IBM vidareutvecklade tekniken för Holleriths hålkortsmaskiner och blev underleverantörer till amerikanska fångläger och fängelser. Under WW2, när USA låg i krig med Japan, användes registreringsmetoden till exempel.</p><p>Att IBM var leverantörer av liknande teknik till naziregimen var en källa till kontrovers för IBM när regimen föll.</p>",
       "sources": ["https://en.wikipedia.org/wiki/IBM_during_World_War_II"]
     },
     {
       "timeline": "Tech", "time": "1942", "title": "Kameraövervakning",
-      "content": "Det första kameraövervakningssystemet installerades i Tyskland för att övervaka starten av V-II-raketer.",
+      "content": "Det första kameraövervakningssystemet installerades av det tyska teknikföretaget Siemens AG för att övervaka uppskjutningen av V-2-raketer.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "SE", "time": "1939-1944", "title": "Omfattande övervakning", "revised": true,
+      "timeline": "SE", "time": "1939-1944", "title": "Omfattande övervakning",
       "content":  "En hemlig polisiär säkerhetstjänst bildads för att hantera hotet av ett nytt världskrig, och man åsiktsregistrerade hela befolkningen samt eventuella sammarbeten och kontakter. Cirka 200 000 brev i veckan granskades, och totalt 11 miljoner samtal blev avlyssnade under hela WW2.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1938-11-??", "title": "Etnisk åtskillnad i skolan", "minor": true, "revised": true,
+      "timeline": "EU", "time": "1938-11-??", "title": "Etnisk åtskillnad i skolan", "minor": true,
       "content": "Judiska barn flyttades till särskilda judiska skolor. Tre år senare förbjöds all skolgång för judiska barn.",
       "sources": ["http://www.theholocaustexplained.org/ks3/life-in-nazi-occupied-europe/impact-on-jewish-communities/education-the-jewish-experience/"]
     },
     {
-      "timeline": "EU", "time": "1938", "title": "Interneringsläger", "revised": true,
+      "timeline": "EU", "time": "1938", "title": "Interneringsläger",
       "content": "I Europa fanns 30000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades och kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger"]
     },
     {
-      "timeline": "EU", "time": "1937-10-21", "title": "Återvändande sattes i koncentrationsläger", "minor": true, "revised": true,
+      "timeline": "EU", "time": "1937-10-21", "title": "Återvändande sattes i koncentrationsläger", "minor": true,
       "content":"Himmler utfärdade en order om att alla tyskar som hade emigrerat från Tyskland efter den 30 januari 1933 skulle arresteras och sändas till koncentrationsläger om de återvände. Orden syftade till att hindra både judar och politiska motståndare från att återvända till Tyskland.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "EU", "time": "1937-09-13", "title": "Judar uppmanas emigrera", "minor": true, "revised": true,
+      "timeline": "EU", "time": "1937-09-13", "title": "Judar uppmanas emigrera", "minor": true,
       "content": "SS högsta ledare Heinrich Himmler utfärdade en order att fängslade judar skulle friges om de emigrerade från Tyskland. Många av de tiotusentals judar som arresterades under Kristallnatten i november 1938 kom senare att 'erbjudas' samma möjlighet.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-judefritt-tyskland"]
     },
     {
-      "timeline": "EU", "time": "1935-02-10", "title": "Förbud mot att uppmuntra judar", "minor": true, "revised": true,
+      "timeline": "EU", "time": "1935-02-10", "title": "Förbud mot att uppmuntra judar", "minor": true,
       "content":"1935 kom en lag i Tyskland om att man inte fick ha möten eller göra något uppmuntrande för att judarna skulle få stanna kvar i tyskland. Man uppmuntrade judarna att isolera sig eller emigrera för att inte störa det Tyska samhället.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-judefritt-tyskland"]
     },
     {
-      "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger", "minor": true, "revised": true,
+      "timeline": "EU", "time": "1935", "title": "Judar sändes till koncentrationsläger", "minor": true,
       "content":"Under senare delen av 1930-talet genomförde nazisterna flera arresteringsaktioner mot judar med syftet att öka pressen på judiska personer att lämna Tyskland. Judarna som arresterats sändes till koncentrationsläger.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
-      "timeline": "Tech", "time": "1934", "title": "Sociogram", "revised": true,
+      "timeline": "Tech", "time": "1934", "title": "Sociogram",
       "content": "Jacob L. Moreno forskade på sociala nätverk och hur de kan analyseras och skapade ett visuellt hjölpmedel som kallas sociogram. Ett sociogram kan användas för många typer av analyser av mänskliga grupper, t.ex. för att avgöra chansen för att en kärleksrelation skall uppstå eller avslutas.",
       "sources": ["https://en.wikipedia.org/wiki/Sociogram", "http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
     },
     {
-      "timeline": "EU", "time": "1933-05-10", "title": "Bokbål på oariska böcker", "revised": true,
+      "timeline": "EU", "time": "1933-05-10", "title": "Bokbål på oariska böcker",
       "content": "Det tyska propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. En av metoderna för att kontrollera landets kultur var att bränna 'otyska' böcker och den 10 maj genomfördes stora bokbål runt om i landet. Vid slutet av 1934 hade över 5000 boktitlar förbjudits.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]     
     },
     {
-      "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades", "revised": true,
+      "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades",
       "content": "Tyskland införde den så kallade 'ariska klausulen'. Enligt denna kunde judar avskedas från statliga och offentliga tjänster utan anledning. Lagen medförde att att de tyska judarna ganska snart förbjöds att tjänstgöra inom de flesta offentliga yrken, exempelvis som läkare, tandläkare, lärare, advokater och redaktörer. De utestängdes också från allmänna organisationer och föreningar, exempelvis idrottsföreningar.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/de-forsta-anti-judiska-atgarderna"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Etnisk rensning under Anschluß", "revised": true,
+      "timeline": "EU", "time": "1933", "title": "Etnisk rensning under Anschluß",
       "content": "Tyskland tog över Östrerike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly. Av de som stannade mördades omkring 65 000 personer. Under sommaren 1938 flydde cirka 50 000, under den följande hösten och vintern ytterligare ca 50 000, och under de två åtföljande åren ytterligare 25 000.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/judeforfoljelserna-i-osterrike"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Judar utestängs från högre utbildning", "minor": true, "revised": true,
+      "timeline": "EU", "time": "1933", "title": "Judar utestängs från högre utbildning", "minor": true,
       "content": "Den 25 april 1933 begränsades judars möjligheter till högre utbildning. Enligt en ny lag fick judar utgöra högst 1,5 procent av alla gymnasie- och universitetsstuderande i Tyskland. Varje enskild skola fick ha högst 5 procent judiska studenter. På grund av en gällande lag om obligatorisk skolplikt gjordes inga begränsningar för judar i grundskolan. Många judiska grundskoleelever flyttade ändå frivilligt över till rent judiska skolor på grund av det anti-judiska klimatet och trakasserier från icke-judiska lärare och elever.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/de-forsta-anti-judiska-atgarderna"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Tysk propaganda", "minor": true, "revised": true,
+      "timeline": "EU", "time": "1933", "title": "Tysk propaganda", "minor": true,
       "content":"Den tyska regeringen försökte påverka vad som skrevs om Tyskland i andra länder genom att skicka oficiella protester till andra länders regeringar när tidningar i de länderna skrev negativt om Tyskland. Protesterna var oftast, mer eller mindre hotfullt formulerade. Många utländska tidningar förbjöds också i Tyskland och det blev förbjudet att lyssna på utländsk radio.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]
     },
     {
-      "timeline": "EU", "time": "1933", "title": "Tysklands censur ökar", "revised": true,
+      "timeline": "EU", "time": "1933", "title": "Tysklands censur ökar",
       "content": "Under 1933 införde regeringen allt hårdare restriktioner för vad som fick sändas och skrivas i medierna, och man kontrollerade och begränsade musik-, teater- och filmproduktion.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]
     },
     {
-      "timeline": "SE", "time": "1932", "title": "Åsiktsregistrering av nazister och kommunister", "minor": true, "revised": true,
+      "timeline": "SE", "time": "1932", "title": "Åsiktsregistrering av nazister och kommunister", "minor": true,
       "content": "Polisen åsiktsregistrerade nazister och kommunister. I registret fanns cirka 100 000 namn.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1930", "title": "Etnisk registrering", "revised": true,
+      "timeline": "EU", "time": "1930", "title": "Etnisk registrering",
       "content": "<p>Vid den här tiden ökade invandringen och utvandringen mellan de europeiska länderna. I Tyskland började man att kontrollera vilka som var judar genom att deklarera att alla judiska pass var ogiltiga, vilket tvingade judarna att ansöka om ett nytt pass. I detta nya pass markerade myndigheterna sedan ett rött j för att markera att bäraren hade judiskt påbrå.</p><p>Detta gjorde det omöjligt för judar i början av och under WW2 att röra sig över vissa gränser.</p>",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/ett-j-i-alla-tyska-judars-pass"]
     },
     {
-      "timeline": "SE", "time": "1929", "title": "Åsiktsregistrering av värnpliktiga", "minor": true, "revised": true,
+      "timeline": "SE", "time": "1929", "title": "Åsiktsregistrering av värnpliktiga", "minor": true,
       "content": "Man började att registrera alla värnpliktiga, deras familjetillhörighet och politiska åsikter. Det blev dock inte offentligt att militären fått tillstånd att göra detta förrän 1969.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1921", "title": "Kommunister och nazister övervakades", "revised": true,
+      "timeline": "SE", "time": "1921", "title": "Kommunister och nazister övervakades",
       "content": "Man började att övervaka alla svenska politiker, utom stadsministern själv. UB fick 20 000 kr varje år för att spionera och marinens underrättelsetjänst fick mellan 5-10 000 kr för att hjälpa till. Dessutom sköts en okänd summa privata medel till.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1921", "title": "Kommunister avskedades", "revised": true,
+      "timeline": "SE", "time": "1921", "title": "Kommunister avskedades",
       "content": "Kommunister förbjöds att ha statlig tjänst, och kommunistiska militärer avskedades. Kommunister fick inte heller använda vapen när de gjorde lumpen.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "Tech", "time": "1920", "title": "ENIGMA, den första krypteringsmaskinen.", "revised": true,
+      "timeline": "Tech", "time": "1920", "title": "ENIGMA, den första krypteringsmaskinen.",
       "content":  "<p>Arthur Scherbius, var en tysk elektroingenjör, som är känd som fadern till chiffermaskinen ENIGMA. Den här maskonen producerades från första hälften av 1920-talet. Mest känt är Nazitysklands användning av maskinen, före och under andra världskriget, då den antogs av tyska flottan och armén där den modifierades. Wehrmacht Enigma är den tyska modellen, som oftast avses i sammanhanget. En stor anledning till att maskinen uppmärksammats beror på att de allierade lyckades dechiffrera en stor mängd information som krypterats med maskinen.</p><p>Den sekretssbelagda informationen som de lyckades komma över på detta sättet var en viktig del i alliansens framgångar.</p>",
       "sources": ["https://sv.wikipedia.org/wiki/Kryptering", "https://sv.wikipedia.org/wiki/Arthur_Scherbius", "https://sv.wikipedia.org/wiki/Enigma_%28krypteringsmaskin%29", "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "SE", "time": "1914", "title": "Generalstabens första byrå", "revised": true,
+      "timeline": "SE", "time": "1914", "title": "Generalstabens första byrå",
       "content": "Idag kallad för SÄPO, var Sverige första polisstyrka vars huvudsyfte var, och fortfarande är, att arbeta med brott som hotar rikets säkerhet.",
       "sources": ["http://www.sakerhetspolisen.se/"]
     },
     {
-      "timeline": "EU", "time": "1914", "title": "Signalspaning: Utnyttjande i krig", "revised": true,
+      "timeline": "EU", "time": "1914", "title": "Signalspaning: Utnyttjande i krig",
       "content": "Under WW1 använde tyskarna signalspaning mot ryssarna och fick reda på deras planer inför slaget vid Tannenerg 1914, vilket ledde till att Tyskland segrade.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
-      "timeline": "EU", "time": "1892", "title": "Fingeravtryck: Bottsregister", "revised": true,
+      "timeline": "EU", "time": "1892", "title": "Fingeravtryck: Bottsregister",
       "content": "Den argentinske polischefen Juan Vucetich skapade den första byrån som registrerade fingeravtryck, år 1892. Sju år senare, 1897, etablerades en motsvarande byrå i Calcutta, Indien, efter att regeringen fattat ett beslut om att börja registrera fingeravtryck i syfte att organisera brottssregistret.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
-      "timeline": "Tech", "time": "1888", "title": "Holleriths tabulator", "revised": true,
+      "timeline": "Tech", "time": "1888", "title": "Holleriths tabulator",
       "content": "Under 1800-talets 8e decennium hade det Amerikanska folkräkningsinstitutet så mycket data om befolkningen att de inte kunde hantera mängden. Herman Hollerith uppfann då en hålkortsbaserad räknemaskin som lösning på problemet.",
       "sources": ["https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html"]
     },
     {
-      "timeline": "Tech", "time": "1877", "title": "Fingeravtryck: Signering av kontrakt", "revised": true,
+      "timeline": "Tech", "time": "1877", "title": "Fingeravtryck: Signering av kontrakt",
       "content":  "1858 introducerade Sir William James Herschel fingeravtryckstagnin i Indien, och 1877 instiftade han fingeravtryckstagning som en metod att signera kontrakt. Detta för att förhindra bedrägeri och att försäkra sig om att kontrakt och avtal inte bröts.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
-      "timeline": "Tech", "time": "1863", "title": "Fingeravtryck är unika", "revised": true,
+      "timeline": "Tech", "time": "1863", "title": "Fingeravtryck är unika",
       "content":  "<p>Den franske kemisten Paul-Jean Coulier upptäckte att ånga från jod kan blotta dolda avtryck på papper. Detta följdes med att kirurgen Dr. Henry Faulds publicerade en artikel i den prestigefulla tidningen Nature. I den diskuterade han dugligheten i att registrera fingeravtryck och föreslog en metod där tryckbläck används.</p><p>Vid den här tiden erbjuder han sin teknik som en arbetsmetod till polisen i London, vilket de tackar nej till.</p><p>Faulds beskrev sin metod för Charles Darwin som i sin tur gav informationen till antropologen Francis Galton som därefter studerade ämnet i tio år och kom fram till att sannolikheten att två personer har samma fingeravtryck är 1 på 64 miljarder. I sin bok Finger Prints uppmuntrade han till att metoden skulle användas av rättsväsendet.</p>",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
-      "timeline": "World", "time": "1860", "title": "Signalspaningens födelse", "revised": true,
+      "timeline": "World", "time": "1860", "title": "Signalspaningens födelse",
       "content":  "Som en konsekvens av radiotelegrafins födelse uppkom också signalspaning. Den nya tekniken hade stor inverkan i Nordamerika under inbördeskriget.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
 
     {
-      "timeline": "Tech", "time": "1823", "title": "Fingeravtryck: De första studierna", "revised": true,
+      "timeline": "Tech", "time": "1823", "title": "Fingeravtryck: De första studierna",
       "content": "Jan Evangelista Purkyně publicerade 1823 en avhandling där han diskuterade mönstret på nio olika fingeravtryck. Några år senare studerade anatomiexperten Georg von Meissner räfflorna på fingerspetsarna.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
