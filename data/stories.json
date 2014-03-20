@@ -132,11 +132,6 @@
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "SE", "time": "1980", "title": "Be om förlåtelse för övervakning", "minor": true,
-      "content": " Försökte man få in en lag om att buggning/övervakning av all typ slag laglig. Som plåster på såren så skulle man berätta för de som blivit buggade och stalkade att de skett dem som varit under övervakning.",
-      "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
-    },
-    {
       "timeline": "SE", "time": "1973", "title": "IB: Avslöjjas", "revised": true,
       "content": "Jan Guillou och Peter Bratt avslöjar att den socialdemokratiska regeringen byggt upp en parallell organisation till SÄPO för att övervaka kommunister. Det dröjer dock till 1982 innan socialdemokraternas partisekreterare Sten Andersson erkänner affären.",
       "sources": ["http://wwwc.aftonbladet.se/nyheter/9808/18/sten.html"]
@@ -152,11 +147,6 @@
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
-      "timeline": "SE", "time": "1973", "title": "IB",
-      "content": "Den socialdemokratiska regeringen bygger upp en parallell organisation till SÄPO för att övervaka kommunister med hjälp av 22000 arbetsplatsombud. Grunden för organisationen var att medlemmarna skulle vara socialdemokrater för att garantera att arbetsplatsombuden skulle skvallra på sina arbetskamrater, eftersom SÄPO 'fått dåligt rykte'. Organisationen byggde upp ett omfattande åsiktsregister som användes vid anställning till ett stort antal företag som ansågs ha betydelse för totalförsvaret.",
-      "sources": ["https://sv.wikipedia.org/wiki/IB"]
-    },
-    {
       "timeline": "Tech", "time": "1964", "title": "Ansiktsigenkänning", "minor": true, "revised": true,
       "content": "Forskning inom ansiktsigenkänning påbörjas av matematikern Woody Bledsoe på University of Stanford i USA.",
       "sources": ["https://en.wikipedia.org/wiki/Facial_recognition_system#History"]
@@ -170,6 +160,11 @@
       "timeline": "Tech", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning", "revised": true,
       "content": "Under spionsattelitprogrammet CORONA skjuter USA upp satelliter runt jordens omloppsbana. Dessa satelliter tog helt analoga bilder som med en upplösning av 0.3m är bättre än de bilder som är tillgängliga idag genom google earth.",
       "sources": ["https://en.wikipedia.org/wiki/CORONA"]
+    },
+    {
+      "timeline": "SE", "time": "1957", "title": "IB: Försvarsstabens särskilda byrå", "revised": true,
+      "content": "<p>Vid Försvarsstabens sektion II/Inrikesavdelningen inrättades 1957 en enhet för inrikes säkerhetsfrågor, Grupp B. 1961 blev organisationen mer självständig och döptes därför om till B-kontoret. 1965 slogs det inrikesinriktade B-kontoret samman med det utrikesinriktade T-kontoret och blev Försvarsstabens särskilda byrå.</p><p>Organisationen, som var en svensk underrättelseorganisation, kom senare att kallas IB när det uppdagades att informationen som fackförbundens arbetsplatsombud samlat in överlämnats till Grupp B.</p><p>Skandalen var ett faktum när det även framkom att Grupp B vidarebefordrat delar av denna information till Säpo, som införde uppgifterna i sitt centrala register. Detta register användes bland annat vid personalkontroll inför anställningar vid ett stort antal företag som hade betydelse för totalförsvaret.</p>",
+      "sources": ["https://sv.wikipedia.org/wiki/IB"]
     },
     {
       "timeline": "Tech", "time": "1955-03-16", "title": "Spionsatelliter", "minor": true, "revised": true,
@@ -197,6 +192,11 @@
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
+      "timeline": "SE", "time": "1944", "title": "IB: Socialdemokraterna och fackförbunden", "revised": true,
+      "content": "<p>Sveriges kommunistiska parti (SKP) fick 10,3 procent av rösterna i andrakammarvalet 1944 och en allt mer betydande roll i den svenska arbetarrörelsen. I kampen mot SKP om makten över fackföreningsrörelsen var  Socialdemokraternas strategi att låta 20 000 arbetsplatsombud rapportera vilka fackföreningsmedlemmar som antogs vara kommunister. Det slöts en överenskommelse mellan Försvarsstaben och representanter för socialdemokraterna, där Försvarsstaben skulle få nyttja sig av arbetsplatsorganisationen som partiet hade byggt upp.</p><p>Informationen som arbetsplatsombuden samlat in överlämnades till Försvarsstaben och ett omfattande åsiktsregister byggdes upp. Det användes vid kontroller av arbetssökande till försvarsmakten, samt inför inkallelser och krigsplaceringar.</p>",
+      "sources": ["https://sv.wikipedia.org/wiki/IB", "https://sv.wikipedia.org/wiki/V%C3%A4nsterpartiet", "https://sv.wikipedia.org/wiki/Andrakammarvalet_1944"]
+    },
+    {
       "timeline": "World", "time": "1943", "title": "IBM och registreringen av fångar", "revised": true,
       "content": "<p>IBM vidareutvecklade tekniken för Holleriths hålkortsmaskiner och blev underleverantörer till amerikanska fångläger och fängelser. Under WW2, när USA låg i krig med Japan, användes registreringsmetoden till exempel.</p><p>Att IBM var leverantörer av liknande teknik till naziregimen var en källa till kontrovers för IBM när regimen föll.</p>",
       "sources": ["https://en.wikipedia.org/wiki/IBM_during_World_War_II"]
@@ -205,11 +205,6 @@
       "timeline": "Tech", "time": "1942", "title": "Kameraövervakning",
       "content": "Det första kameraövervakningssystemet installerades i Tyskland för att övervaka starten av V-II-raketer.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
-    },
-    {
-      "timeline": "SE", "time": "1940-1970", "title": "Svenska säkerhetstjänstens missbruk",
-      "content": "1940-1970 missbrukade säkerhetstjänsten sin makt och bevakade registrering, telefoner och all post. De stalkade specifikt vänsterrörelsen, Vietnamrörelser, högerextremistiska grupper och fredsgrupper för att de inte gillade deras ideologier. Man påstod att man övervakade för att identifiera säkerhetskriser genom att registrera medborgares politiska tillhörigheter som började före WW1 och fortsatte efter det. Vänstersocialisterna var finlandsflyktingarnas främsta vapendragare påstod man då. Övervakning av svenska socialister har varit en självklarhet av polisen sedan 1917.",
-       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
       "timeline": "SE", "time": "1939-1944", "title": "Omfattande övervakning", "revised": true,
