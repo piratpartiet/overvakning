@@ -8,7 +8,7 @@
   "stories": [
     {
       "timeline": "World", "time": "2014", "title": "SORM: Vinter-OS i Sochi",
-      "content": "<p>Det ryska övervakningsdepartementet, FSB, beslutade att i hemlighet göra en märkbar uppgradering av SORM inför vinter OS i Sotji med syfte att kunna övervaka all kommunikation inför och under de olympiska spelen. Med metoden Deep Packet Inspection hade man i smyg översikt över innehållet i all kommunikation utöver vem som kommunicerat med vem. Det vill säga att ingen person, varken tävlande, åskådare, arrangörer eller invånare i Sotji undkom ryska statens övervakning.</p><p>Ditresande amerikaner hade blivit förvarnade om omfattningen av övervakningssystemet, vilket många besökare ändå inte var medvetna om.</p><p>'Ring of steel' är Rysslands egna benämning på säkerthetsystemet, där SORM bara utgör en mindre del. En standard förklaring, till att övervakning av den här graden behövs, är hotet om terrorism. OS i Sotji är ett av de mest påkostade OS genom tiderna och det gäller även för övervakningen.</p>",
+      "content": "<p>Det ryska övervakningsdepartementet, FSB, beslutade att i hemlighet göra en märkbar uppgradering av SORM inför vinter OS i Sotji med syfte att kunna övervaka all kommunikation inför och under de olympiska spelen. Med metoden Deep Packet Inspection hade man i smyg översikt över innehållet i all kommunikation utöver vem som kommunicerat med vem. Det vill säga att ingen person, varken tävlande, åskådare, arrangörer eller invånare i Sotji undkom den ryska statens övervakning.</p><p>Ditresande amerikaner hade blivit förvarnade om omfattningen av övervakningssystemet, vilket många besökare ändå inte var medvetna om.</p><p>'Ring of steel' är Rysslands egna benämning på säkerthetsystemet, där SORM bara utgör en mindre del. En standard förklaring, till att övervakning av den här graden behövs, är hotet om terrorism. OS i Sotji är ett av de mest påkostade OS genom tiderna och det gäller även för övervakningen.</p>",
       "sources": ["http://en.wikipedia.org/wiki/SORM", "http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "timeline": "World", "time": "2013", "title": "PRISM: Snowdens avslöjade",
-      "content": "<p>PRISM fick allmänheten vetskap om när 41 powerpointslides läcktes ut från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visade att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation åker igenom/förbi USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, google och Yahoo stod för 98% av matrialet i PRISM.</p><p>Snowden avslöjade också att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också lagrar en stor del av världens internetkommunikation. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databaser där allt finns lagrat, vilket innebär att de ohindrat kan gå in och söka efter exakt den informationen de söker. Utan tvekan hittar de information som få personer ens är medvetna om att de lämnar bakoms sig genom sin blotta närvaro som  internetanvändare.</p><p>Kärnan i avslöjandet handlar om att det man tror och vill ska vara privat är något som man som individ inte längre har så stor kontroll över.</p><p>Många, speciellt tyskarna, påstår efter avsöjandet att NSA egentligen är involverad i en farlig och kriminell aktivitet. Man menar att de genom att hacka sig in hos privatpersoner tar del utav deras privatliv obemärkt, men även sjukhus, universitet och privata företag.</p>",
+      "content": "<p>PRISM fick allmänheten vetskap om när 41 powerpointslides läcktes ut från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visade att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation går via USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, google och Yahoo stod för 98% av matrialet i PRISM.</p><p>Snowden avslöjade även att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också lagrar en stor del av världens internetkommunikation. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databaser där allt finns lagrat, vilket innebär att de ohindrat kan gå in och söka efter exakt den informationen de söker. Utan tvekan hittar de information som få personer ens är medvetna om att de lämnar bakoms sig genom sin blotta närvaro som  internetanvändare.</p><p>Kärnan i avslöjandet handlar om att det man tror och vill ska vara privat är något som man som individ inte längre har så stor kontroll över.</p><p>Många, speciellt tyskarna, påstår efter avsöjandet att NSA egentligen är involverad i en farlig och kriminell aktivitet. Man menar att de genom att hacka sig in hos privatpersoner tar del utav deras privatliv obemärkt, men även sjukhus, universitet och privata företag.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM"]
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "timeline": "EU", "time": "2012", "title": "OS i London",
-      "content": "London, en stad som är känd för att övervaka sin befolkning, hade en övervakningskamera som sin OS-maskot. Teknologi som ansiktsigenkänning och nummerplåts-läsare var något som användes systematiskt under hela OS, metoder som Englands polis snabbt anammade för att lättare hitta kriminella. Man sa att insatsen var den största mobila militära och säkerhetsåtergärden som pågått i England sedan andra världskriget, vilket kostade över en biljon dollar att verkställa.",
+      "content": "London, en stad som är känd för att övervaka sin befolkning, hade en övervakningskamera som sin OS-maskot. Teknologi som ansiktsigenkänning och nummerplåts-läsare var något som användes systematiskt under hela OS, metoder som Englands polis snabbt anammade för att lättare hitta kriminella. Man sa att insatsen var den största mobila militära säkerhetsåtergärden som pågått i England sedan andra världskriget, vilket kostade över en biljon dollar att verkställa.",
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "timeline": "SE", "time": "1945", "title": "Övervakning i Sverige efter kriget",
-      "content": " Efter andra världskrigets slut fortsatte1 man att avlyssna alla telefoner för potentiella hot och säkerhetstjänsten permanentades, dock med något mindre budget.  Efter en tid minskades avlyssningens omfattning på grund av tekniska problem.",
+      "content": " Efter andra världskrigets slut fortsatte man att avlyssna alla telefoner för potentiella hot och säkerhetstjänsten permanentades, dock med något mindre budget.  Efter en tid minskades avlyssningens omfattning på grund av tekniska problem.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
@@ -243,13 +243,18 @@
     },
     {
       "timeline": "Tech", "time": "1934", "title": "Sociogram",
-      "content": "Jacob L. Moreno forskade på sociala nätverk och hur de kan analyseras och skapade ett visuellt hjölpmedel som kallas sociogram. Ett sociogram kan användas för många typer av analyser av mänskliga grupper, t.ex. för att avgöra chansen för att en kärleksrelation skall uppstå eller avslutas.",
+      "content": "Jacob L. Moreno forskade på sociala nätverk och hur de kan analyseras och skapade ett visuellt hjälpmedel som kallas sociogram. Ett sociogram kan användas för många typer av analyser av mänskliga grupper, t.ex. för att avgöra chansen för att en kärleksrelation skall uppstå eller avslutas.",
       "sources": ["https://en.wikipedia.org/wiki/Sociogram", "http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
     },
     {
       "timeline": "EU", "time": "1933-05-10", "title": "Bokbål på 'oariska' böcker",
       "content": "Det tyska propagandaministeriet, under ledning av Joseph Goebbels, övervakade alla delar av det kulturella och intellektuella livet i Tyskland. En av metoderna för att kontrollera landets kultur var att bränna 'otyska' böcker och den 10 maj genomfördes stora bokbål runt om i landet. Vid slutet av 1934 hade över 5000 boktitlar förbjudits.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]     
+    },
+    {
+      "timeline": "EU", "time": "1933-04-25", "title": "Judar utestängs från högre utbildning", "minor": true,
+      "content": "Den 25 april 1933 begränsades judars möjligheter till högre utbildning. Enligt en ny lag fick judar utgöra högst 1,5 procent av alla gymnasie- och universitetsstuderande i Tyskland. Varje enskild skola fick ha högst 5 procent judiska studenter. På grund av en gällande lag om obligatorisk skolplikt gjordes inga begränsningar för judar i grundskolan. Många judiska grundskoleelever flyttade ändå frivilligt över till rent judiska skolor på grund av det anti-judiska klimatet och trakasserier från icke-judiska lärare och elever.",
+      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/de-forsta-anti-judiska-atgarderna"]
     },
     {
       "timeline": "EU", "time": "1933-04-07", "title": "Judar i statlig tjänst avskedades",
@@ -260,11 +265,6 @@
       "timeline": "EU", "time": "1933", "title": "Etnisk rensning under Anschluß",
       "content": "Tyskland tog över Östrerike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly. Av de som stannade mördades omkring 65 000 personer. Under sommaren 1938 flydde cirka 50 000, under den följande hösten och vintern ytterligare ca 50 000, och under de två åtföljande åren ytterligare 25 000.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/judeforfoljelserna-i-osterrike"]
-    },
-    {
-      "timeline": "EU", "time": "1933", "title": "Judar utestängs från högre utbildning", "minor": true,
-      "content": "Den 25 april 1933 begränsades judars möjligheter till högre utbildning. Enligt en ny lag fick judar utgöra högst 1,5 procent av alla gymnasie- och universitetsstuderande i Tyskland. Varje enskild skola fick ha högst 5 procent judiska studenter. På grund av en gällande lag om obligatorisk skolplikt gjordes inga begränsningar för judar i grundskolan. Många judiska grundskoleelever flyttade ändå frivilligt över till rent judiska skolor på grund av det anti-judiska klimatet och trakasserier från icke-judiska lärare och elever.",
-      "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/de-forsta-anti-judiska-atgarderna"]
     },
     {
       "timeline": "EU", "time": "1933", "title": "Tysk propaganda", "minor": true,
@@ -303,7 +303,7 @@
     },
     {
       "timeline": "Tech", "time": "1920", "title": "ENIGMA, den första krypteringsmaskinen.",
-      "content":  "<p>Arthur Scherbius, var en tysk elektroingenjör, som är känd som fadern till chiffermaskinen ENIGMA. Den här maskonen producerades från första hälften av 1920-talet. Mest känt är Nazitysklands användning av maskinen, före och under andra världskriget, då den antogs av tyska flottan och armén där den modifierades. Wehrmacht Enigma är den tyska modellen, som oftast avses i sammanhanget. En stor anledning till att maskinen uppmärksammats beror på att de allierade lyckades dechiffrera en stor mängd information som krypterats med maskinen.</p><p>Den sekretssbelagda informationen som de lyckades komma över på detta sättet var en viktig del i alliansens framgångar.</p>",
+      "content":  "<p>Arthur Scherbius, var en tysk elektroingenjör, som är känd som fadern till chiffermaskinen ENIGMA. Den här maskinen producerades från första hälften av 1920-talet. Mest känt är Nazitysklands användning av maskinen, före och under andra världskriget, då den antogs av tyska flottan och armén där den modifierades. Wehrmacht Enigma är den tyska modellen, som oftast avses i sammanhanget. En stor anledning till att maskinen uppmärksammats beror på att de allierade lyckades dechiffrera en stor mängd information som krypterats med maskinen.</p><p>Den sekretssbelagda informationen som de lyckades komma över på detta sättet var en viktig del i alliansens framgångar.</p>",
       "sources": ["https://sv.wikipedia.org/wiki/Kryptering", "https://sv.wikipedia.org/wiki/Arthur_Scherbius", "https://sv.wikipedia.org/wiki/Enigma_%28krypteringsmaskin%29", "http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
