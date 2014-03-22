@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg4597" viewBox="0 0 502.33 420.93" version="1.1">
+  <g id="layer2">
+    <rect id="rect3009" y=".92911" width="504" x="0" height="422"/>
+  </g>
+  <g id="layer1" transform="translate(-1.3121 -243.92)">
+    <path id="path4570" stroke="#000" transform="matrix(.85767 .51419 -.51419 .85767 107.63 -20.493)" fill="#fff" d="m527.16 131.94a78.792 78.792 0 1 1 -157.58 0 78.792 78.792 0 1 1 157.58 0z"/>
+    <path id="path4749" stroke="#000" stroke-width="2.5pt" fill="#fff" d="m377.02 176.29-124.6 152.34m136.21-142.85-124.6 152.34m136.21-142.84-124.6 152.34m136.21-142.84-124.6 152.33m136.21-142.84-124.6 152.34m136.21-142.84-124.59 152.34m136.2-142.84-124.59 152.33m136.2-142.84-124.59 152.34m136.2-142.84-124.59 152.34m136.21-142.84-124.6 152.33m136.21-142.84-124.6 152.34m136.21-142.84-124.6 152.34m136.21-142.84-124.6 152.33m136.21-142.84-124.6 152.34m136.21-142.84-124.59 152.34m136.2-142.84-124.59 152.33m136.2-142.84-124.59 152.34m-61.18-304.28 196.79 160.95m-206.29-149.34 196.79 160.95m-206.29-149.34 196.79 160.95m-206.28-149.34 196.79 160.95m-206.29-149.34 196.79 160.96m-206.29-149.35 196.8 160.96m-206.29-149.35 196.79 160.96m-206.29-149.35 196.79 160.96m-206.29-149.34 196.8 160.95m-206.29-149.34 196.79 160.95m-206.29-149.34 196.79 160.95m-206.29-149.34 196.8 160.95m-206.29-149.34 196.79 160.95m-206.29-149.34 196.79 160.95"/>
+    <g id="g4669" transform="translate(-19.34 -238.7)">
+      <path id="path4568" d="m184.79 391.76 192.29-270.14 68.474 53.466-233.56 240.13z" transform="translate(0 452.36)" stroke="#e6e6e6" stroke-width="1px" fill="#fff"/>
+      <rect id="rect4573" transform="matrix(.76195 .64763 -.64763 .76195 0 0)" ry="0" height="52.528" width="13.132" stroke="#000" y="266.61" x="696.78" stroke-width="4" fill="#fff"/>
+      <path id="path4575" stroke="#999" stroke-width="4.1423" fill="none" d="m364.56 590.61 65.631 53.769"/>
+    </g>
+    <path id="path4763" stroke="#fff" stroke-width="8" fill="none" d="m180 615.22s-12.213 22.18-38.951 33.379c-35.842 15.012-90.955 18.262-112.48-1.9507-44.18-41.492-19.689-139.85 25.714-180 37.106-32.812 109.82 28 148.57-2.8572 46.076-36.693 42.857-171.43 42.857-171.43"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Microphone</dc:title>
+        <dc:date>2012-03-15T04:42:11</dc:date>
+        <dc:description>White microphone on black background. There is a background layer which can be removed to make it transparent.</dc:description>
+        <dc:source>http://openclipart.org/detail/168826/microphone-by-savannah-software</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Savannah Software</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>mic</rdf:li>
+            <rdf:li>microphone</rdf:li>
+            <rdf:li>music</rdf:li>
+            <rdf:li>singer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

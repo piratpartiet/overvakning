@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2461" viewBox="0 0 30.509 59.899" version="1.0">
+  <g id="layer2" transform="translate(-119.31 -141.08)">
+    <g id="g3366" stroke="#000" fill="none">
+      <path id="path3295" stroke-linejoin="round" stroke-width="2" d="m146.78 178.39c-12.996-20.715-2.5545-23.226-8.9563-36.313 1.2434 12.068-14.596 22.006-17.334 41.422-0.29964 1.8852-0.22393 3.8616 0.28877 5.8258 1.9869 7.6123 9.7703 12.174 17.383 10.187 7.6123-1.9869 12.184-9.7732 10.198-17.385-0.33157-1.2703-0.95211-2.6508-1.5791-3.7351z"/>
+      <path id="path3305" stroke-width="2.7529" transform="matrix(.35148 -.091741 .091741 .35148 192.48 104.71)" d="m-196.94 130.41c-13.994 12.992-27.335 26.586-35.438 46a16.306 16.306 0 0 1 -0.0937 0.25c-1.2291 2.8053-1.9062 5.8793-1.9062 9.1875 0 12.844 10.062 22.906 22.906 22.906s22.938-10.078 22.938-22.906c0-1.5766-0.44765-4.6836-1-6.6875-6.4701-20.552-8.0626-36.263-7.4062-48.75z"/>
+      <path id="path3307" stroke-width="2.7529" transform="matrix(.35148 -.091741 .091741 .35148 193.31 108.53)" d="m-207.03 158.06c-5.6944 6.893-10.595 14.285-14.219 22.969a28.347 28.347 0 0 1 -0.1875 0.46875c-0.57946 1.3226-0.90625 2.7193-0.90625 4.3438 0 6.3363 4.5386 10.875 10.875 10.875 6.3363 0 10.906-4.5659 10.906-10.875 0-0.072-0.27885-2.4709-0.5625-3.5-2.7552-8.7516-4.6486-16.824-5.9062-24.281z"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Flame</dc:title>
+        <dc:date>2009-03-06T16:38:33</dc:date>
+        <dc:description>Simple line art flame</dc:description>
+        <dc:source>http://openclipart.org/detail/21949/flame-by-kelan</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>kelan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>fire</rdf:li>
+            <rdf:li>flame</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>outline</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

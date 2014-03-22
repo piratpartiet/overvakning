@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg1" height="128pt" width="128pt">
+  <path id="path837" d="m77.274 99.764c44.786 0 55.986 59.236 55.986 59.236h-7.46s-11.2-51.83-48.526-51.83c-37.325 0-48.522 51.83-48.522 51.83h-7.465s11.197-59.236 55.987-59.236z" fill-opacity=".49669" fill-rule="evenodd"/>
+  <rect id="rect835" fill-rule="evenodd" fill-opacity=".50331" ry="29.227" height="86.155" width="56.481" y="9.8366" x="49.606"/>
+  <rect id="rect825" fill-rule="evenodd" ry="29.305" height="86.384" width="55.763" stroke="#000" y="6.4178" x="45.87" stroke-width="3.735" fill="#efe0cd"/>
+  <rect id="rect826" fill-rule="evenodd" ry="5.7235" height="16.872" width="7.4271" stroke="#000" y="3.978" x="70.027" stroke-width=".95597pt" fill="#df421e"/>
+  <path id="path827" d="m42.016 47.109a16.127 17.613 0 1 0 -32.255 0 16.127 17.613 0 1 0 32.255 0z" fill-rule="evenodd" transform="matrix(1.1457 0 0 1.1396 43.868 -5.7287)" stroke="#000" stroke-width="2.1879" fill="#900"/>
+  <path id="path828" d="m42.016 47.109a16.127 17.613 0 1 0 -32.255 0 16.127 17.613 0 1 0 32.255 0z" fill-rule="evenodd" transform="matrix(.78211 0 0 .788 53.174 10.836)" stroke="#000" stroke-width="2.1879"/>
+  <path id="path829" d="m42.016 47.109a16.127 17.613 0 1 0 -32.255 0 16.127 17.613 0 1 0 32.255 0z" fill-rule="evenodd" transform="matrix(.49877 0 0 .48137 60.509 25.069)" stroke="#000" stroke-width="2.1879" fill="#fff"/>
+  <path id="path838" d="m60.477 106.53c16.562 22.65 8.138 44.96 16.562 44.96s0-22.31 16.849-44.62c-11.137-0.12-22.274-0.23-33.411-0.34z" fill-opacity=".50331" fill-rule="evenodd"/>
+  <path id="path831" d="m60.477 106.53c13.932 21.58 6.846 42.84 13.932 42.84 7.087 0 0-21.26 14.174-42.52-9.369-0.11-18.737-0.22-28.106-0.32z" fill-rule="evenodd" stroke="#000" stroke-width="2.5" fill="#efe0cd"/>
+  <path id="path830" d="m74.409 99.764c42.521 0 53.151 56.696 53.151 56.696h-7.09s-10.63-49.61-46.061-49.61c-35.433 0-46.063 49.61-46.063 49.61h-7.086s10.63-56.696 53.149-56.696z" fill-rule="evenodd" stroke="#000" stroke-width="2.5" fill="#efe0cd"/>
+  <path id="path834" d="m60.053 88.912l7.27 10.852h14.173l7.087-10.63s-14.174-14.173-28.53-0.222z" fill-rule="evenodd" stroke="#000" stroke-width="2.5" fill="#efe0cd"/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>webcam</dc:title>
+        <dc:date>2008-05-17T14:36:08</dc:date>
+        <dc:description>Webcam icon from the XFCE icon set.  Released into the Public Domain.  For more info , see:http://www.filewatcher.com/p/xfce-icon-theme-4.2.2-1mdk.noarch.rpm.1503520/usr/share/icons/Rodent/scalable/misc/webcam.svg.html</dc:description>
+        <dc:source>http://openclipart.org/detail/16796/webcam-by-panamag</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PanamaG</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>externalsource</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>online</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>webcam</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
