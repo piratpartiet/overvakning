@@ -8,4 +8,4 @@ Själva materialet ligger i katalogen 'data', och består av filer av typen json
 
 Tryckt material
 ---------------
-Det tryckbara materialet är i form av PDF-filer, som genererats från SVG-filer. Både PDFer och SVG-filer tillsammans med alla illustrationsbilder och annat material som använts för framtagningen av det tryckta material, i branchen 'exhibition'. Materialet ligger i en egen branch för att man skall slippa hämta hem det om man 'bara' vill göra en kopia av hemsidan.
+Det tryckbara materialet återfinns i en egen branch [exhibition](https://github.com/piratpartiet/www.overvakad.se/tree/exhibition). Materialet ligger i en egen branch för att man skall slippa hämta hem det om man 'bara' vill göra en kopia av hemsidan.
