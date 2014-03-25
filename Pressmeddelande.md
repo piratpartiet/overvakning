@@ -5,4 +5,4 @@ Piratpartiet Göteborg lanserar idag en historisk utställning om övervakning, 
 
 Utställningen visar sambanden mellan den allmänna politiska och tekniska utvecklingen och utvecklingen av övervakning och ger en översiktsbild av vad som övervakas, av vem, och inte minst hur.
 
-För mer information maila kontakt@overvakad.se
+För mer information maila kontakt@overvakad.se eller ring 0723711268.
