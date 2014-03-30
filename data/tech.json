@@ -17,9 +17,9 @@
       "sources": ["http://news.cnet.com/8301-30977_3-10457077-10347072.html", "http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/"]
     },
     {
-      "category": "Ljud- och bildövervakning",
+      "category": "Ljud- och bildövervakning", "revised": true,
       "title": "Omöjligt att hindra infektion/fjärrmanövrering av telefoner",
-      "content": "Även om man kan installera ett nytt operativsystem på sin telefon, som man är säker på inte innehåller några säkerhetshål, så kan telefonbolag och myndigheter ändå infektera den med spionprogrammvara, eftersom telefoner innehåller en extra 'gömd' processorer, som kan skriva till allt minne. Denna extra processor används för att kontrollera GSM-modulen (radion) i telefonen, och kör ett eget operativsystem som användaren inte kan byta, men som kan uppgraderas via telenätet (så kallade OTA-updateringar).",
+      "content": "Telefonbolag och myndigheter kan infektera en telefon med spionprogrammvara trots att man installerat ett nytt operativsystem på telefonen som man med säkerhet vet inte innehåller några säkerhetshål. Detta eftersom telefoner innehåller en extra 'gömd' processor, som kan läsa och skriva till telefonens RAM-minne. Denna extra processor som används för att kontrollera GSM-modulen (radion) i telefonen, kör ett eget operativsystem som användaren inte kan byta ut, och som kan uppgraderas via telenätet (så kallade OTA-updateringar).",
       "sources": ["http://www.osnews.com/story/27416/The_second_operating_system_hiding_in_every_mobile_phone"]
     },
     {
