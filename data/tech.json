@@ -11,9 +11,9 @@
   ],
   "tech": [
     {
-      "category": "Ljud- och bildövervakning",
+      "category": "Ljud- och bildövervakning", "revised": true,
       "title": "Möjligt att slå på webkameror via nätet",
-      "content": "Datorer som infekterats med ett virus, eller som någon hackat in i kan fjärrstyras och därmed även alla kringenheter som är kopplade, t.ex. webkameror och microfoner. Data som samlas in på det viset kan sedan skickas över till den som skapat viruset. Fjärrstyrningen kan ske antingen direkt av en person, eller följa ett förprogrammerat eller schemalagt mönster.",
+      "content": "Datorer som blivit virusinfekterade eller som någon hackat sig in i kan bli fjärrstyrda. Därmed kan även alla kringenheter som är kopplade till datorn, tex webkameror och mikrofoner samla information och skicka det till den som skapat viruset. Fjärrstyrningen kan ske antingen direkt av en person, eller följa ett förprogrammerat eller schemalagt mönster.",
       "sources": ["http://news.cnet.com/8301-30977_3-10457077-10347072.html", "http://arstechnica.com/tech-policy/2013/03/rat-breeders-meet-the-men-who-spy-on-women-through-their-webcams/"]
     },
     {
@@ -29,9 +29,9 @@
       "sources": ["https://en.wikipedia.org/wiki/Surveillance_camera"]
     },
     {
-      "category": "Ljud- och bildövervakning",
+      "category": "Ljud- och bildövervakning", "revised": true,
       "title": "Övervakningskameror 'läcker'",
-      "content": "Datasäkerhet är svårt, speciellt för de som inte har det som yrke. Övervakningskameror sätts upp av allt fler utan specialistkompetens på datasäkerhet, och många bilder och videoströmmar är mer eller mindre öppna för hela världen.",
+      "content": "Datasäkerhet är svårt, speciellt för de som inte har det som yrke eller är utbildade inom det. Övervakningskameror sätts upp av allt fler utan specialistkompetens på datasäkerhet. Detta bidrar till att många bilder och videoströmmar är mer eller mindre öppna för hela världen.",
       "sources": ["http://www.dagbladet.no/2013/10/02/nyheter/nullctrl/innenriks/datasikkerhet/28551640/"]
     },
     {
@@ -42,9 +42,9 @@
     },
 
     {
-      "category": "Transport",
+      "category": "Transport", "revised": true,
       "title": "Trängseltullar",
-      "content": "Automatiska betalningsstationer för trängselskatt registrerar och lagrar registreringsnumrena för de bilar som passerar. Datat behövs för faktureringen, men kan också missbrukas till andra ändamål. När data från ett stort antal stationer sammanställs kan en detaljerad bild av någons resmönster skapas.",
+      "content": "Automatiska betalningsstationer för trängselskatt registrerar och lagrar registreringsnumrena för de bilar som passerar. Datat behövs för faktureringen, men kan också missbrukas till andra ändamål. När data från ett stort antal stationer sammanställs kan en detaljerad bild av någons resemönster skapas.",
       "sources": ["http://www.stockholmsfria.se/artikel/18993"]
     },
     {
@@ -54,15 +54,15 @@
       "sources": ["http://betaboston.com/news/2014/03/05/a-vast-hidden-surveillance-network-runs-across-america-powered-by-the-repo-industry/"]
     },
     {
-      "category": "Transport",
+      "category": "Transport", "revised": true,
       "title": "Kollektivtrafiksbiljetter",
-      "content": "Moderna biljettsystem i kollektivtrafiken baseras på elektroniska ID-kort som avläses vid varje resa. Kortets identitetsnummer, tid och fordonets identitet lagras både för att utföra själva betalningen men också för att skapa detaljerad statistik över vilka linjer och övergångar mellan linjer som används och hur mycket. Passagerare uppmanas också ofta att registrera sitt kort för att kunna återfå det om det skulle tappas. Registreringen innebär att kortets identitet knyts mot användarens personnummer eller namn och adress. Tillsammans ger det transportbolaget en väldigt detaljerad bild över en persons resmönster.",
+      "content": "Moderna biljettsystem i kollektivtrafiken baseras på elektroniska ID-kort som avläses vid varje resa. Kortets identitetsnummer, tid och fordonets identitet lagras både för att utföra själva betalningen, men också för att skapa detaljerad statistik över vilka linjer, övergångar mellan linjer som används och hur mycket. Passagerare uppmanas också ofta att registrera sitt kort för att kunna återfå det om det skulle tappas. Registreringen innebär att kortets identitet knyts till användarens personnummer eller namn och adress. Tillsammans ger det transportbolaget en väldigt detaljerad bild över en persons resemönster.",
       "sources": ["https://www.privacyinternational.org/blog/oyster-octopus-and-metro-cards-what-happens-to-our-data"]
     },
     {
-      "category": "Transport",
-      "title": "'Svarta lådor' i bilar",
-      "content": "I USA arbetar miljögrupper för att bilar skall utrustas med spårsändare för att kunna driva in skatter baserade på körd distans och område. Här i Sverige varnar Datainspektionen för att ett spårsystem EU föreslår att nya bilar från och med hösten 2015 kommer hota den personliga integriteten. Systemet skall automatiskt larma om bilens position vid alvarliga olyckor.",
+      "category": "Transport", "revised": true,
+      "title": "Spårsändare i bilar",
+      "content": "I USA arbetar miljögrupper för att bilar skall utrustas med spårsändare för att kunna driva in skatter baserade på körd distans och område. Här i Sverige varnar Datainspektionen för ett nytt spårsystem för bilar som EU föreslår. Systemet skall automatiskt larma om bilens position vid allvarliga olyckor, men kommer också hota den personliga integriteten.",
       "sources": ["http://www.alltomvetenskap.se/nyheter/svarta-ladan-bilen", "http://nyadagbladet.se/utrikes/svarta-lador-ska-driva-in-skatt-genom-att-spara-bilar/", "http://www.corren.se/sverige/artikel.aspx?articleId=6786707"]
     },
     {
@@ -78,21 +78,21 @@
       "sources": ["http://www.dn.se/kultur-noje/basta-beatrice-ask/"]
     },
     {
-      "category": "Hem",
+      "category": "Hem", "revised": true,
       "title": "Smarta elmätare",
-      "content": "Så kallade 'Smarta elmätare' mäter elförbrukningen ner på sekundnivå och skickar informationen till elbolaget. Med så noggranna användningsdata kan man dra korekta slutsatser om vilka maskiner som använts när och till vad i hemmet. Detta kan t.ex. visa på om någon varit hemma en viss tid, sett ett vist TV-program osv.",
+      "content": "Så kallade 'Smarta elmätare' mäter elförbrukningen ner på sekundnivå och skickar informationen till elbolaget. Med så noggranna användningsdata kan man dra korrekta slutsatser om vilka maskiner som använts när och till vad i hemmet. Detta kan t.ex. visa på om någon varit hemma en viss tid, sett ett visst TV-program etc.",
       "sources": ["http://skeptics.stackexchange.com/questions/5470/are-electronic-power-consumption-smart-meters-an-invasion-of-privacy#5485"]
     },
     {
-      "category": "Hem",
+      "category": "Hem", "revised": true,
       "title": "Kameraövervakning i trapphus i flerbostadshus",
-      "content": "Kameraövervakning i trapphus i flerbostadshus innebär att hyresgästernas rörelser in och ut ur huset registreras och att värden därför får information om hyresgästens privatliv. Kameraövervakning har redan använts på flera håll, men bör enligt branschorganisationen Fastighetsägarna begränsas till när det är absolut nödvändigt för att förebygga skadegörelse.",
+      "content": "Kameraövervakning i trapphus i flerbostadshus innebär att hyresgästernas rörelser in och ut ur huset registreras och att värden därför får information om hyresgästens privatliv. Kameraövervakning har redan använts på flera håll, men bör enligt branschorganisationen Fastighetsägarna, begränsas till när det är absolut nödvändigt för att förebygga skadegörelse.",
       "sources": ["http://www.fastighetsagarna.se/kunskapsbanken/fastighetsforvaltning2/etik/kameraovervakning"]
     },
     {
-      "category": "Hem",
+      "category": "Hem", "revised": true,
       "title": "Elektroniska nycklar lämnar spår",
-      "content": "Elektroniska nyckelbrickor för ger bostadsbolagen detaljerade loggfiler över in- och ut-passeringar, både till hemmet och till olika faciliteter som till exempel tvättstuga och garage. Det finns önskemål från hyresvärdarnas sida om att få lov att använda den informationen för att t.ex. straffa hyresgäster som smutsar ner.",
+      "content": "Elektroniska nyckelbrickor ger bostadsbolagen detaljerade loggfiler över in- och ut-passeringar, både till hemmet men även till olika faciliteter som till exempel tvättstuga och garage. Det finns önskemål från hyresvärdarnas sida om att få lov att använda den informationen för att t.ex. straffa hyresgäster som smutsar ner.",
       "sources": ["http://www.datainspektionen.se/press/nyheter/2008/elektronisk-nyckel-far-inte-anvandas-for-att-spara-vem-som-smutsat-ner-i-tvattstugan/"]
     },
     {
@@ -121,9 +121,9 @@
       "sources": ["http://www.securityworldnews.com/2010/11/16/what-is-biometric-security-surveillance/"]
     },
     {
-      "category": "Kommunikation",
+      "category": "Kommunikation", "revised": true,
       "title": "PRISM, datalagring",
-      "content": "All kommunikation lagras idag både lagligt och olagligt av olika aktörer. Inom EU lagras all metadata (vem som kommunicerat med vem, när och var) i två år. USA lagrar också all kommunikation de kan komma över inom sitt program PRISM.",
+      "content": "All kommunikation lagras idag både lagligt och olagligt av olika aktörer. Inom EU lagras all metadata (vem som kommunicerat med vem, när och var) i två år. USA lagrar också all kommunikation de kan komma över genom sitt program PRISM.",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
@@ -150,33 +150,33 @@
       "sources": ["http://computersweden.idg.se/2.2683/1.498024/inbyggd-avlyssning-i-kinesiska-skype"]
     },
     {
-      "category": "Kommunikation",
+      "category": "Kommunikation", "revised": true,
       "title": "Facebook",
-      "content": "Facebook tillhandahåller knappar till websidebyggare för att 'gilla' och 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Facebooks servrar, och de kan se och lagra vilken sida som besökts och koppla det till besökarens facebookanvändare, även om besökaren inte tryckt på någon av knapparna.",
+      "content": "Facebook tillhandahåller knappar till websidebyggare för att 'gilla' och 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Facebooks servrar. De kan se och lagra vilken sida som besökts och koppla det till besökarens facebookanvändare, trots att besökaren inte tryckt på någon av knapparna.",
       "sources": ["http://www.itproportal.com/2010/11/30/facebooks-button-tracking-you/"]
     },
     {
-      "category": "Kommunikation",
+      "category": "Kommunikation", "revised": true,
       "title": "Twitter",
-      "content": "Twitter tillhandahåller knappar till websidebyggare för att 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Twitters servrar, och de kan se och lagra vilken sida som besökts och koppla det till besökarens twitterkonto, även om besökaren inte tryckt på någon av knapparna.",
+      "content": "Twitter tillhandahåller knappar till websidebyggare för att 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Twitters servrar. De kan se och lagra vilken sida som besökts och koppla det till besökarens twitterkonto, trots att besökaren inte tryckt på någon av knapparna.",
       "sources": ["http://nakedsecurity.sophos.com/2013/12/11/how-twitter-tracks-the-websites-you-visit-and-how-to-stop-it/"]
     },
     {
-      "category": "Kommunikation",
+      "category": "Kommunikation", "revised": true,
       "title": "Google",
-      "content": "Google lagrar söktermer och kopplar dessa till användarens webbrowser och IP-nummer. Söktermer skickas också till websidorna som användaren väljer att besöka. All den informationen kan senare komma att lämnas ut till myndigheter, eller säljas till reklamföretag.",
+      "content": "Google lagrar söktermer och kopplar dessa till användarens webbrowser och IP-nummer. Söktermer skickas också till websidorna som användaren väljer att besöka. All den informationen kan senare komma att lämnas ut till myndigheter eller säljas till reklamföretag.",
       "sources": ["http://donttrack.us"]
     },
     {
-      "category": "Kommunikation",
+      "category": "Kommunikation", "revised": true,
       "title": "Sociogram",
-      "content": "Sociogram är grafiska beskrivningar av människors relationer och interaktioner. De kan användas för att dra slutsatser om en persons åsikter, intressen eller vanor och ger myndigheter och företag möjligheten att 'se helheten'. Sociogram skapas ofta från stora databaser över var för sig obetydliga händelser.",
+      "content": "Sociogram är grafiska beskrivningar av människors relationer och interaktioner. De kan användas för att dra slutsatser om en persons åsikter, intressen eller vanor. Det ger myndigheter och företag möjligheten att 'se helheten' om en person. Sociogram skapas ofta från stora databaser över händelser som var för sig är obetydliga.",
       "sources": ["https://en.wikipedia.org/wiki/Sociogram"]
     },
     {
-      "category": "Kultur",
+      "category": "Kultur", "revised": true,
       "title": "Läsplattor kan fjärrstyras av förlagen och e-böcker har raderats utan orsak",
-      "content": "För att förhindra piratkopiering har bokbranschen givit sig själva fullständig kontroll över programmvaran för läsning av elektroniska böcker. Man har både ett centralt register över allas köp, och möjlighet att fjärrstyra läsplattor och radera, ändra eller lägga till titlar eller funktioner.",
+      "content": "För att förhindra piratkopiering har bokbranschen givit sig själva fullständig kontroll över programvaran för läsning av elektroniska böcker. Man har ett centralt register över allas köp och möjlighet till att fjärrstyra läsplattor, och genom det radera, ändra eller lägga till titlar eller funktioner.",
       "sources": ["http://blogg.dn.se/teknikbloggen/2012/10/25/amazon-raderade-kundens-alla-e-bocker/"]
     },
     {
@@ -194,7 +194,7 @@
     {
       "category": "Ekonomi/handel",
       "title": "SMS-betalningar kräver registrering",
-      "content": "Enligt betaltjänstlagen får endast telefoner där ägaren är registrerad med personnummer användas för köp av varor och tjänster, till exempel biljetter i kollektivtrafiken. Tillsammans med de elektroniska biljettsystemen för vanliga biljetter, och avsaknaden på många håll av möjlighet att köpa biljetter kontant, gör det det väldigt svårt att resa kollektivt utan att lämna elektroniska spår både hos trafikbolagen och myndigheterna.",
+      "content": "Enligt betaltjänstlagen får endast telefoner där ägaren är registrerad med personnummer användas för köp av varor och tjänster, till exempel biljetter i kollektivtrafiken. Tillsammans med de elektroniska biljettsystemen för vanliga biljetter, och avsaknaden på många håll av möjlighet att köpa biljetter kontant, blir det väldigt svårt att resa kollektivt utan att lämna elektroniska spår både hos trafikbolagen och myndigheterna.",
       "sources": ["http://www.mobil.se/business/sms-biljetter-bara-fr-n-registrerade-kort"]
     },
     {
@@ -204,21 +204,21 @@
       "sources": ["http://www.dn.se/nyheter/varlden/bakgrund-det-har-ar-swiftavtalet/"]
     },
     {
-      "category": "Ekonomi/handel",
-      "title": "'Big Data' statistik och slutsatser",
-      "content": "Med stora mänder information och statistik är det ofta möjligt att dra avancerade slutsatser om en person. Till exempel har matvarukedjan Target i USA kunnat ta reda på om en kund är gravid, bara utifrån ändrade köpmönster.",
+      "category": "Ekonomi/handel", "revised": true,
+      "title": "'Big Data' och statistisk analys",
+      "content": "Med stora mängder information och statistik är det ofta möjligt att dra avancerade slutsatser om en person. Till exempel har matvarukedjan Target i USA kunnat ta reda på om en kund är gravid, bara utifrån ändrade köpmönster registrerade via kundkort.",
       "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html"]
     },
     {
       "category": "Demokrati",
       "title": "Spioneri på valda representanter",
-      "content": "Spionorganisationerna övervakar inte bara vanliga medborgare, utan även valda representanter, både utomlands, men mer problematiskt, i det egna landet. I USA har CIA övervakat den arbetsgrupp inom amerikanska kongressen som var satt att kontrollera CIAs arbete.",
+      "content": "Spionorganisationerna övervakar inte bara vanliga medborgare, utan även valda representanter. Detta sker både utomlands, men mer problematiskt, i det egna landet. I USA har CIA övervakat den arbetsgrupp inom amerikanska kongressen som var satt att kontrollera CIAs arbete.",
       "sources": ["https://firstlook.org/theintercept/2014/03/05/congress-intelligence-community-whos-overseeing/", "http://www.huffingtonpost.com/2013/10/27/nsa-angela-merkel_n_4168476.html"]
     },
     {
       "category": "Demokrati",
       "title": "E-röstning",
-      "content": "Elektroniska val gör det närmast omöjligt att garantera att en röst räknats korekt och inte manipulerats. Maskinerna som används är komplexa och använder många standardprogrammvaror. Röstmanipulerande kod kan införas i vilken som helst av dessa programmvaror, och är närmast omöjlig att hitta för en expert. Som vanlig röstande är det inte möjligt att avgöra röstmaskinens funktionalitet.",
+      "content": "Elektroniska val gör det närmast omöjligt att garantera att en röst räknats korrekt och inte manipulerats. Maskinerna som används är komplexa och använder många standardprogramvaror. Röstmanipulerande kod kan införas i vilken som helst av dessa programvaror och är närmast omöjlig att hitta för en expert. Som vanlig röstande är det inte möjligt att avgöra röstmaskinens funktionalitet.",
       "sources": ["https://en.wikipedia.org/wiki/Electronic_voting#Documented_problems"]
     }
   ]

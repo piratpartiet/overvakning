@@ -58,12 +58,12 @@
     },
     {
       "timeline": "World", "time": "2008", "title": "OS i Beijing",
-      "content": "Kina köpte in en hel del ny övervakningsutrustning från väst, inkluderat hundratusentals kameror beväpnade med biometrisk identifiering programvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
+      "content": "Kina köpte in en hel del ny övervakningsutrustning från väst, inkluderat hundratusentals kameror beväpnade med biometrisk identifieringsprogramvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
       "timeline": "World", "time": "2007", "title": "PRISM",
-      "content": "<p>Ett världsomspännande datalagringssystem skapades av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medans Echelon bara lagrat det datat som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, facebook, apple etc själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA.</p><p>Genom PRISM är det lagligt att läsa alla mejl, lyssna av alla telefonsamtal, läsa av alla livechattar, utan att ansöka om en husransakningsorder.</p><p>Man började med PRISM i ett 'skydda Amerika'-projekt med syfte att upptäcka terrorhot och få specifik kunskap om vilka som var ett hot mot landets säkerhet.</p>",
+      "content": "<p>Ett världsomspännande datalagringssystem skapades av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medan Echelon bara lagrat den data som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, facebook, apple etc själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA.</p><p>Genom PRISM är det lagligt att läsa alla mejl, lyssna av alla telefonsamtal, läsa av alla livechattar, utan att ansöka om en husransakningsorder.</p><p>Man började med PRISM i ett 'skydda Amerika'-projekt med syfte att upptäcka terrorhot och få specifik kunskap om vilka som var ett hot mot landets säkerhet.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"]
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "timeline": "World", "time": "2003", "title": "Golden Shield tas i bruk",
-      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' tas i bruk. Den censurerar och övervakar Internet inom landets gränser, blockar IP-adresser, blocka och/eller omdirrigerar domännamn, filtrerar webadresser, filtrerar IP-paket, och stoppar anslutningar. Ciska 30000 till 50000 poliser jobbar idag i Golden Shield-projektet.",
+      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' tas i bruk. Den censurerar och övervakar Internet inom landets gränser, blockar IP-adresser, blocka och/eller omdirigerar domännamn, filtrerar webadresser, filtrerar IP-paket, och stoppar anslutningar. Cirka 30000 till 50000 poliser jobbar idag i Golden Shield-projektet.",
       "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
