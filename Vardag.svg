@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Template.svg">
+   sodipodi:docname="Vardag.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -669,9 +669,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2261.0409"
-     inkscape:cy="1495.105"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="2586.9837"
+     inkscape:cy="1180.3607"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -703,7 +703,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4007,6 +4007,978 @@
            x="496.06299"
            id="tspan6849"
            sodipodi:role="line">www.overvakad.se</tspan></text>
+    </g>
+    <g
+       id="g5138"
+       transform="translate(2250,354.33075)">
+      <g
+         id="g5211">
+        <g
+           id="g5448">
+          <flowRoot
+             transform="translate(-198.84818,-2579.0432)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3561"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3563"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="583.30688"
+                 x="234.28572"
+                 height="316.37634"
+                 width="301.17664"
+                 id="rect3565" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3567">Möjligt att slå på webkameror via nätet</flowPara><flowPara
+               id="flowPara3569">Datorer som blivit virusinfekterade eller som någon hackat sig in i kan bli fjärrstyrda. Därmed kan även alla kringenheter som är kopplade till datorn, tex webkameror och mikrofoner samla information och skicka det till den som skapat viruset. Fjärrstyrningen kan ske antingen direkt av en person, eller följa ett förprogrammerat eller schemalagt mönster.</flowPara></flowRoot>          <flowRoot
+             transform="translate(-210.28568,-2430.9915)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3571"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3573"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="771.8783"
+                 x="245.71428"
+                 height="443.75854"
+                 width="301.18558"
+                 id="rect3575" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3577">Omöjligt att hindra infektion/fjärrmanövrering av telefoner</flowPara><flowPara
+               id="flowPara3579">Telefonbolag och myndigheter kan infektera en telefon med spionprogrammvara trots att man installerat ett nytt operativsystem på telefonen som man med säkerhet vet inte innehåller några säkerhetshål. Detta eftersom telefoner innehåller en extra 'gömd' processor, som kan läsa och skriva till telefonens RAM-minne. Denna extra processor som används för att kontrollera GSM-modulen (radion) i telefonen, kör ett eget operativsystem som användaren inte kan byta ut, och som kan uppgraderas via telenätet (så kallade OTA-updateringar).</flowPara></flowRoot>          <flowRoot
+             transform="translate(126.32849,-2967.6057)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3581"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3583"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="971.8783"
+                 x="245.71428"
+                 height="195.72708"
+                 width="301.18558"
+                 id="rect3585" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3587">Övervakningskameror</flowPara><flowPara
+               id="flowPara3589">Idag är många stadskärnor, affärer, banker och lokaltrafik täckta av övervakningskameror med inspelning. Många av kamerorna skickar också materialet direkt till någon övervakningscentral.</flowPara></flowRoot>          <flowRoot
+             transform="translate(132.04724,-2938.4425)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3591"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3593"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="1137.5927"
+                 x="240"
+                 height="248.88103"
+                 width="301.18109"
+                 id="rect3595" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3597">Övervakningskameror 'läcker'</flowPara><flowPara
+               id="flowPara3599">Datasäkerhet är svårt, speciellt för de som inte har det som yrke eller är utbildade inom det. Övervakningskameror sätts upp av allt fler utan specialistkompetens på datasäkerhet. Detta bidrar till att många bilder och videoströmmar är mer eller mindre öppna för hela världen.</flowPara></flowRoot>          <flowRoot
+             transform="translate(137.76599,-2826.9757)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3601"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3603"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="1291.8783"
+                 x="234.28572"
+                 height="195.72701"
+                 width="301.17664"
+                 id="rect3605" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3607">Mer övervakning ger inte färre brott</flowPara><flowPara
+               id="flowPara3609">Kameraövervakning ger inte färre brott. Ett exempel är Oslo Centrum där man de sista åren monterat upp väldigt många kameror, men där brottsstatistiken inte ändrats.</flowPara></flowRoot>          <rect
+             ry="0"
+             rx="3.3641425e-06"
+             transform="translate(0,-2490.945)"
+             y="425.19666"
+             x="17.716536"
+             height="35.433064"
+             width="673.22833"
+             id="rect4133"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             ry="35.433056"
+             rx="35.433094"
+             transform="translate(0,-2490.945)"
+             y="389.76358"
+             x="17.716536"
+             height="885.82678"
+             width="673.22833"
+             id="rect4129"
+             style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             ry="33.290108"
+             rx="35.433094"
+             y="-2101.1814"
+             x="17.716536"
+             height="70.866119"
+             width="673.22833"
+             id="rect4131"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <flowRoot
+             transform="translate(572.58932,-2517.5685)"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+             id="flowRoot3901"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3903"><rect
+                 style="fill:#ffffff;fill-opacity:1"
+                 y="429.02118"
+                 x="-537.14288"
+                 height="48.10564"
+                 width="637.78192"
+                 id="rect3905" /></flowRegion><flowPara
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               id="flowPara3907">Ljud- och bildövervakning</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       id="g5172"
+       transform="translate(1293.3071,549.21264)">
+      <g
+         id="g5245">
+        <g
+           id="g5409" />
+      </g>
+    </g>
+    <g
+       id="g5337"
+       transform="translate(-1789.3701,938.97636)">
+      <flowRoot
+         transform="translate(-712.86393,-2569.3178)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3741"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3743"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="520.44977"
+             x="2874.2856"
+             height="316.35837"
+             width="301.1767"
+             id="rect3745" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3747">Läsplattor kan fjärrstyras av förlagen och e-böcker har raderats utan orsak</flowPara><flowPara
+           id="flowPara3749">För att förhindra piratkopiering har bokbranschen givit sig själva fullständig kontroll över programvaran för läsning av elektroniska böcker. Man har ett centralt register över allas köp och möjlighet till att fjärrstyra läsplattor, och genom det radera, ändra eller lägga till titlar eller funktioner.</flowPara></flowRoot>      <flowRoot
+         transform="translate(-370.531,-2746.474)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3751"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3753"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="697.59259"
+             x="2868.5715"
+             height="160.29842"
+             width="301.17206"
+             id="rect3755" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3757">Bibliotekshistorik kan begäras ut i USA</flowPara><flowPara
+           id="flowPara3759">I USA kan myndigheterna enligt Patriot Act begära ut lånehistorik från bibliotek i jakten på terrorister.</flowPara></flowRoot>      <rect
+         ry="0"
+         rx="3.3641425e-06"
+         y="-2118.8979"
+         x="2143.7007"
+         height="35.433064"
+         width="673.22833"
+         id="rect4133-4-2"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="35.433056"
+         rx="35.433094"
+         y="-2154.3311"
+         x="2143.7007"
+         height="425.19687"
+         width="673.22845"
+         id="rect4129-11-0"
+         style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="33.290108"
+         rx="35.433094"
+         y="-2154.3311"
+         x="2143.7007"
+         height="70.866119"
+         width="673.22833"
+         id="rect4131-7-9"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(2698.5736,-2570.7181)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowRoot3901-86-7"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3903-9-2"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             y="429.02118"
+             x="-537.14288"
+             height="48.10564"
+             width="637.78192"
+             id="rect3905-7-4" /></flowRegion><flowPara
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+           id="flowPara3907-8-1">Kultur</flowPara></flowRoot>    </g>
+    <g
+       id="g5482"
+       transform="translate(124.01574,584.64566)" />
+    <g
+       id="g5958">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3801"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(-548.84819,-2198.2648)"><flowRegion
+           id="flowRegion3803"><rect
+             id="rect3805"
+             width="301.1767"
+             height="213.43903"
+             x="2834.2856"
+             y="1726.1641"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3807"
+           style="font-size:22px">PRISM, datalagring</flowPara><flowPara
+           id="flowPara3809">All kommunikation lagras idag både lagligt och olagligt av olika aktörer. Inom EU lagras all metadata (vem som kommunicerat med vem, när och var) i två år. USA lagrar också all kommunikation de kan komma över genom sitt program PRISM.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3811"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(-548.84819,-1483.3153)"><flowRegion
+           id="flowRegion3813"><rect
+             id="rect3815"
+             width="301.1767"
+             height="298.66864"
+             x="2834.2856"
+             y="1914.7355"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3817"
+           style="font-size:22px">Aktiv signalspaning / hacking</flowPara><flowPara
+           id="flowPara3819">Övervakningsorganisationer använder inte bara passiv avlyssning av kabeltrafiken, utan utvecklar och använder olika typer av virus och datainbrott för att skaffa sig tillgång till information redan innan den lämnar en användares dator. Detta kan användas för att ta sig runt olika skyddsmetoder som kryptering och anonymiseringsnätverk.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3821"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(-537.41069,-2357.1039)"><flowRegion
+           id="flowRegion3823"><rect
+             id="rect3825"
+             width="301.16766"
+             height="387.23798"
+             x="2822.8572"
+             y="2097.5925"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3827"
+           style="font-size:22px">Underminerande av websidekryptering</flowPara><flowPara
+           id="flowPara3829">För att säkerställa identiteten till ägaren av en websida används ett system med en kedja av kryptografiska certifikat, där varje ceryifikat i kedjan signerat nästa. Överst i kedjan återfinns webläsartillverkaren. Om någon i kedjan börjar utfärda felaktiga certifikat, t.ex. ett som påstår att övervakningsorganet NSA är banken Nordea, så finns det inget sätt för dig som användare att upptäcka att websidan du ser på kommer från NSAs server och inte Nordeas.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3831"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(-226.52865,-2815.4122)"><flowRegion
+           id="flowRegion3833"><rect
+             id="rect3835"
+             width="301.18549"
+             height="178.01041"
+             x="2845.7144"
+             y="2371.8784"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3837"
+           style="font-size:22px">Skype</flowPara><flowPara
+           id="flowPara3839">Den version av internettelefonprogrammvaran Skype som erbjuds i Kina innehåller funktioner för både politisk censur av ord, och loggning av samtal med 'känsligt' innehåll.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3841"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(-226.52865,-2797.095)"><flowRegion
+           id="flowRegion3843"><rect
+             id="rect3845"
+             width="301.18549"
+             height="284.30521"
+             x="2845.7144"
+             y="2566.1641"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3847"
+           style="font-size:22px">Facebook</flowPara><flowPara
+           id="flowPara3849">Facebook tillhandahåller knappar till websidebyggare för att 'gilla' och 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Facebooks servrar. De kan se och lagra vilken sida som besökts och koppla det till besökarens facebookanvändare, trots att besökaren inte tryckt på någon av knapparna.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3851"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(-220.8099,-2718.1974)"><flowRegion
+           id="flowRegion3853"><rect
+             id="rect3855"
+             width="301.18109"
+             height="266.58871"
+             x="2840"
+             y="2806.1641"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3857"
+           style="font-size:22px">Twitter</flowPara><flowPara
+           id="flowPara3859">Twitter tillhandahåller knappar till websidebyggare för att 'dela' en websida. När någon besöker en websida som använder de funktionerna hämtas själva knapparna från Twitters servrar. De kan se och lagra vilken sida som besökts och koppla det till besökarens twitterkonto, trots att besökaren inte tryckt på någon av knapparna.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3861"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(230.6276,-2685.61)"><flowRegion
+           id="flowRegion3863"><rect
+             id="rect3865"
+             width="301.17206"
+             height="231.17804"
+             x="2388.5715"
+             y="3074.7354"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3867"
+           style="font-size:22px">Google</flowPara><flowPara
+           id="flowPara3869">Google lagrar söktermer och kopplar dessa till användarens webbrowser och IP-nummer. Söktermer skickas också till websidorna som användaren väljer att besöka. All den informationen kan senare komma att lämnas ut till myndigheter eller säljas till reklamföretag.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3871"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         transform="translate(-86.00444,-3149.6236)"><flowRegion
+           id="flowRegion3873"><rect
+             id="rect3875"
+             width="301.19012"
+             height="263.22226"
+             x="2371.4285"
+             y="3297.5925"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+           id="flowPara3877"
+           style="font-size:22px">Sociogram</flowPara><flowPara
+           id="flowPara3879">Sociogram är grafiska beskrivningar av människors relationer och interaktioner. De kan användas för att dra slutsatser om en persons åsikter, intressen eller vanor. Det ger myndigheter och företag möjligheten att 'se helheten' om en person. Sociogram skapas ofta från stora databaser över händelser som var för sig är obetydliga.</flowPara></flowRoot>      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4133-4-3"
+         width="673.22833"
+         height="35.433064"
+         x="2143.7009"
+         y="-1126.772"
+         rx="3.3641425e-06"
+         ry="0"
+         transform="translate(124.01574,584.6457)" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:3.54330707000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4129-11-51"
+         width="673.22821"
+         height="1275.5906"
+         x="2143.7009"
+         y="-1162.2051"
+         rx="35.433094"
+         ry="35.433056"
+         transform="translate(124.01574,584.6457)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4131-7-14"
+         width="673.22833"
+         height="70.866119"
+         x="2143.7009"
+         y="-1162.2051"
+         rx="35.433094"
+         ry="33.290108"
+         transform="translate(124.01574,584.6457)" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3901-86-2"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         transform="translate(2822.5893,-993.9464)"><flowRegion
+           id="flowRegion3903-9-0"><rect
+             id="rect3905-7-47"
+             width="637.78192"
+             height="48.10564"
+             x="-537.14288"
+             y="429.02118"
+             style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara3907-8-58"
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Kommunikation</flowPara></flowRoot>      <g
+         transform="translate(-71.428572,222.85714)"
+         id="g5901">
+        <g
+           transform="matrix(1.1474014,0,0,1.1474014,-459.22762,97.244502)"
+           id="g5906">
+          <path
+             transform="translate(0,-2490.945)"
+             inkscape:connector-curvature="0"
+             id="path5899"
+             d="m 2938.5714,1676.164 c -24.6207,0.1596 -59.8852,2.1767 -82.8571,14.2857 -22.9719,12.109 -43.9249,34.5633 -50,51.4286 -6.0751,16.8653 -8.0932,25.0727 2.8571,35.7143 10.9503,10.6416 40.9561,-12.3695 55.7143,2.8571 14.7582,15.2266 -24.0341,46.721 1.4286,71.4286 25.4627,24.7076 116.721,24.0341 141.4286,-1.4286 24.7076,-25.4627 -16.2947,-56.6559 -1.4286,-71.4285 14.8661,-14.7726 41.9989,14.0793 54.2857,1.4285 12.2868,-12.6508 6.6122,-33.4726 -2.8571,-51.4285 -9.4693,-17.9559 -35.2123,-34.0259 -55.7143,-42.8572 -20.502,-8.8313 -38.2365,-10.1596 -62.8572,-10 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             sodipodi:nodetypes="zzzzzzzzzzzz" />
+          <g
+             style="fill:#000000;fill-opacity:1"
+             id="layer1-6"
+             transform="translate(2803.6383,-823.14248)">
+            <path
+               style="fill:#000000;fill-opacity:1"
+               inkscape:connector-curvature="0"
+               id="path2198"
+               d="m 132.08,26.793 c -33.679,0 -64.329,11.29 -87.186,29.732 -10.999,3.588 -18.882,13.229 -18.882,24.552 0,4.184 1.082,8.124 2.994,11.628 H 79.75 c 1.912,-3.504 3.022,-7.444 3.022,-11.628 0,-6.512 -2.599,-12.471 -6.908,-17.039 16.696,-8.644 35.856,-13.557 56.216,-13.557 20.36,0 39.51,4.913 56.21,13.557 -4.31,4.568 -6.91,10.527 -6.91,17.039 0,4.184 1.08,8.124 3,11.628 h 50.74 c 1.91,-3.504 3.02,-7.444 3.02,-11.628 0,-11.323 -7.88,-20.964 -18.88,-24.552 C 196.4,38.083 165.75,26.793 132.08,26.793 z m 0,26.365 c -26.84,0 -48.617,23.031 -48.617,51.402 0,2.38 0.166,4.71 0.461,7 -4.728,2.73 -7.916,7.83 -7.916,13.7 v 28.84 c 0,8.76 7.068,15.83 15.831,15.83 h 80.481 c 8.76,0 15.83,-7.07 15.83,-15.83 v -28.84 c 0,-5.87 -3.2,-10.94 -7.92,-13.67 0.3,-2.3 0.46,-4.64 0.46,-7.03 0,-28.371 -21.78,-51.402 -48.61,-51.402 z m 0,15.341 c 13.99,0 25.36,10.519 25.36,23.487 0,12.964 -11.37,23.514 -25.36,23.514 -14,0 -25.36,-10.55 -25.36,-23.514 0,-12.968 11.36,-23.487 25.36,-23.487 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g7729">
+      <flowRoot
+         transform="translate(1117.3027,-2255.4211)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3611"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3613"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1783.3069"
+             x="211.42857"
+             height="263.22668"
+             width="301.19003"
+             id="rect3615" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3617">Trängseltullar</flowPara><flowPara
+           id="flowPara3619">Automatiska betalningsstationer för trängselskatt registrerar och lagrar registreringsnumrena för de bilar som passerar. Datat behövs för faktureringen, men kan också missbrukas till andra ändamål. När data från ett stort antal stationer sammanställs kan en detaljerad bild av någons resemönster skapas.</flowPara></flowRoot>      <flowRoot
+         transform="translate(1459.6356,-2402.8318)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3621"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3623"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1966.1641"
+             x="205.71428"
+             height="334.94135"
+             width="301.19861"
+             id="rect3625" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3627">Andra registreringsskyltsläsande kameror</flowPara><flowPara
+           id="flowPara3629">Kameror för att läsa av registreringsskyltar kan användas av många olika operatörer utöver trängseltullar. Till exempel kan mobila kameror användas för att hitta bilar som belånats eller skall förverkas av kronofogden. Den som hanterar sådana mobila läsare kan över tid samla in en stor mängd information om människors positioner.</flowPara></flowRoot>      <flowRoot
+         transform="translate(1123.0214,-1921.9543)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3631"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3633"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1715.5977"
+             x="205.71875"
+             height="460.63004"
+             width="301.18109"
+             id="rect3635" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3637">Kollektivtrafiksbiljetter</flowPara><flowPara
+           id="flowPara3639">Moderna biljettsystem i kollektivtrafiken baseras på elektroniska ID-kort som avläses vid varje resa. Kortets identitetsnummer, tid och fordonets identitet lagras både för att utföra själva betalningen, men också för att skapa detaljerad statistik över vilka linjer, övergångar mellan linjer som används och hur mycket. Passagerare uppmanas också ofta att registrera sitt kort för att kunna återfå det om det skulle tappas. Registreringen innebär att kortets identitet knyts till användarens personnummer eller namn och adress. Tillsammans ger det transportbolaget en väldigt detaljerad bild över en persons resemönster.</flowPara></flowRoot>      <flowRoot
+         transform="translate(1105.2918,-1851.097)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3641"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3643"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1786.4639"
+             x="560.04944"
+             height="302.04306"
+             width="301.19415"
+             id="rect3645" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3647">Spårsändare i bilar</flowPara><flowPara
+           id="flowPara3649">I USA arbetar miljögrupper för att bilar skall utrustas med spårsändare för att kunna driva in skatter baserade på körd distans och område. Här i Sverige varnar Datainspektionen för ett nytt spårsystem för bilar som EU föreslår. Systemet skall automatiskt larma om bilens position vid allvarliga olyckor, men kommer också hota den personliga integriteten.</flowPara></flowRoot>      <flowRoot
+         transform="translate(1123.0214,-1939.6704)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3651"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3653"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="2211.6606"
+             x="205.71875"
+             height="194.882"
+             width="301.18109"
+             id="rect3655" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3657">ID-kontroll på tåg</flowPara><flowPara
+           id="flowPara3659">Flera tågbolag har sedan några år börjat med personliga biljetter och ID-tvång ombord med hänvisning till att vilja hindra en svart marknad för biljetter. Tågbolagen får därmed ett register på vem som rest vart och när.</flowPara></flowRoot>      <flowRoot
+         transform="translate(1105.2918,-1851.1056)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3661"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3663"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="2105.3616"
+             x="560.04944"
+             height="248.89337"
+             width="301.19415"
+             id="rect3665" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3667">REVA</flowPara><flowPara
+           id="flowPara3669">REVA är ett projekt inom polisen för att finna och utvisa människor som befinner sig i Sverige utan uppehållstillstånd. Bland annat har projektet inneburit att polisen använt misstankar om plankning i kollektivtrafiken som förevändning att ID-kontrollera alla med utländskt utseende.</flowPara></flowRoot>      <rect
+         ry="0"
+         rx="3.3641425e-06"
+         y="-542.12628"
+         x="1311.0237"
+         height="35.433064"
+         width="673.22833"
+         id="rect4133-5"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="35.433056"
+         rx="35.433094"
+         y="-577.55939"
+         x="1311.0237"
+         height="1080.7086"
+         width="673.22833"
+         id="rect4129-1"
+         style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="33.290108"
+         rx="35.433094"
+         y="-577.55939"
+         x="1311.0237"
+         height="70.866119"
+         width="673.22833"
+         id="rect4131-0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(1865.8964,-993.94643)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowRoot3901-8"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3903-6"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             y="429.02118"
+             x="-537.14288"
+             height="48.10564"
+             width="637.78192"
+             id="rect3905-3" /></flowRegion><flowPara
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+           id="flowPara3907-23">Transport</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="zzzzzzzzzzzzz"
+         inkscape:connector-curvature="0"
+         id="path6621"
+         d="m 1855.7144,-613.3523 c -14.4664,13.9793 -23.0136,27.7074 -30.9112,35.793 -7.8976,8.0856 -35.914,23.8406 -47.6603,49.9212 -11.7463,26.0806 -9.5595,68.8459 1.4286,81.4286 10.9881,12.5827 6.3981,-2.1943 18.5714,2.8571 12.1733,5.0514 32.7811,30.2198 48.5714,35.7143 15.7903,5.4945 29.2278,7.8233 40,1.4286 10.7722,-6.3947 -0.2348,-26.9816 15.7143,-31.4286 15.9491,-4.447 34.4394,33.527 54.2857,34.2857 19.8463,0.7587 36.317,-22.2338 48.5714,-25.7143 12.2544,-3.4805 17.2403,0.9143 25.7143,-25.7142 8.474,-26.6285 6.8289,-148.6897 -12.8571,-158.5714 -19.686,-9.8817 -146.9622,-13.9793 -161.4285,0 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         id="path6611"
+         d="m 1866.3044,-460.06278 q 0,-6.12649 -4.4771,-10.60354 -4.477,-4.47705 -10.6035,-4.47705 -6.1265,0 -10.6036,4.47705 -4.477,4.47705 -4.477,10.60354 0,6.12649 4.477,10.60354 4.4771,4.47705 10.6036,4.47705 6.1265,0 10.6035,-4.47705 4.4771,-4.47705 4.4771,-10.60354 z m -45.2418,-60.32237 h 45.2418 v -30.16118 h -18.6151 q -1.5317,0 -2.592,1.06035 l -22.9744,22.97434 q -1.0603,1.06036 -1.0603,2.59198 v 3.53451 z m 150.8059,60.32237 q 0,-6.12649 -4.4771,-10.60354 -4.477,-4.47705 -10.6035,-4.47705 -6.1265,0 -10.6035,4.47705 -4.4771,4.47705 -4.4771,10.60354 0,6.12649 4.4771,10.60354 4.477,4.47705 10.6035,4.47705 6.1265,0 10.6035,-4.47705 4.4771,-4.47705 4.4771,-10.60354 z m 30.1612,-128.18503 v 120.64473 q 0,1.76726 -0.4713,3.12216 -0.4713,1.35489 -1.5905,2.17961 -1.1193,0.82472 -1.944,1.3549 -0.8247,0.53018 -2.7687,0.7069 -1.944,0.17673 -2.6509,0.23564 -0.7069,0.0589 -3.0043,0 -2.2975,-0.0589 -2.6509,-0.0589 0,12.48861 -8.8363,21.3249 -8.8363,8.83628 -21.3249,8.83628 -12.4886,0 -21.3249,-8.83628 -8.8363,-8.83629 -8.8363,-21.3249 h -45.2418 q 0,12.48861 -8.8362,21.3249 -8.8363,8.83628 -21.3249,8.83628 -12.4886,0 -21.3249,-8.83628 -8.8363,-8.83629 -8.8363,-21.3249 h -7.5403 q -0.3535,0 -2.6509,0.0589 -2.2974,0.0589 -3.0043,0 -0.7069,-0.0589 -2.6509,-0.23564 -1.944,-0.17672 -2.7687,-0.7069 -0.8247,-0.53018 -1.944,-1.3549 -1.1193,-0.82472 -1.5905,-2.17961 -0.4713,-1.3549 -0.4713,-3.12216 0,-3.06324 2.2385,-5.30177 2.2385,-2.23852 5.3018,-2.23852 v -37.70148 q 0,-0.94254 -0.059,-4.1236 -0.059,-3.18106 0,-4.47705 0.059,-1.29599 0.2945,-4.06469 0.2357,-2.7687 0.7658,-4.35923 0.5302,-1.59054 1.6495,-3.59343 1.1192,-2.00289 2.6509,-3.53451 l 23.3278,-23.32779 q 2.2385,-2.23853 5.9497,-3.77015 3.7113,-1.53162 6.8923,-1.53162 h 18.8508 v -22.62089 q 0,-3.06324 2.2385,-5.30177 2.2385,-2.23852 5.3018,-2.23852 h 120.6447 q 3.0632,0 5.3018,2.23852 2.2385,2.23853 2.2385,5.30177 z"
+         inkscape:connector-curvature="0"
+         style="fill:currentColor" />
+    </g>
+    <g
+       id="g7772">
+      <rect
+         ry="0"
+         rx="0"
+         transform="translate(0,-2490.945)"
+         y="1612.2045"
+         x="2604.3308"
+         height="35.433052"
+         width="283.46469"
+         id="rect7770"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         id="path7590"
+         d="m 2734.9516,-938.43367 v 156.1857 q 0,3.73238 -2.7275,6.45989 -2.7275,2.7275 -6.4599,2.7275 -3.7323,0 -6.4599,-2.7275 l -47.8031,-47.80316 h -37.6109 q -3.7324,0 -6.4599,-2.72751 -2.7275,-2.72751 -2.7275,-6.45989 V -887.903 q 0,-3.73238 2.7275,-6.45989 2.7275,-2.7275 6.4599,-2.7275 h 37.6109 l 47.8031,-47.80316 q 2.7276,-2.72751 6.4599,-2.72751 3.7324,0 6.4599,2.72751 2.7275,2.7275 2.7275,6.45988 z m 55.1244,78.09285 q 0,10.91003 -6.101,20.31275 -6.101,9.40273 -16.1497,13.42221 -1.4356,0.71777 -3.5889,0.71777 -3.7323,0 -6.4598,-2.65573 -2.7275,-2.65573 -2.7275,-6.53167 0,-3.01461 1.7226,-5.09613 1.7226,-2.08152 4.163,-3.58882 2.4404,-1.50731 4.8808,-3.30172 2.4404,-1.79442 4.1631,-5.09614 1.7226,-3.30172 1.7226,-8.18252 0,-4.8808 -1.7226,-8.18252 -1.7227,-3.30172 -4.1631,-5.09613 -2.4404,-1.79442 -4.8808,-3.30172 -2.4404,-1.50731 -4.163,-3.58883 -1.7226,-2.08152 -1.7226,-5.09613 0,-3.87593 2.7275,-6.53167 2.7275,-2.65573 6.4598,-2.65573 2.1533,0 3.5889,0.71777 10.0487,3.87593 16.1497,13.35043 6.101,9.4745 6.101,20.38453 z m 36.7496,0 q 0,21.96361 -12.202,40.55373 -12.202,18.59012 -32.2995,27.05975 -1.8662,0.71776 -3.5888,0.71776 -3.8759,0 -6.6034,-2.7275 -2.7275,-2.72751 -2.7275,-6.45989 0,-5.59857 5.5985,-8.46963 8.039,-4.16304 10.9101,-6.31633 10.6229,-7.75187 16.5803,-19.45144 5.9575,-11.69957 5.9575,-24.90645 0,-13.20688 -5.9575,-24.90645 -5.9574,-11.69957 -16.5803,-19.45144 -2.8711,-2.15329 -10.9101,-6.31633 -5.5985,-2.87106 -5.5985,-8.46963 0,-3.73238 2.7275,-6.45988 2.7275,-2.72751 6.4598,-2.72751 1.8662,0 3.7324,0.71776 20.0975,8.46963 32.2995,27.05975 12.202,18.59012 12.202,40.55373 z m 36.7495,0 q 0,33.0172 -18.2312,60.65116 -18.2312,27.63395 -48.5209,40.69728 -1.8662,0.71777 -3.7324,0.71777 -3.7324,0 -6.4599,-2.72751 -2.7275,-2.72751 -2.7275,-6.45989 0,-5.16791 5.5986,-8.46963 1.0048,-0.57421 3.2299,-1.5073 2.2251,-0.9331 3.23,-1.50731 6.6034,-3.58883 11.7713,-7.32121 17.657,-13.06332 27.5622,-32.58653 9.9052,-19.52322 9.9052,-41.48683 0,-21.96361 -9.9052,-41.48682 -9.9052,-19.52322 -27.5622,-32.58654 -5.1679,-3.73238 -11.7713,-7.32121 -1.0049,-0.57421 -3.23,-1.5073 -2.2251,-0.9331 -3.2299,-1.50731 -5.5986,-3.30172 -5.5986,-8.46963 0,-3.73238 2.7275,-6.45989 2.7275,-2.7275 6.4599,-2.7275 1.8662,0 3.7324,0.71776 30.2897,13.06333 48.5209,40.69729 18.2312,27.63395 18.2312,60.65115 z"
+         inkscape:connector-curvature="0"
+         style="fill:currentColor" />
+    </g>
+    <g
+       id="g6801"
+       transform="matrix(0.10706137,0,0,-0.10706137,749.90148,-818.63737)">
+      <path
+         id="path6803"
+         d="m 1639,1058 q 40,-57 18,-129 L 1382,23 Q 1363,-41 1305.5,-84.5 1248,-128 1183,-128 H 260 q -77,0 -148.5,53.5 Q 40,-21 12,57 q -24,67 -2,127 0,4 3,27 3,23 4,37 1,8 -3,21.5 -4,13.5 -3,19.5 2,11 8,21 6,10 16.5,23.5 Q 46,347 52,357 q 23,38 45,91.5 22,53.5 30,91.5 3,10 0.5,30 -2.5,20 -0.5,28 3,11 17,28 14,17 17,23 21,36 42,92 21,56 25,90 1,9 -2.5,32 -3.5,23 0.5,28 4,13 22,30.5 18,17.5 22,22.5 19,26 42.5,84.5 23.5,58.5 27.5,96.5 1,8 -3,25.5 -4,17.5 -2,26.5 2,8 9,18 7,10 18,23 11,13 17,21 8,12 16.5,30.5 8.5,18.5 15,35 6.5,16.5 16,36 9.5,19.5 19.5,32 10,12.5 26.5,23.5 16.5,11 36,11.5 19.5,0.5 47.5,-5.5 l -1,-3 q 38,9 51,9 h 761 q 74,0 114,-56 40,-56 18,-130 L 1225,316 Q 1189,197 1153.5,162.5 1118,128 1025,128 H 156 Q 129,128 118,113 107,97 117,70 141,0 261,0 h 923 q 29,0 56,15.5 27,15.5 35,41.5 l 300,987 q 7,22 5,57 38,-15 59,-43 z m -1064,-2 q -4,-13 2,-22.5 6,-9.5 20,-9.5 h 608 q 13,0 25.5,9.5 12.5,9.5 16.5,22.5 l 21,64 q 4,13 -2,22.5 -6,9.5 -20,9.5 H 638 q -13,0 -25.5,-9.5 Q 600,1133 596,1120 z M 492,800 q -4,-13 2,-22.5 6,-9.5 20,-9.5 h 608 q 13,0 25.5,9.5 12.5,9.5 16.5,22.5 l 21,64 q 4,13 -2,22.5 -6,9.5 -20,9.5 H 555 q -13,0 -25.5,-9.5 Q 517,877 513,864 z"
+         inkscape:connector-curvature="0"
+         style="fill:currentColor" />
+    </g>
+    <g
+       id="g6889">
+      <g
+         transform="translate(230.31498,531.4961)"
+         id="g5284">
+        <g
+           id="g5356">
+          <flowRoot
+             transform="translate(-335.85605,-2575.0366)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3671"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3673"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="526.164"
+                 x="1434.2858"
+                 height="280.92984"
+                 width="301.17657"
+                 id="rect3675" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3677">Smarta elmätare</flowPara><flowPara
+               id="flowPara3679">Så kallade 'Smarta elmätare' mäter elförbrukningen ner på sekundnivå och skickar informationen till elbolaget. Med så noggranna användningsdata kan man dra korrekta slutsatser om vilka maskiner som använts när och till vad i hemmet. Detta kan t.ex. visa på om någon varit hemma en viss tid, sett ett visst TV-program etc.</flowPara></flowRoot>          <flowRoot
+             transform="translate(336.60185,-2367.7683)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3681"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3683"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="673.22815"
+                 x="1098.4252"
+                 height="336.61417"
+                 width="301.18112"
+                 id="rect3685" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3687">Kameraövervakning i trapphus i flerbostadshus</flowPara><flowPara
+               id="flowPara3689">Kameraövervakning i trapphus i flerbostadshus innebär att hyresgästernas rörelser in och ut ur huset registreras och att värden därför får information om hyresgästens privatliv. Kameraövervakning har redan använts på flera håll, men bör enligt branschorganisationen Fastighetsägarna, begränsas till när det är absolut nödvändigt för att förebygga skadegörelse.</flowPara></flowRoot>          <flowRoot
+             transform="translate(-0.01232252,-2792.9782)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3691"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3693"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="1027.5588"
+                 x="1098.4252"
+                 height="284.31671"
+                 width="301.19342"
+                 id="rect3695" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3697">Elektroniska nycklar lämnar spår</flowPara><flowPara
+               id="flowPara3699">Elektroniska nyckelbrickor ger bostadsbolagen detaljerade loggfiler över in- och ut-passeringar, både till hemmet men även till olika faciliteter som till exempel tvättstuga och garage. Det finns önskemål från hyresvärdarnas sida om att få lov att använda den informationen för att t.ex. straffa hyresgäster som smutsar ner.</flowPara></flowRoot>          <flowRoot
+             transform="translate(-17.71063,-2438.6303)"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             id="flowRoot3701"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3703"><rect
+                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 y="389.76358"
+                 x="1452.7559"
+                 height="337.44907"
+                 width="301.17523"
+                 id="rect3705" /></flowRegion><flowPara
+               style="font-size:22px"
+               id="flowPara3707">Registrering av hyresgäster</flowPara><flowPara
+               id="flowPara3709">Hyrsvärdar över hela Sverige har i strid med personuppgiftslagen registrerat både politiska åsikter, sjukdomstillstånd och brottsmisstankar/brottshistorik för boende i sina register. Registreringen har skett som löpande text i kommentarsfält vilket gör det svårt att överblicka exakt vad som registrerats och den totala omfattningen, även om man kunnat avgöra att registreringen i många fall varit omfattande.</flowPara></flowRoot>          <rect
+             ry="0"
+             rx="3.3641425e-06"
+             y="-2118.8977"
+             x="1080.7086"
+             height="35.433064"
+             width="673.22833"
+             id="rect4133-4-52"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             ry="35.433056"
+             rx="35.433094"
+             y="-2154.3308"
+             x="1080.7086"
+             height="814.96039"
+             width="673.22839"
+             id="rect4129-11-2"
+             style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <rect
+             ry="33.290108"
+             rx="35.433094"
+             y="-2154.3308"
+             x="1080.7086"
+             height="70.866119"
+             width="673.22833"
+             id="rect4131-7-1"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <flowRoot
+             transform="translate(1635.5814,-2570.7181)"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+             id="flowRoot3901-86-4"
+             xml:space="preserve"><flowRegion
+               id="flowRegion3903-9-9"><rect
+                 style="fill:#ffffff;fill-opacity:1"
+                 y="429.02118"
+                 x="-537.14288"
+                 height="48.10564"
+                 width="637.78192"
+                 id="rect3905-7-22" /></flowRegion><flowPara
+               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               id="flowPara3907-8-3">Hem</flowPara></flowRoot>        </g>
+      </g>
+      <g
+         transform="translate(-241.38651,932.2684)"
+         id="g6884">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 1629.9213,584.64547 -124.0158,106.29921 35.4331,35.43307 0,70.86614 194.8819,0 0,-70.86614 35.433,-35.43307 -124.0157,-106.29921 z"
+           id="path6882"
+           inkscape:connector-curvature="0"
+           transform="translate(0,-2490.945)" />
+        <g
+           id="g6870"
+           transform="matrix(0.12772739,0,0,-0.12772739,1531.6247,-1723.0769)">
+          <path
+             id="path6872"
+             d="M 1408,544 V 64 Q 1408,38 1389,19 1370,0 1344,0 H 960 V 384 H 704 V 0 H 320 q -26,0 -45,19 -19,19 -19,45 v 480 q 0,1 0.5,3 0.5,2 0.5,3 l 575,474 575,-474 q 1,-2 1,-6 z m 223,69 -62,-74 q -8,-9 -21,-11 h -3 q -13,0 -21,7 L 832,1112 140,535 q -12,-8 -24,-7 -13,2 -21,11 l -62,74 q -8,10 -7,23.5 1,13.5 11,21.5 l 719,599 q 32,26 76,26 44,0 76,-26 l 244,-204 v 195 q 0,14 9,23 9,9 23,9 h 192 q 14,0 23,-9 9,-9 9,-23 V 840 l 219,-182 q 10,-8 11,-21.5 1,-13.5 -7,-23.5 z"
+             inkscape:connector-curvature="0"
+             style="fill:currentColor" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9714">
+      <flowRoot
+         transform="translate(-1062.2342,-2240.5685)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3711"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3713"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1697.5927"
+             x="1434.2858"
+             height="156.92294"
+             width="301.17657"
+             id="rect3715" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3717">Mobiltelefoner med GPS</flowPara><flowPara
+           id="flowPara3719">Mobiltelefoners position lagras kontinuerligt hos operatörerna och kan användas till övervakning av en persons rörelser, men också för att ta reda på vem han eller hon mött.</flowPara></flowRoot>      <flowRoot
+         transform="translate(-1045.1092,-2257.6844)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3721"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3723"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1891.8783"
+             x="1417.1428"
+             height="280.9343"
+             width="301.19452"
+             id="rect3725" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3727">Triangulering av mobiltelefoner</flowPara><flowPara
+           id="flowPara3729">Även positionen till äldre mobiltelefoner utan inbyggd GPS kan beräknas genom att mäta signalstyrkan vid minst tre basstationer. Denna typ av mätning är en nödvändig del av mobiltelefonnätets funktion, men positionen lagras också enligt EU-direktivet om datalagring.</flowPara></flowRoot>      <flowRoot
+         transform="translate(-744.08858,-1712.258)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3731"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3733"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1435.0392"
+             x="1452.7559"
+             height="178.00584"
+             width="301.17523"
+             id="rect3735" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3737">Övervakningskameror med biometri</flowPara><flowPara
+           id="flowPara3739">Genom att använda ansikts- eller gångstilsigenkänning kan personer följas från kamera till kamera och deras väg plottas in via kamerornas position.</flowPara></flowRoot>      <rect
+         ry="0"
+         rx="3.3641425e-06"
+         y="-612.99231"
+         x="354.3306"
+         height="35.433064"
+         width="673.22833"
+         id="rect4133-4-5"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="35.433056"
+         rx="35.433094"
+         y="-648.42542"
+         x="354.3306"
+         height="566.92902"
+         width="673.22827"
+         id="rect4129-11-5"
+         style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="33.290108"
+         rx="35.433094"
+         y="-648.42542"
+         x="354.3306"
+         height="70.866119"
+         width="673.22833"
+         id="rect4131-7-2"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(909.20327,-1064.8126)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowRoot3901-86-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3903-9-4"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             y="429.02118"
+             x="-537.14288"
+             height="48.10564"
+             width="637.78192"
+             id="rect3905-7-2" /></flowRegion><flowPara
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+           id="flowPara3907-8-5">Positionering av personer</flowPara></flowRoot>      <path
+         id="path8963"
+         d="m 849.31568,-506.73319 q 22.61896,0 41.72062,11.14714 19.10166,11.14715 30.24881,30.24881 11.14714,19.10166 11.14714,41.72063 0,22.61896 -11.14714,41.72062 -11.14715,19.10166 -30.24881,30.24881 -19.10166,11.14714 -41.72062,11.14714 -22.61897,0 -41.72063,-11.14714 -19.10166,-11.14715 -30.2488,-30.24881 -11.14715,-19.10166 -11.14715,-41.72062 0,-22.61897 11.14715,-41.72063 11.14714,-19.10166 30.2488,-30.24881 19.10166,-11.14714 41.72063,-11.14714 z m 29.65357,56.38507 q -0.21645,0.10823 -1.02814,1.02814 -0.81168,0.91991 -1.46103,1.02813 0.21645,0 0.48701,-0.54112 0.27056,-0.54113 0.54112,-1.19047 0.27057,-0.64935 0.37879,-0.75758 0.64935,-0.75757 2.38094,-1.62337 1.51515,-0.64935 5.62769,-1.29869 3.67964,-0.8658 5.51946,1.19047 -0.21645,-0.21645 1.02813,-1.40692 1.24459,-1.19048 1.56926,-1.2987 0.32468,-0.21645 1.62337,-0.48701 1.2987,-0.27056 1.62337,-0.81169 l 0.21645,-2.38094 q -1.29869,0.10822 -1.89393,-0.75757 -0.59524,-0.8658 -0.70346,-2.27272 0,0.21645 -0.64935,0.8658 0,-0.75758 -0.48701,-0.8658 -0.48701,-0.10823 -1.24458,0.10822 -0.75758,0.21645 -0.97403,0.10823 -1.08224,-0.32468 -1.62337,-0.81169 -0.54112,-0.48701 -0.86579,-1.78571 -0.32468,-1.29869 -0.4329,-1.62337 -0.21645,-0.54112 -1.02814,-1.13636 -0.81168,-0.59523 -1.02813,-1.13635 -0.10823,-0.21645 -0.27056,-0.59524 -0.16234,-0.37879 -0.32468,-0.70346 -0.16234,-0.32468 -0.4329,-0.59524 -0.27056,-0.27056 -0.59523,-0.27056 -0.32468,0 -0.75758,0.54112 -0.43289,0.54113 -0.81168,1.08225 -0.37879,0.54113 -0.48701,0.54113 -0.32468,-0.21645 -0.64935,-0.16234 -0.32468,0.0541 -0.48701,0.10822 -0.16234,0.0541 -0.48701,0.32468 -0.32468,0.27056 -0.54113,0.37878 -0.32467,0.21645 -0.91991,0.32468 -0.59523,0.10822 -0.91991,0.21645 1.62337,-0.54113 -0.10822,-1.19047 -1.08225,-0.4329 -1.7316,-0.32468 0.97403,-0.4329 0.81169,-1.2987 -0.16234,-0.86579 -0.91991,-1.51514 h 0.54112 q -0.10822,-0.4329 -0.91991,-0.91991 -0.81168,-0.48701 -1.89393,-0.91991 -1.08225,-0.4329 -1.40692,-0.64935 -0.8658,-0.54112 -3.67964,-1.02813 -2.81384,-0.48702 -3.57142,-0.0541 -0.54112,0.64935 -0.48701,1.13636 0.0541,0.48701 0.4329,1.51515 0.37879,1.02813 0.37879,1.35281 0.10822,0.64935 -0.59524,1.40692 -0.70346,0.75757 -0.70346,1.2987 0,0.75757 1.51515,1.67748 1.51514,0.91991 1.08224,2.32683 -0.32467,0.8658 -1.73159,1.73159 -1.40692,0.8658 -1.7316,1.2987 -0.54112,0.8658 -0.16233,2.00216 0.37878,1.13636 1.13635,1.78571 0.21645,0.21645 0.16234,0.43289 -0.0541,0.21645 -0.37878,0.48702 -0.32468,0.27056 -0.59524,0.43289 -0.27056,0.16234 -0.70346,0.37879 l -0.32468,0.21645 q -1.19047,0.54112 -2.2186,-0.64935 -1.02814,-1.19047 -1.46104,-2.81384 -0.75757,-2.70562 -1.73159,-3.24674 -2.48917,-0.8658 -3.13852,0.10822 -0.54112,-1.40692 -4.43721,-2.81384 -2.70562,-0.97402 -6.27703,-0.4329 0.64934,-0.10822 0,-1.62337 -0.75758,-1.62337 -2.05627,-1.29869 0.32467,-0.64935 0.4329,-1.89394 0.10822,-1.24458 0.10822,-1.46103 0.32467,-1.40692 1.2987,-2.48917 0.10822,-0.10822 0.75757,-0.91991 0.64935,-0.81168 1.02813,-1.46103 0.37879,-0.64935 0.0541,-0.64935 3.78786,0.4329 5.41123,-1.19047 0.54113,-0.54113 1.24459,-1.83982 0.70346,-1.2987 1.13636,-1.83982 0.97402,-0.64935 1.51514,-0.59524 0.54113,0.0541 1.56926,0.59524 1.02814,0.54112 1.56926,0.54112 1.51514,0.10823 1.67748,-1.19047 0.16234,-1.2987 -0.81168,-2.1645 1.29869,0.10823 0.32467,-1.83982 -0.54112,-0.75757 -0.8658,-0.97402 -1.29869,-0.4329 -2.92206,0.54113 -0.8658,0.43289 0.21645,0.86579 -0.10823,-0.10822 -1.02814,1.13636 -0.91991,1.24459 -1.78571,1.89394 -0.86579,0.64934 -1.73159,-0.54113 -0.10823,-0.10822 -0.59524,-1.46103 -0.48701,-1.35281 -1.02813,-1.46104 -0.8658,0 -1.7316,1.62338 0.32468,-0.8658 -1.19047,-1.62338 -1.51515,-0.75757 -2.59739,-0.86579 2.05627,-1.2987 -0.8658,-2.92207 -0.75757,-0.4329 -2.21861,-0.54112 -1.46103,-0.10823 -2.11038,0.43289 -0.54112,0.75758 -0.59524,1.24459 -0.0541,0.48701 0.54113,0.8658 0.59523,0.37878 1.13636,0.59523 0.54112,0.21645 1.24458,0.4329 0.70346,0.21645 0.91991,0.32468 1.51515,1.08224 0.8658,1.51514 -0.21645,0.10823 -0.91991,0.37879 -0.70346,0.27056 -1.24458,0.48701 -0.54113,0.21645 -0.64935,0.4329 -0.32468,0.4329 0,1.51514 0.32467,1.08225 -0.21645,1.51515 -0.54113,-0.54112 -0.97402,-1.89393 -0.4329,-1.35281 -0.75758,-1.78571 0.75758,0.97402 -2.70562,0.64935 l -1.08224,-0.10823 q -0.4329,0 -1.7316,0.21645 -1.29869,0.21645 -2.2186,0.10823 -0.91991,-0.10823 -1.46104,-0.8658 -0.4329,-0.8658 0,-2.16449 0.10823,-0.4329 0.4329,-0.21645 -0.4329,-0.32468 -1.19047,-1.02814 -0.75757,-0.70346 -1.08225,-0.91991 -4.97833,1.62337 -10.17312,4.43721 0.64935,0.10823 1.2987,-0.10822 0.54112,-0.21645 1.40692,-0.70346 0.86579,-0.48701 1.08224,-0.59524 3.67964,-1.51514 4.54544,-0.75757 l 0.54113,-0.54112 q 1.51514,1.73159 2.16449,2.70561 -0.75757,-0.43289 -3.24674,-0.10822 -2.1645,0.64935 -2.38095,1.2987 0.75758,1.29869 0.54113,1.94804 -0.4329,-0.32467 -1.24459,-1.08225 -0.81168,-0.75757 -1.56925,-1.19047 -0.75758,-0.4329 -1.62338,-0.54112 -1.73159,0 -2.38094,0.10822 -15.80081,8.65798 -25.43281,24.02589 0.75758,0.75757 1.2987,0.8658 0.4329,0.10822 0.54112,0.97402 0.10823,0.8658 0.27057,1.19047 0.16233,0.32467 1.24458,-0.32467 0.97402,0.86579 0.32467,2.05627 0.10823,-0.10823 4.76189,2.92206 2.05627,1.83982 2.27272,2.27272 0.32467,1.19047 -1.08225,1.94805 -0.10822,-0.21645 -0.97402,-0.97403 -0.8658,-0.75757 -0.97402,-0.43289 -0.32468,0.54112 0.0541,2.00215 0.37879,1.46104 1.13636,1.35281 -0.75757,0 -1.02813,1.7316 -0.27057,1.73159 -0.27057,3.84197 0,2.11039 -0.10822,2.54329 l 0.21645,0.10822 q -0.32468,1.2987 0.59523,3.73375 0.91991,2.43506 2.32684,2.11038 -1.40693,0.32468 2.16449,4.65367 0.64935,0.86579 0.8658,0.97402 0.32467,0.21645 1.29869,0.81168 0.97403,0.59524 1.62338,1.08225 0.64934,0.48701 1.08224,1.13636 0.4329,0.54112 1.08225,2.43506 0.64935,1.89393 1.51515,2.54328 -0.21645,0.64935 1.02813,2.16449 1.24458,1.51515 1.13636,2.48917 -0.10823,0 -0.27056,0.10822 -0.16234,0.10823 -0.27056,0.10823 0.32467,0.75757 1.67748,1.51515 1.35281,0.75757 1.67748,1.40692 0.10823,0.32467 0.21645,1.08224 0.10823,0.75758 0.32468,1.19048 0.21644,0.43289 0.86579,0.21645 0.21645,-2.1645 -2.59739,-6.70994 -1.62337,-2.70561 -1.83982,-3.13851 -0.32467,-0.54113 -0.59524,-1.67749 -0.27056,-1.13636 -0.48701,-1.56925 0.21645,0 0.64935,0.16233 0.4329,0.16234 0.91991,0.37879 0.48701,0.21645 0.81169,0.4329 0.32467,0.21645 0.21645,0.32467 -0.32468,0.75757 0.21645,1.89393 0.54112,1.13636 1.29869,2.00216 0.75757,0.8658 1.83982,2.05627 1.08225,1.19047 1.2987,1.40692 0.64935,0.64935 1.51514,2.11038 0.8658,1.46104 0,1.46104 0.97403,0 2.1645,1.08224 1.19047,1.08225 1.83982,2.1645 0.54112,0.8658 0.8658,2.81384 0.32467,1.94805 0.54112,2.59739 0.21645,0.75758 0.91991,1.46104 0.70346,0.70346 1.35281,1.02813 l 1.73159,0.8658 q 0,0 1.40693,0.75757 0.54112,0.21645 2.00215,1.13636 1.46104,0.91991 2.32683,1.24459 1.08225,0.4329 1.7316,0.4329 0.64935,0 1.56926,-0.27057 0.91991,-0.27056 1.46103,-0.37878 1.62337,-0.21645 3.13852,1.62337 1.51514,1.83982 2.27272,2.27272 3.89609,2.05627 5.95236,1.19047 -0.21645,0.10822 0.0541,0.81168 0.27056,0.70346 0.8658,1.67749 0.59523,0.97402 0.97402,1.56926 0.37878,0.59523 0.59523,0.91991 0.54113,0.64934 1.94805,1.62337 1.40692,0.97402 1.94804,1.62337 0.64935,-0.4329 0.75758,-0.97403 -0.32468,0.8658 0.75757,2.1645 1.08225,1.29869 1.94804,1.08225 1.51515,-0.32468 1.51515,-3.4632 -3.35497,1.62338 -5.30301,-1.94804 0,-0.10822 -0.27056,-0.59524 -0.27056,-0.48701 -0.4329,-0.91991 -0.16234,-0.43289 -0.27056,-0.91991 -0.10823,-0.48701 0,-0.81168 0.10822,-0.32468 0.54112,-0.32468 0.97402,0 1.08225,-0.37878 0.10822,-0.37879 -0.21645,-1.35281 -0.32468,-0.97402 -0.4329,-1.40692 -0.10823,-0.8658 -1.19047,-2.1645 -1.08225,-1.29869 -1.2987,-1.62337 -0.54112,0.97403 -1.73159,0.8658 -1.19048,-0.10822 -1.7316,-0.97402 0,0.10822 -0.16234,0.59523 -0.16233,0.48702 -0.16233,0.70346 -1.40693,0 -1.62337,-0.10822 0.10822,-0.32467 0.27056,-1.89393 0.16233,-1.56926 0.37878,-2.43506 0.10823,-0.4329 0.59524,-1.29869 0.48701,-0.8658 0.81169,-1.56926 0.32467,-0.70346 0.43289,-1.35281 0.10823,-0.64935 -0.48701,-1.02814 -0.59523,-0.37878 -1.89393,-0.27056 -2.05627,0.10823 -2.81384,2.1645 -0.10823,0.32467 -0.32468,1.13636 -0.21645,0.81168 -0.54112,1.24458 -0.32467,0.4329 -0.97402,0.75757 -0.75758,0.32468 -2.5974,0.21645 -1.83982,-0.10822 -2.59739,-0.54112 -1.40692,-0.8658 -2.43505,-3.13852 -1.02814,-2.27272 -1.02814,-4.00431 0,-1.08225 0.27056,-2.86796 0.27056,-1.78571 0.32468,-2.70562 0.0541,-0.91991 -0.59524,-2.6515 0.32468,-0.21645 0.97402,-1.02814 0.64935,-0.81168 1.08225,-1.13635 0.21645,-0.10823 0.48701,-0.16234 0.27056,-0.0541 0.48701,0 0.21645,0.0541 0.4329,-0.16234 0.21645,-0.21645 0.32468,-0.64935 -0.10823,-0.10822 -0.4329,-0.32467 -0.32468,-0.32468 -0.4329,-0.32468 0.75757,0.32468 3.0844,-0.16233 2.32683,-0.48701 2.97618,0.16233 1.62337,1.19048 2.38095,-0.21644 0,-0.10823 -0.27057,-1.02814 -0.27056,-0.91991 -0.0541,-1.46103 0.54112,2.92206 3.13852,0.97402 0.32467,0.32467 1.67748,0.54112 1.35281,0.21645 1.89393,0.54113 0.32468,0.21645 0.75758,0.59523 0.4329,0.37879 0.59523,0.48701 0.16234,0.10823 0.54113,-0.0541 0.37878,-0.16234 0.91991,-0.70346 1.08224,1.51515 1.29869,2.59739 1.19047,4.32899 2.05627,4.76189 0.75757,0.32467 1.19047,0.21645 0.4329,-0.10822 0.48701,-1.02813 0.0541,-0.91991 0,-1.51515 -0.0541,-0.59524 -0.16233,-1.35281 l -0.10823,-0.8658 v -1.94804 l -0.10822,-0.8658 q -1.62337,-0.32467 -2.00216,-1.2987 -0.37879,-0.97402 0.16234,-2.00215 0.54112,-1.02814 1.62337,-2.00216 0.10822,-0.10822 0.8658,-0.37879 0.75757,-0.27056 1.67748,-0.70346 0.91991,-0.4329 1.35281,-0.8658 2.27272,-2.05626 1.62337,-3.78786 0.75757,0 1.19047,-0.97402 -0.10822,0 -0.54112,-0.32468 -0.4329,-0.32467 -0.81169,-0.54112 -0.37878,-0.21645 -0.48701,-0.21645 0.97402,-0.54112 0.21645,-1.73159 0.54112,-0.32468 0.81169,-1.19048 0.27056,-0.86579 0.81168,-1.08224 0.97402,1.29869 2.27272,0.21645 0.75757,-0.8658 0.10822,-1.7316 0.54113,-0.75757 2.21861,-1.13636 1.67748,-0.37879 2.00216,-1.02813 0.75757,0.21645 0.8658,-0.21645 0.10822,-0.4329 0.10822,-1.2987 0,-0.8658 0.32467,-1.2987 0.4329,-0.54112 1.62338,-0.97402 1.19047,-0.4329 1.40692,-0.54112 l 1.83982,-1.19047 q 0.32467,-0.4329 0,-0.4329 1.94804,0.21645 3.35496,-1.19047 1.08225,-1.19048 -0.64935,-2.1645 0.32468,-0.64935 -0.32467,-1.02813 -0.64935,-0.37879 -1.62337,-0.59524 0.32467,-0.10822 1.24458,-0.0541 0.91991,0.0541 1.13636,-0.16234 1.62337,-1.08225 -0.75757,-1.73159 -1.83982,-0.54113 -4.65366,1.29869 z m -17.64063,94.91307 q 22.29429,-3.89609 37.98687,-20.45447 -0.32467,-0.32467 -1.35281,-0.48701 -1.02813,-0.16234 -1.3528,-0.37878 -1.94805,-0.75758 -2.5974,-0.8658 0.10823,-0.75758 -0.27056,-1.40692 -0.37879,-0.64935 -0.8658,-0.97403 -0.48701,-0.32467 -1.35281,-0.86579 -0.86579,-0.54113 -1.19047,-0.75758 -0.21645,-0.21645 -0.75757,-0.64935 -0.54112,-0.43289 -0.75757,-0.59523 -0.21645,-0.16234 -0.81169,-0.48701 -0.59523,-0.32468 -0.91991,-0.21645 -0.32467,0.10822 -1.08225,0.10822 l -0.32467,0.10823 q -0.32467,0.10822 -0.59524,0.27056 -0.27056,0.16234 -0.59523,0.32467 -0.32468,0.16234 -0.4329,0.32468 -0.10823,0.16233 0,0.27056 -2.27272,-1.83982 -3.89609,-2.38094 -0.54112,-0.10823 -1.19047,-0.59524 -0.64935,-0.48701 -1.13636,-0.75757 -0.48701,-0.27056 -1.08225,-0.16234 -0.59523,0.10822 -1.24458,0.75757 -0.54113,0.54113 -0.64935,1.62337 -0.10823,1.08225 -0.21645,1.40692 -0.75757,-0.54112 0,-1.89393 0.75757,-1.35281 0.21645,-2.00215 -0.32468,-0.64935 -1.13636,-0.48702 -0.81169,0.16234 -1.2987,0.48702 -0.48701,0.32467 -1.24458,0.91991 -0.75757,0.59523 -0.97402,0.70346 -0.21645,0.10822 -0.91991,0.59523 -0.70346,0.48701 -0.91991,0.81169 -0.32468,0.4329 -0.64935,1.29869 -0.32468,0.8658 -0.54113,1.19048 -0.21644,-0.4329 -1.24458,-0.70347 -1.02813,-0.27056 -1.02813,-0.59523 0.21644,1.08225 0.43289,3.78786 0.21645,2.70562 0.54113,4.11254 0.75757,3.35497 -1.2987,5.19479 -2.92207,2.70562 -3.13852,4.32899 -0.43289,2.38094 1.2987,2.81384 0,0.75757 -0.8658,2.21861 -0.86579,1.46103 -0.75757,2.32683 0,0.64935 0.21645,1.73159 z"
+         inkscape:connector-curvature="0"
+         style="fill:currentColor" />
+    </g>
+    <g
+       id="g9785">
+      <g
+         transform="translate(17.71699,850.39368)"
+         id="g5531">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3881"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+           transform="translate(-1375.5906,-2424.1704)"><flowRegion
+             id="flowRegion3883"><rect
+               id="rect3885"
+               width="301.18115"
+               height="248.87219"
+               x="4600"
+               y="446.16403"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+             id="flowPara3887"
+             style="font-size:22px">Spioneri på valda representanter</flowPara><flowPara
+             id="flowPara3889">Spionorganisationerna övervakar inte bara vanliga medborgare, utan även valda representanter. Detta sker både utomlands, men mer problematiskt, i det egna landet. I USA har CIA övervakat den arbetsgrupp inom amerikanska kongressen som var satt att kontrollera CIAs arbete.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3891"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+           transform="translate(-1056.1326,-2721.3266)"><flowRegion
+             id="flowRegion3893"><rect
+               id="rect3895"
+               width="301.19424"
+               height="302.03516"
+               x="4617.1431"
+               y="743.30688"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+             id="flowPara3897"
+             style="font-size:22px">E-röstning</flowPara><flowPara
+             id="flowPara3899">Elektroniska val gör det närmast omöjligt att garantera att en röst räknats korrekt och inte manipulerats. Maskinerna som används är komplexa och använder många standardprogramvaror. Röstmanipulerande kod kan införas i vilken som helst av dessa programvaror och är närmast omöjlig att hitta för en expert. Som vanlig röstande är det inte möjligt att avgöra röstmaskinens funktionalitet.</flowPara></flowRoot>        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4133-4-9"
+           width="673.22833"
+           height="35.433064"
+           x="3206.6929"
+           y="-2048.0317"
+           rx="3.3641425e-06"
+           ry="0" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4129-11-21"
+           width="673.22839"
+           height="442.91342"
+           x="3206.6929"
+           y="-2083.4648"
+           rx="35.433094"
+           ry="35.433056" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4131-7-5"
+           width="673.22833"
+           height="70.866119"
+           x="3206.6929"
+           y="-2083.4648"
+           rx="35.433094"
+           ry="33.290108" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3901-86-73"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+           transform="translate(3761.5657,-2499.8519)"><flowRegion
+             id="flowRegion3903-9-7"><rect
+               id="rect3905-7-8"
+               width="637.78192"
+               height="48.10564"
+               x="-537.14288"
+               y="429.02118"
+               style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara3907-8-9"
+             style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Demokrati</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(-548.18572,366.42795)"
+         id="g9367">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 4035.7143,1220.4497 c -10.0887,0.1804 -20.8981,3.4476 -28.5714,10 -16.0402,13.6971 -11.8917,44.8983 -30,55.7143 -13.491,8.0581 -45.3304,-15.6094 -47.1429,0 -4.9236,42.4032 -8.4867,81.1866 1.4286,118.5715 4.8967,18.4628 38.2235,1.6564 57.1428,4.2857 23.5876,3.278 46.2616,12.3865 70,14.2857 11.402,0.9122 25.1612,5.4694 34.2857,-1.4286 30.391,-22.9752 36.0369,-70.4746 35.7143,-108.5714 -0.098,-11.5956 -2.7494,-25.167 -11.4285,-32.8572 -8.3889,-7.4331 -25.0812,0.9292 -32.8572,-7.1428 -9.3967,-9.7544 1.8215,-29.8468 -7.1428,-40 -9.57,-10.8391 -26.9716,-13.1157 -41.4286,-12.8572 z"
+           id="path9365"
+           inkscape:connector-curvature="0"
+           transform="translate(0,-2490.945)"
+           sodipodi:nodetypes="sssssssssssss" />
+        <g
+           id="g9353"
+           transform="matrix(0.09921994,0,0,-0.09921994,3951.3511,-1098.6174)">
+          <path
+             id="path9355"
+             d="m 256,192 q 0,26 -19,45 -19,19 -45,19 -26,0 -45,-19 -19,-19 -19,-45 0,-26 19,-45 19,-19 45,-19 26,0 45,19 19,19 19,45 z m 1152,576 q 0,51 -39,89.5 -39,38.5 -89,38.5 H 928 q 0,58 48,159.5 48,101.5 48,160.5 0,98 -32,145 -32,47 -128,47 -26,-26 -38,-85 -12,-59 -30.5,-125.5 Q 777,1131 736,1088 714,1065 659,997 655,992 636,967 617,942 604.5,926 592,910 570,883.5 548,857 530,839.5 512,822 491.5,804 471,786 451.5,777 432,768 416,768 H 384 V 128 h 32 q 13,0 31.5,-3 18.5,-3 33,-6.5 14.5,-3.5 38,-11 Q 542,100 553.5,96 565,92 589,83.5 613,75 618,73 829,0 960,0 h 121 q 192,0 192,167 0,26 -5,56 30,16 47.5,52.5 17.5,36.5 17.5,73.5 0,37 -18,69 53,50 53,119 0,25 -10,55.5 -10,30.5 -25,47.5 32,1 53.5,47 21.5,46 21.5,81 z m 128,1 q 0,-89 -49,-163 9,-33 9,-69 0,-77 -38,-144 3,-21 3,-43 0,-101 -60,-178 1,-139 -85,-219.5 -86,-80.5 -227,-80.5 h -36 -93 q -96,0 -189.5,22.5 Q 677,-83 554,-40 438,0 416,0 H 128 Q 75,0 37.5,37.5 0,75 0,128 V 768 Q 0,821 37.5,858.5 75,896 128,896 h 274 q 36,24 137,155 58,75 107,128 24,25 35.5,85.5 11.5,60.5 30.5,126.5 19,66 62,108 39,37 90,37 84,0 151,-32.5 67,-32.5 102,-101.5 35,-69 35,-186 0,-93 -48,-192 h 176 q 104,0 180,-76 76,-76 76,-179 z"
+             inkscape:connector-curvature="0"
+             style="fill:currentColor" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9660">
+      <flowRoot
+         transform="translate(721.58436,-1412.006)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3761"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3763"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="869.02118"
+             x="2857.1428"
+             height="390.62231"
+             width="301.19452"
+             id="rect3765" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3767">Betalningsbolagen hindrar betalningar.</flowPara><flowPara
+           id="flowPara3769">Företagen VISA och Mastercard har båda vägrat att hantera betalningar för webshoppar och andra organisationer som bedriver laglig verksamhet, men som enligt dem inte uppfyller deras krav på etik eller moral. Eftersom dessa två företag i praktiken har monopol på online-betalningar betyder det att dessa företag och organisationer inte kan ta emot betalningar över huvud taget. Exempel är butiker som säljer sexhjälpmedel, och visselblåsarsiten Wikileaks.</flowPara></flowRoot>      <flowRoot
+         transform="translate(733.02141,-1250.5569)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3771"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3773"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1115.0668"
+             x="2845.7188"
+             height="372.04721"
+             width="301.18109"
+             id="rect3775" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3777">SMS-betalningar kräver registrering</flowPara><flowPara
+           id="flowPara3779">Enligt betaltjänstlagen får endast telefoner där ägaren är registrerad med personnummer användas för köp av varor och tjänster, till exempel biljetter i kollektivtrafiken. Tillsammans med de elektroniska biljettsystemen för vanliga biljetter, och avsaknaden på många håll av möjlighet att köpa biljetter kontant, blir det väldigt svårt att resa kollektivt utan att lämna elektroniska spår både hos trafikbolagen och myndigheterna.</flowPara></flowRoot>      <flowRoot
+         transform="translate(393.56348,-1319.3783)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3781"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3783"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1254.7355"
+             x="2848.5715"
+             height="124.87868"
+             width="301.17206"
+             id="rect3785" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3787">SWIFT-avtalet</flowPara><flowPara
+           id="flowPara3789">EU lämnar sedan några år tillbaka ut information om alla banktransaktioner mellan länderna i unionen till USAs polis.</flowPara></flowRoot>      <flowRoot
+         transform="translate(396.40723,-1696.5326)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+         id="flowRoot3791"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3793"><rect
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+             y="1366.1641"
+             x="2845.7144"
+             height="248.87215"
+             width="301.18549"
+             id="rect3795" /></flowRegion><flowPara
+           style="font-size:22px"
+           id="flowPara3797">'Big Data' och statistisk analys</flowPara><flowPara
+           id="flowPara3799">Med stora mängder information och statistik är det ofta möjligt att dra avancerade slutsatser om en person. Till exempel har matvarukedjan Target i USA kunnat ta reda på om en kund är gravid, bara utifrån ändrade köpmönster registrerade via kundkort.</flowPara></flowRoot>      <rect
+         ry="0"
+         rx="3.3641425e-06"
+         y="-612.99243"
+         x="3224.4099"
+         height="35.433064"
+         width="673.22833"
+         id="rect4133-4-8"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="35.433056"
+         rx="35.433094"
+         y="-648.42554"
+         x="3224.4099"
+         height="885.82678"
+         width="673.22791"
+         id="rect4129-11-3"
+         style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         ry="33.290108"
+         rx="35.433094"
+         y="-648.42554"
+         x="3224.4099"
+         height="70.866119"
+         width="673.22833"
+         id="rect4131-7-11"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <flowRoot
+         transform="translate(3779.2827,-1064.8126)"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         id="flowRoot3901-86-732"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3903-9-5"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             y="429.02118"
+             x="-537.14288"
+             height="48.10564"
+             width="637.78192"
+             id="rect3905-7-5" /></flowRegion><flowPara
+           style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+           id="flowPara3907-8-7">Ekonomi</flowPara></flowRoot>      <g
+         transform="matrix(0.12979567,0,0,-0.12979567,3261.61,-371.67204)"
+         id="g9621">
+        <path
+           style="fill:currentColor"
+           inkscape:connector-curvature="0"
+           d="m 768,384 h 384 v 96 H 1024 V 928 H 910 L 762,791 839,711 q 42,37 55,57 h 2 V 480 H 768 v -96 z m 512,256 q 0,-70 -21,-142 -21,-72 -59.5,-134 Q 1161,302 1098,263 1035,224 960,224 885,224 822,263 759,302 720.5,364 682,426 661,498 q -21,72 -21,142 0,70 21,142 21,72 59.5,134 38.5,62 101.5,101 63,39 138,39 75,0 138,-39 63,-39 101.5,-101 38.5,-62 59.5,-134 21,-72 21,-142 z m 512,-256 v 512 q -106,0 -181,75 -75,75 -75,181 H 384 Q 384,1046 309,971 234,896 128,896 V 384 q 106,0 181,-75 75,-75 75,-181 h 1152 q 0,106 75,181 75,75 181,75 z m 128,832 V 64 Q 1920,38 1901,19 1882,0 1856,0 H 64 Q 38,0 19,19 0,38 0,64 v 1152 q 0,26 19,45 19,19 45,19 h 1792 q 26,0 45,-19 19,-19 19,-45 z"
+           id="path9623" />
+      </g>
     </g>
   </g>
 </svg>
