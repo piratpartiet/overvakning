@@ -669,11 +669,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497476"
-     inkscape:cx="3727.8802"
-     inkscape:cy="1015.2679"
+     inkscape:zoom="0.70000002"
+     inkscape:cx="2323.8723"
+     inkscape:cy="2320.3261"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3827"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
      inkscape:window-width="1280"
@@ -4009,128 +4009,6 @@
            sodipodi:role="line">www.overvakad.se</tspan></text>
     </g>
     <g
-       id="g5138"
-       transform="translate(2250,354.33075)">
-      <g
-         id="g5211">
-        <g
-           id="g5448">
-          <flowRoot
-             transform="translate(-198.84818,-2579.0432)"
-             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-             id="flowRoot3561"
-             xml:space="preserve"><flowRegion
-               id="flowRegion3563"><rect
-                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-                 y="583.30688"
-                 x="234.28572"
-                 height="316.37634"
-                 width="301.17664"
-                 id="rect3565" /></flowRegion><flowPara
-               style="font-size:22px"
-               id="flowPara3567">Möjligt att slå på webkameror via nätet</flowPara><flowPara
-               id="flowPara3569">Datorer som blivit virusinfekterade eller som någon hackat sig in i kan bli fjärrstyrda. Därmed kan även alla kringenheter som är kopplade till datorn, tex webkameror och mikrofoner samla information och skicka det till den som skapat viruset. Fjärrstyrningen kan ske antingen direkt av en person, eller följa ett förprogrammerat eller schemalagt mönster.</flowPara></flowRoot>          <flowRoot
-             transform="translate(-210.28568,-2430.9915)"
-             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-             id="flowRoot3571"
-             xml:space="preserve"><flowRegion
-               id="flowRegion3573"><rect
-                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-                 y="771.8783"
-                 x="245.71428"
-                 height="443.75854"
-                 width="301.18558"
-                 id="rect3575" /></flowRegion><flowPara
-               style="font-size:22px"
-               id="flowPara3577">Omöjligt att hindra infektion/fjärrmanövrering av telefoner</flowPara><flowPara
-               id="flowPara3579">Telefonbolag och myndigheter kan infektera en telefon med spionprogrammvara trots att man installerat ett nytt operativsystem på telefonen som man med säkerhet vet inte innehåller några säkerhetshål. Detta eftersom telefoner innehåller en extra 'gömd' processor, som kan läsa och skriva till telefonens RAM-minne. Denna extra processor som används för att kontrollera GSM-modulen (radion) i telefonen, kör ett eget operativsystem som användaren inte kan byta ut, och som kan uppgraderas via telenätet (så kallade OTA-updateringar).</flowPara></flowRoot>          <flowRoot
-             transform="translate(126.32849,-2967.6057)"
-             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-             id="flowRoot3581"
-             xml:space="preserve"><flowRegion
-               id="flowRegion3583"><rect
-                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-                 y="971.8783"
-                 x="245.71428"
-                 height="195.72708"
-                 width="301.18558"
-                 id="rect3585" /></flowRegion><flowPara
-               style="font-size:22px"
-               id="flowPara3587">Övervakningskameror</flowPara><flowPara
-               id="flowPara3589">Idag är många stadskärnor, affärer, banker och lokaltrafik täckta av övervakningskameror med inspelning. Många av kamerorna skickar också materialet direkt till någon övervakningscentral.</flowPara></flowRoot>          <flowRoot
-             transform="translate(132.04724,-2938.4425)"
-             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-             id="flowRoot3591"
-             xml:space="preserve"><flowRegion
-               id="flowRegion3593"><rect
-                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-                 y="1137.5927"
-                 x="240"
-                 height="248.88103"
-                 width="301.18109"
-                 id="rect3595" /></flowRegion><flowPara
-               style="font-size:22px"
-               id="flowPara3597">Övervakningskameror 'läcker'</flowPara><flowPara
-               id="flowPara3599">Datasäkerhet är svårt, speciellt för de som inte har det som yrke eller är utbildade inom det. Övervakningskameror sätts upp av allt fler utan specialistkompetens på datasäkerhet. Detta bidrar till att många bilder och videoströmmar är mer eller mindre öppna för hela världen.</flowPara></flowRoot>          <flowRoot
-             transform="translate(137.76599,-2826.9757)"
-             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-             id="flowRoot3601"
-             xml:space="preserve"><flowRegion
-               id="flowRegion3603"><rect
-                 style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-                 y="1291.8783"
-                 x="234.28572"
-                 height="195.72701"
-                 width="301.17664"
-                 id="rect3605" /></flowRegion><flowPara
-               style="font-size:22px"
-               id="flowPara3607">Mer övervakning ger inte färre brott</flowPara><flowPara
-               id="flowPara3609">Kameraövervakning ger inte färre brott. Ett exempel är Oslo Centrum där man de sista åren monterat upp väldigt många kameror, men där brottsstatistiken inte ändrats.</flowPara></flowRoot>          <rect
-             ry="0"
-             rx="3.3641425e-06"
-             transform="translate(0,-2490.945)"
-             y="425.19666"
-             x="17.716536"
-             height="35.433064"
-             width="673.22833"
-             id="rect4133"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-          <rect
-             ry="35.433056"
-             rx="35.433094"
-             transform="translate(0,-2490.945)"
-             y="389.76358"
-             x="17.716536"
-             height="885.82678"
-             width="673.22833"
-             id="rect4129"
-             style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-          <rect
-             ry="33.290108"
-             rx="35.433094"
-             y="-2101.1814"
-             x="17.716536"
-             height="70.866119"
-             width="673.22833"
-             id="rect4131"
-             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-          <flowRoot
-             transform="translate(572.58932,-2517.5685)"
-             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
-             id="flowRoot3901"
-             xml:space="preserve"><flowRegion
-               id="flowRegion3903"><rect
-                 style="fill:#ffffff;fill-opacity:1"
-                 y="429.02118"
-                 x="-537.14288"
-                 height="48.10564"
-                 width="637.78192"
-                 id="rect3905" /></flowRegion><flowPara
-               style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
-               id="flowPara3907">Ljud- och bildövervakning</flowPara></flowRoot>        </g>
-      </g>
-    </g>
-    <g
        id="g5172"
        transform="translate(1293.3071,549.21264)">
       <g
@@ -4536,22 +4414,148 @@
          style="fill:currentColor" />
     </g>
     <g
-       id="g7772">
-      <rect
-         ry="0"
-         rx="0"
-         transform="translate(0,-2490.945)"
-         y="1612.2045"
-         x="2604.3308"
-         height="35.433052"
-         width="283.46469"
-         id="rect7770"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <path
-         id="path7590"
-         d="m 2734.9516,-938.43367 v 156.1857 q 0,3.73238 -2.7275,6.45989 -2.7275,2.7275 -6.4599,2.7275 -3.7323,0 -6.4599,-2.7275 l -47.8031,-47.80316 h -37.6109 q -3.7324,0 -6.4599,-2.72751 -2.7275,-2.72751 -2.7275,-6.45989 V -887.903 q 0,-3.73238 2.7275,-6.45989 2.7275,-2.7275 6.4599,-2.7275 h 37.6109 l 47.8031,-47.80316 q 2.7276,-2.72751 6.4599,-2.72751 3.7324,0 6.4599,2.72751 2.7275,2.7275 2.7275,6.45988 z m 55.1244,78.09285 q 0,10.91003 -6.101,20.31275 -6.101,9.40273 -16.1497,13.42221 -1.4356,0.71777 -3.5889,0.71777 -3.7323,0 -6.4598,-2.65573 -2.7275,-2.65573 -2.7275,-6.53167 0,-3.01461 1.7226,-5.09613 1.7226,-2.08152 4.163,-3.58882 2.4404,-1.50731 4.8808,-3.30172 2.4404,-1.79442 4.1631,-5.09614 1.7226,-3.30172 1.7226,-8.18252 0,-4.8808 -1.7226,-8.18252 -1.7227,-3.30172 -4.1631,-5.09613 -2.4404,-1.79442 -4.8808,-3.30172 -2.4404,-1.50731 -4.163,-3.58883 -1.7226,-2.08152 -1.7226,-5.09613 0,-3.87593 2.7275,-6.53167 2.7275,-2.65573 6.4598,-2.65573 2.1533,0 3.5889,0.71777 10.0487,3.87593 16.1497,13.35043 6.101,9.4745 6.101,20.38453 z m 36.7496,0 q 0,21.96361 -12.202,40.55373 -12.202,18.59012 -32.2995,27.05975 -1.8662,0.71776 -3.5888,0.71776 -3.8759,0 -6.6034,-2.7275 -2.7275,-2.72751 -2.7275,-6.45989 0,-5.59857 5.5985,-8.46963 8.039,-4.16304 10.9101,-6.31633 10.6229,-7.75187 16.5803,-19.45144 5.9575,-11.69957 5.9575,-24.90645 0,-13.20688 -5.9575,-24.90645 -5.9574,-11.69957 -16.5803,-19.45144 -2.8711,-2.15329 -10.9101,-6.31633 -5.5985,-2.87106 -5.5985,-8.46963 0,-3.73238 2.7275,-6.45988 2.7275,-2.72751 6.4598,-2.72751 1.8662,0 3.7324,0.71776 20.0975,8.46963 32.2995,27.05975 12.202,18.59012 12.202,40.55373 z m 36.7495,0 q 0,33.0172 -18.2312,60.65116 -18.2312,27.63395 -48.5209,40.69728 -1.8662,0.71777 -3.7324,0.71777 -3.7324,0 -6.4599,-2.72751 -2.7275,-2.72751 -2.7275,-6.45989 0,-5.16791 5.5986,-8.46963 1.0048,-0.57421 3.2299,-1.5073 2.2251,-0.9331 3.23,-1.50731 6.6034,-3.58883 11.7713,-7.32121 17.657,-13.06332 27.5622,-32.58653 9.9052,-19.52322 9.9052,-41.48683 0,-21.96361 -9.9052,-41.48682 -9.9052,-19.52322 -27.5622,-32.58654 -5.1679,-3.73238 -11.7713,-7.32121 -1.0049,-0.57421 -3.23,-1.5073 -2.2251,-0.9331 -3.2299,-1.50731 -5.5986,-3.30172 -5.5986,-8.46963 0,-3.73238 2.7275,-6.45989 2.7275,-2.7275 6.4599,-2.7275 1.8662,0 3.7324,0.71776 30.2897,13.06333 48.5209,40.69729 18.2312,27.63395 18.2312,60.65115 z"
-         inkscape:connector-curvature="0"
-         style="fill:currentColor" />
+       id="g3829">
+      <g
+         transform="translate(2250,354.33075)"
+         id="g5138">
+        <g
+           id="g5211">
+          <g
+             id="g5448">
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot3561"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               transform="translate(-198.84818,-2579.0432)"><flowRegion
+                 id="flowRegion3563"><rect
+                   id="rect3565"
+                   width="301.17664"
+                   height="316.37634"
+                   x="234.28572"
+                   y="583.30688"
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+                 id="flowPara3567"
+                 style="font-size:22px">Möjligt att slå på webkameror via nätet</flowPara><flowPara
+                 id="flowPara3569">Datorer som blivit virusinfekterade eller som någon hackat sig in i kan bli fjärrstyrda. Därmed kan även alla kringenheter som är kopplade till datorn, tex webkameror och mikrofoner samla information och skicka det till den som skapat viruset. Fjärrstyrningen kan ske antingen direkt av en person eller följa ett förprogrammerat eller schemalagt mönster.</flowPara></flowRoot>            <flowRoot
+               xml:space="preserve"
+               id="flowRoot3571"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               transform="translate(-210.28568,-2430.9915)"><flowRegion
+                 id="flowRegion3573"><rect
+                   id="rect3575"
+                   width="301.18558"
+                   height="443.75854"
+                   x="245.71428"
+                   y="771.8783"
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+                 id="flowPara3577"
+                 style="font-size:22px">Omöjligt att hindra infektion/fjärrmanövrering av telefoner</flowPara><flowPara
+                 id="flowPara3579">Telefonbolag och myndigheter kan infektera en telefon med spionprogrammvara. Det kan ske även om man installerat ett nytt operativsystem på telefonen som man med säkerhet vet inte innehåller några säkerhetshål. Det är möjligt eftersom telefoner innehåller en extra 'gömd' processor, som kan läsa och skriva till telefonens RAM-minne. Denna extra processor som används för att kontrollera GSM-modulen (radion) i telefonen, kör ett eget operativsystem som användaren inte kan byta ut och som kan uppgraderas via telenätet (så kallade OTA-updateringar).</flowPara></flowRoot>            <flowRoot
+               xml:space="preserve"
+               id="flowRoot3581"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               transform="translate(126.32849,-2967.6057)"><flowRegion
+                 id="flowRegion3583"><rect
+                   id="rect3585"
+                   width="301.18558"
+                   height="195.72708"
+                   x="245.71428"
+                   y="971.8783"
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+                 id="flowPara3587"
+                 style="font-size:22px">Övervakningskameror</flowPara><flowPara
+                 id="flowPara3589">Idag är många stadskärnor, affärer, banker och lokaltrafik täckta av övervakningskameror med inspelning. Många av kamerorna skickar också materialet direkt till någon övervakningscentral.</flowPara></flowRoot>            <flowRoot
+               xml:space="preserve"
+               id="flowRoot3591"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               transform="translate(132.04724,-2938.4425)"><flowRegion
+                 id="flowRegion3593"><rect
+                   id="rect3595"
+                   width="301.18109"
+                   height="248.88103"
+                   x="240"
+                   y="1137.5927"
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+                 id="flowPara3597"
+                 style="font-size:22px">Övervakningskameror 'läcker'</flowPara><flowPara
+                 id="flowPara3599">Datasäkerhet är svårt, speciellt för de som inte har det som yrke eller är utbildade inom det. Övervakningskameror sätts upp av allt fler utan specialistkompetens på datasäkerhet. Detta bidrar till att många bilder och videoströmmar är mer eller mindre öppna för hela världen.</flowPara></flowRoot>            <flowRoot
+               xml:space="preserve"
+               id="flowRoot3601"
+               style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               transform="translate(137.76599,-2826.9757)"><flowRegion
+                 id="flowRegion3603"><rect
+                   id="rect3605"
+                   width="301.17664"
+                   height="195.72701"
+                   x="234.28572"
+                   y="1291.8783"
+                   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></flowRegion><flowPara
+                 id="flowPara3607"
+                 style="font-size:22px">Mer övervakning ger inte färre brott</flowPara><flowPara
+                 id="flowPara3609">Kameraövervakning ger inte färre brott. Ett exempel är Oslo Centrum där man de sista åren monterat upp väldigt många kameror, men där brottsstatistiken inte ändrats.</flowPara></flowRoot>            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+               id="rect4133"
+               width="673.22833"
+               height="35.433064"
+               x="17.716536"
+               y="425.19666"
+               transform="translate(0,-2490.945)"
+               rx="3.3641425e-06"
+               ry="0" />
+            <rect
+               style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+               id="rect4129"
+               width="673.22833"
+               height="903.54327"
+               x="17.716536"
+               y="389.76358"
+               transform="translate(0,-2490.945)"
+               rx="35.433094"
+               ry="35.433056" />
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+               id="rect4131"
+               width="673.22833"
+               height="70.866119"
+               x="17.716536"
+               y="-2101.1814"
+               rx="35.433094"
+               ry="33.290108" />
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot3901"
+               style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+               transform="translate(572.58932,-2517.5685)"><flowRegion
+                 id="flowRegion3903"><rect
+                   id="rect3905"
+                   width="637.78192"
+                   height="48.10564"
+                   x="-537.14288"
+                   y="429.02118"
+                   style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+                 id="flowPara3907"
+                 style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Ljud- och bildövervakning</flowPara></flowRoot>          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(2.020305,17.172592)"
+         id="g7772">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect7770"
+           width="283.46469"
+           height="35.433052"
+           x="2604.3308"
+           y="1612.2045"
+           transform="translate(0,-2490.945)"
+           rx="0"
+           ry="0" />
+        <path
+           style="fill:currentColor"
+           inkscape:connector-curvature="0"
+           d="m 2734.9516,-938.43367 v 156.1857 q 0,3.73238 -2.7275,6.45989 -2.7275,2.7275 -6.4599,2.7275 -3.7323,0 -6.4599,-2.7275 l -47.8031,-47.80316 h -37.6109 q -3.7324,0 -6.4599,-2.72751 -2.7275,-2.72751 -2.7275,-6.45989 V -887.903 q 0,-3.73238 2.7275,-6.45989 2.7275,-2.7275 6.4599,-2.7275 h 37.6109 l 47.8031,-47.80316 q 2.7276,-2.72751 6.4599,-2.72751 3.7324,0 6.4599,2.72751 2.7275,2.7275 2.7275,6.45988 z m 55.1244,78.09285 q 0,10.91003 -6.101,20.31275 -6.101,9.40273 -16.1497,13.42221 -1.4356,0.71777 -3.5889,0.71777 -3.7323,0 -6.4598,-2.65573 -2.7275,-2.65573 -2.7275,-6.53167 0,-3.01461 1.7226,-5.09613 1.7226,-2.08152 4.163,-3.58882 2.4404,-1.50731 4.8808,-3.30172 2.4404,-1.79442 4.1631,-5.09614 1.7226,-3.30172 1.7226,-8.18252 0,-4.8808 -1.7226,-8.18252 -1.7227,-3.30172 -4.1631,-5.09613 -2.4404,-1.79442 -4.8808,-3.30172 -2.4404,-1.50731 -4.163,-3.58883 -1.7226,-2.08152 -1.7226,-5.09613 0,-3.87593 2.7275,-6.53167 2.7275,-2.65573 6.4598,-2.65573 2.1533,0 3.5889,0.71777 10.0487,3.87593 16.1497,13.35043 6.101,9.4745 6.101,20.38453 z m 36.7496,0 q 0,21.96361 -12.202,40.55373 -12.202,18.59012 -32.2995,27.05975 -1.8662,0.71776 -3.5888,0.71776 -3.8759,0 -6.6034,-2.7275 -2.7275,-2.72751 -2.7275,-6.45989 0,-5.59857 5.5985,-8.46963 8.039,-4.16304 10.9101,-6.31633 10.6229,-7.75187 16.5803,-19.45144 5.9575,-11.69957 5.9575,-24.90645 0,-13.20688 -5.9575,-24.90645 -5.9574,-11.69957 -16.5803,-19.45144 -2.8711,-2.15329 -10.9101,-6.31633 -5.5985,-2.87106 -5.5985,-8.46963 0,-3.73238 2.7275,-6.45988 2.7275,-2.72751 6.4598,-2.72751 1.8662,0 3.7324,0.71776 20.0975,8.46963 32.2995,27.05975 12.202,18.59012 12.202,40.55373 z m 36.7495,0 q 0,33.0172 -18.2312,60.65116 -18.2312,27.63395 -48.5209,40.69728 -1.8662,0.71777 -3.7324,0.71777 -3.7324,0 -6.4599,-2.72751 -2.7275,-2.72751 -2.7275,-6.45989 0,-5.16791 5.5986,-8.46963 1.0048,-0.57421 3.2299,-1.5073 2.2251,-0.9331 3.23,-1.50731 6.6034,-3.58883 11.7713,-7.32121 17.657,-13.06332 27.5622,-32.58653 9.9052,-19.52322 9.9052,-41.48683 0,-21.96361 -9.9052,-41.48682 -9.9052,-19.52322 -27.5622,-32.58654 -5.1679,-3.73238 -11.7713,-7.32121 -1.0049,-0.57421 -3.23,-1.5073 -2.2251,-0.9331 -3.2299,-1.50731 -5.5986,-3.30172 -5.5986,-8.46963 0,-3.73238 2.7275,-6.45989 2.7275,-2.7275 6.4599,-2.7275 1.8662,0 3.7324,0.71776 30.2897,13.06333 48.5209,40.69729 18.2312,27.63395 18.2312,60.65115 z"
+           id="path7590" />
+      </g>
     </g>
     <g
        id="g6801"
