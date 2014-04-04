@@ -245,6 +245,9 @@ $(document).ready(function () {
               state.category = $(this).val();
               vector_layer.redraw();
             });
+            if (state.category == choice.find("input").val()) {
+              choice.find("input").attr('checked', true);
+            }
             parent.append(choice);
 
           } else {
