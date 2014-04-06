@@ -18,6 +18,16 @@
     <script type="text/javascript" src="map.js"></script>
     <script type="text/javascript" src="tech.js"></script>
     <script type="text/javascript" src="morelinks.js"></script>
+    <script>
+      $(document).ready(function () {
+        $(".intro-done").click(function () {
+          $(".intro").animate({left: "-100%"}, {complete: function () {
+            $(this).hide();
+            $(".tab-content").show();
+          }});
+        });
+      });
+    </script>
   </head>
   <body>
 
@@ -63,6 +73,12 @@
         </div>
       </div>
 
+    </div>
+
+    <div class="intro">
+      <div><h1>Övervakning i samhället</h1></div>
+      <div><p>En berättelse om övervakningens historia, utbredning och tekonologi.</p></div>
+      <div><button class="btn btn-primary btn-lg intro-done">Fortsätt <i class="fa fa-arrow-right"></i></button></div>
     </div>
 
 
