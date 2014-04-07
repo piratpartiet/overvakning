@@ -377,7 +377,7 @@ body {
     width: 100%;
   }
 
-  #mapcontrols {
+  #mapexplain, #mapcontrols {
     position: relative;
     top: 10pt;
     width: 100%;
@@ -385,11 +385,20 @@ body {
   }
 }
 
-@media (max-width: 565px) { 
+@media (max-width: 410pt) { 
   .narrow;
+
+  .intro {
+    h1 {
+      font-size: 28pt;
+    }
+    p {
+      font-size: 11pt;
+    }
+  }
 }
 
-@media (max-width: 480px) { 
+@media (max-width: 350pt) { 
   .stories .story,
   .stories .story.minor {
     margin-bottom: 5pt;
@@ -398,6 +407,13 @@ body {
 
 @media print { 
   .narrow;
+
+  .intro {
+    display: none;
+  }
+  .tab-content {
+    display: block;
+  }
 
   body {
     background: white;
