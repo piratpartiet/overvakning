@@ -7,6 +7,11 @@
   ],
   "stories": [
     {
+      "timeline": "EU", "time": "2014-04-08", "title": "Datalagringsdirektivet ogiltigförklaras",
+      "content": "EU-domstolen <a href='http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054sv.pdf'>fastslog</a> att Datalagringsdirektivet strider mot EUs stadga om de grundläggande rättigheterna. Det skedde efter att Irlands högsta domstol samt Österrikes författningsdomstol bett om ett avgörande. EU-domstolen fastslog fyra problemområden:<ol><li>Direktivet omfattar alla individer, det vill säga att allas trafikuppgifter lagras oavsett om det är för att begränsa grov brottslighet eller ej.</li><li>Direktivet definierar inte väl nog på vilka grunder myndigheter skall få tillgång till uppgifter.</li><li>Direktivet preciserar inte kriterierna för lagringstiden (minst 6 månader) väl nog.</li></ol>Det är dessutom ytterst svårt eller omöjligt att garantera att uppgifterna inte sprids eller missbrukas.",
+      "sources": ["http://www.idg.se/2.1085/1.555747/datalagringsdirektivet-ogiltigforklaras"]
+    },
+    {
       "timeline": "World", "time": "2014", "title": "SORM: Vinter-OS i Sochi",
       "content": "<p>Det ryska övervakningsdepartementet, FSB, beslutade att i hemlighet göra en märkbar uppgradering av SORM inför vinter OS i Sotji med syfte att kunna övervaka all kommunikation inför och under de olympiska spelen. Med metoden Deep Packet Inspection hade man i smyg översikt över innehållet i all kommunikation utöver vem som kommunicerat med vem. Det vill säga att ingen person, varken tävlande, åskådare, arrangörer eller invånare i Sotji undkom den ryska statens övervakning.</p><p>Ditresande amerikaner hade blivit förvarnade om omfattningen av övervakningssystemet, vilket många besökare ändå inte var medvetna om.</p><p>'Ring of steel' är Rysslands egna benämning på säkerthetsystemet, där SORM bara utgör en mindre del. En standard förklaring, till att övervakning av den här graden behövs, är hotet om terrorism. OS i Sotji är ett av de mest påkostade OS genom tiderna och det gäller även för övervakningen.</p>",
       "sources": ["http://en.wikipedia.org/wiki/SORM", "http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
