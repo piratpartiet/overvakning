@@ -242,6 +242,9 @@ $(document).ready(function () {
             }
             choice.find("input").change(function () {
               if (!$(this).is(':checked')) return;
+
+              $(this).closest(".collapse").collapse('hide');
+
               state.category = $(this).val();
               vector_layer.redraw();
             });
