@@ -7,7 +7,7 @@ $(document).ready(function () {
       timelines[timeline.title] = timeline;
       var eltimeline = $(".template .timeline").clone();
       eltimeline.addClass(timeline.color);
-      eltimeline.prepend(timeline.title);
+      eltimeline.find(".label").html(timeline.title);
       $(".timelines").append(eltimeline);
       idx++;
     });
@@ -18,7 +18,8 @@ $(document).ready(function () {
       var elstory = $(".template .story").clone();
       elstory.addClass(timeline.color);
       elstory.find(".time .main").html(story.time);
-      elstory.find(".info .title").append(story.title);
+      elstory.find(".info .title .timeline-name").html(story.timeline + ": ");
+      elstory.find(".info .title .story-title").html(story.title);
       elstory.find(".info .more").append(story.content);
       if (story.sources) {
         story.sources.map(function (source) {
