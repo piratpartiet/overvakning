@@ -1,4 +1,4 @@
-Piratpartiet Göteborg lanserar idag en historisk utställning om övervakning, både i Sverige och internationellt. Utställningen återfinns på Järntorget, i Brunnsparken och på Kungsportsplatsen från och med idag den 4:e maj och fram tills EU-valet den 25:e maj.
+Piratpartiet Göteborg lanserar idag en historisk utställning om övervakning, både i Sverige och internationellt. Utställningen återfinns på Järntorget, i Brunnsparken och på Kungsportsplatsen från idag eftermiddag den 4:e maj och fram tills EU-valet den 25:e maj.
 
 - Vi ser inte projektet bara som en del av vår valkampanj utan också som en viktig insats för folkbildningen. Kunskapsnivån runt både teknologi och lagstiftning för övervakning är ganska låg i samhället.
      -- Egil Möller, projektledare.
