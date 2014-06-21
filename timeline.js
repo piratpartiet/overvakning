@@ -23,7 +23,7 @@ $(document).ready(function () {
       elstory.find(".info .more").append(story.content);
       if (story.sources) {
         story.sources.map(function (source) {
-          var link = $("<a class='pull-right'><i class='fa fa-external-link'></i></a>")
+          var link = $("<a class='pull-right source-link'><i class='fa fa-external-link'></i></a>")
           link.attr({href: source});
           elstory.find(".info .title").append(link);
         });

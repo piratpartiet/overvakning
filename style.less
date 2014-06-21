@@ -485,6 +485,9 @@ body {
   }
   .tab-content {
     display: block;
+    #tech {
+      display: block;
+    }
   }
 
   body {
@@ -496,6 +499,9 @@ body {
     color: black !important;
     border-color: black !important;
     font-size: 10pt !important;
+  }
+  .source-link {
+    display: none;
   }
   .more {
     display: block !important;
@@ -530,8 +536,16 @@ body {
   .title {
     border-bottom: 1px solid black;
     margin-bottom: 2px;
-    a {
-      display: none;
-    }
+  }
+
+  .tech-left, .tech-right {
+    float: none;
+    width: auto;
+  }
+
+  .panel-default>.panel-heading {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #000000;
   }
 }

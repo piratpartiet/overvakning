@@ -32,7 +32,7 @@ $(document).ready(function () {
         var html = $("<li>");
         html.html(item.title);
         item.sources.map(function (source) {
-          var lnk = $("<a><i class='fa fa-external-link'></i></a>");
+          var lnk = $("<a class='source-link'><i class='fa fa-external-link'></i></a>");
           lnk.attr({href: source});
           html.append(lnk);
         });
