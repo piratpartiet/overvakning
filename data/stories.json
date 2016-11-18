@@ -13,17 +13,17 @@
     },
     {
       "timeline": "Världen", "time": "2014", "title": "SORM: Vinter-OS i Sochi",
-      "content": "<p>Det ryska övervakningsdepartementet, FSB, beslutade att i hemlighet göra en märkbar uppgradering av SORM inför vinter OS i Sotji med syfte att kunna övervaka all kommunikation inför och under de olympiska spelen. Med metoden Deep Packet Inspection hade man i smyg översikt över innehållet i all kommunikation utöver vem som kommunicerat med vem. Det vill säga att ingen person, varken tävlande, åskådare, arrangörer eller invånare i Sotji undkom den ryska statens övervakning.</p><p>Ditresande amerikaner hade blivit förvarnade om omfattningen av övervakningssystemet, vilket många besökare ändå inte var medvetna om.</p><p>'Ring of steel' är Rysslands egna benämning på säkerthetsystemet, där SORM bara utgör en mindre del. En standard förklaring, till att övervakning av den här graden behövs, är hotet om terrorism. OS i Sotji är ett av de mest påkostade OS genom tiderna och det gäller även för övervakningen.</p>",
+      "content": "<p>Det ryska övervakningsdepartementet, FSB, beslutade att i hemlighet göra en märkbar uppgradering av SORM inför vinter OS i Sotji med syfte att kunna övervaka all kommunikation inför och under de olympiska spelen. Med metoden Deep Packet Inspection hade man i smyg översikt över innehållet i all kommunikation utöver vem som kommunicerat med vem. Det vill säga att ingen person, varken tävlande, åskådare, arrangörer eller invånare i Sotji undkom den ryska statens övervakning.</p><p>Ditresande amerikaner hade blivit förvarnade om omfattningen av övervakningssystemet, vilket många besökare ändå inte var medvetna om.</p><p>'Ring of steel' är Rysslands egna benämning på säkerthetsystemet, där SORM bara utgör en mindre del. En vanlig förklaring till varför övervakning av den här graden behövs är hotet om terrorism. OS i Sotji är ett av de mest påkostade genom tiderna och det gäller även för övervakningen.</p>",
       "sources": ["http://en.wikipedia.org/wiki/SORM", "http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
       "timeline": "Teknologi", "time": "2013-10-28", "title": "Sociogram: Relationer på väg att avslutas",
-      "content": "Forskare från Cornell University, i sammarbete med Facebook, visade att man kan räkna ut hur stor sannolikheten är att en kärleksrelation kommer att ta slut utifrån personernas sociala kontext - vem som känner vem.",
+      "content": "Forskare från Cornell University, i samarbete med Facebook, visade att man kan räkna ut hur stor sannolikheten är att en kärleksrelation kommer att ta slut utifrån personernas sociala kontext - vem som känner vem.",
       "sources": ["http://mobile.nytimes.com/blogs/bits/2013/10/28/spotting-romantic-relationships-on-facebook/"]
     },
     {
       "timeline": "Världen", "time": "2013", "title": "PRISM: Snowdens avslöjade",
-      "content": "<p>PRISM fick allmänheten vetskap om när 41 powerpointslides läcktes ut från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visade att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation går via USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, google och Yahoo stod för 98% av matrialet i PRISM.</p><p>Snowden avslöjade även att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också lagrar en stor del av världens internetkommunikation. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databaser där allt finns lagrat, vilket innebär att de ohindrat kan gå in och söka efter exakt den informationen de söker. Utan tvekan hittar de information som få personer ens är medvetna om att de lämnar bakoms sig genom sin blotta närvaro som  internetanvändare.</p><p>Kärnan i avslöjandet handlar om att det man tror och vill ska vara privat är något som man som individ inte längre har så stor kontroll över.</p><p>Många, speciellt tyskarna, påstår efter avsöjandet att NSA egentligen är involverad i en farlig och kriminell aktivitet. Man menar att de genom att hacka sig in hos privatpersoner tar del utav deras privatliv obemärkt, men även sjukhus, universitet och privata företag.</p>",
+      "content": "<p>PRISM fick allmänheten vetskap om när 41 powerpointslides läcktes från NSA, en kupp som Edward Snowden låg bakom. Han befann sig då i Hongkong. Dessa dokument visade att Skype, Facebook, Yahoo, Google, Paltalk, Youtube, Apple, AOL och Microsoft är några av de företag som valt att gå med i 'PRISM-alliansen' med NSA. Dessa dokument visade också att stor del av världens datakommunikation går via USA för att lämna fingeravtryck av vad vi gjort online. Det framkom också att Microsoft, Google och Yahoo stod för 98% av materialet i PRISM.</p><p>Snowden avslöjade även att Storbrittaniens motsvarighet till NSA, som heter GCHQ, också lagrar en stor del av världens internetkommunikation. Men också att NSA, FBI, CIA etc. har fri tillgång till dessa databaser där allt finns lagrat, vilket innebär att de ohindrat kan gå in och söka efter exakt den informationen de söker. Utan tvekan hittar de information som få personer ens är medvetna om att de lämnar bakoms sig genom sin blotta närvaro som internetanvändare.</p><p>Kärnan i avslöjandet handlar om att det man tror och vill ska vara privat är något som man som individ inte längre har så stor kontroll över.</p><p>Många, speciellt tyskarna, påstår efter avsöjandet att NSA egentligen är involverad i en farlig och kriminell aktivitet. Man menar att de genom att hacka sig in hos privatpersoner tar del utav deras privatliv obemärkt, men även sjukhus, universitet och privata företag.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM"]
     },
     {
@@ -53,27 +53,27 @@
     },
     {
       "timeline": "Europa", "time": "2009-2014", "title": "INDECT",
-      "content": "INDECT är ett forskningsprojekt inom EU med en budget på €14,828,107. Forskningen är inriktad på övervakningsteknologi, speciellt inom rörelse- mönster- och person-igenkänning i video, och  sökning bland automatiskt igenkända objekt och relationer.",
+      "content": "INDECT är ett forskningsprojekt inom EU med en budget på 14 828 107 €. Forskningen är inriktad på övervakningsteknologi, speciellt inom rörelse- mönster- och person-igenkänning i video, och sökning bland automatiskt igenkända objekt och relationer.",
       "sources": ["https://en.wikipedia.org/wiki/INDECT"]
     },
     {
       "timeline": "Europa", "time": "2008–2012", "title": "Optic Nerve",
-      "content": "Storbritanniens övervakningstjänst, GCHQ, hade vid den här tiden samlat in webcam-bilder från 1.8 miljoner Yahoo-användares videochattar, många av dem med sexuellt innehåll.",
+      "content": "Storbritanniens övervakningstjänst, GCHQ, hade vid den här tiden samlat in bildmaterial från 1.8 miljoner Yahoo-användares videochattar, många av dem med sexuellt innehåll.",
       "sources": ["http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo"]
     },
     {
       "timeline": "Världen", "time": "2008", "title": "OS i Beijing",
-      "content": "Kina köpte in en hel del ny övervakningsutrustning från väst, inkluderat hundratusentals kameror beväpnade med biometrisk identifieringsprogramvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
+      "content": "Kina köpte in en hel del ny övervakningsutrustning från väst, inkluderat hundratusentals kameror med biometrisk identifieringsprogramvara. Denna teknologi var kvar långt efter att spelen hade slutat för att få säkrare städer.",
       "sources": ["http://www.newyorker.com/online/blogs/elements/2014/02/sochis-mini-surveillance-state.html"]
     },
     {
       "timeline": "Världen", "time": "2007", "title": "PRISM",
-      "content": "<p>Ett världsomspännande datalagringssystem skapades av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och sökningar kan ske i efterhand, medan Echelon bara lagrat den data som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, facebook, apple etc själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA.</p><p>Genom PRISM är det lagligt att läsa alla mejl, lyssna av alla telefonsamtal, läsa av alla livechattar, utan att ansöka om en husransakningsorder.</p><p>Man började med PRISM i ett 'skydda Amerika'-projekt med syfte att upptäcka terrorhot och få specifik kunskap om vilka som var ett hot mot landets säkerhet.</p>",
+      "content": "<p>Ett världsomspännande datalagringssystem skapades av USA. Skillnaden mot det tidigare Echelon är att PRISM lagrar allt data och att sökningar kan ske i efterhand, medan Echelon bara lagrat den data som matchat någon på förhand definierad sökterm. PRISM är designat för att fånga upp data som Google, Facebook, Apple etc. själva samlar in om personen som använder tjänsten för att bland annat kunna göra mer kundanpassad reklam. Men även för att kunna sälja/ge informationen till andra övervakningsorganisationer, såsom NSA.</p><p>Genom PRISM är det lagligt att läsa alla mejl, lyssna av alla telefonsamtal och läsa av alla chattar utan att ansöka om en husrannsakningsorder.</p><p>Man började med PRISM i ett 'skydda Amerika'-projekt med syfte att upptäcka terrorhot och få specifik kunskap om vilka som var ett hot mot landets säkerhet.</p>",
       "sources": ["https://en.wikipedia.org/wiki/PRISM", "http://www.carolinahuddle.com/boards/topic/88190-echelon-and-prism-how-they-relate-to-each-other-and-are-possibly-the-same-program/"]
     },
     {
       "timeline": "Europa", "time": "2006-05-03", "title": "Datalagringsdirektivet",
-      "content": "Datalagringsdirektivet är ett <a href='http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:105:0054:01:EN:HTML'>EU-direktiv</a> som tvingar tele- och internetoperatörerna att lagra all metada om internet- och teletrafik i mellan sex månader och två år (beroende på land). Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position), och kan användas bland annat för att bygga sociogram.",
+      "content": "Datalagringsdirektivet är ett <a href='http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:105:0054:01:EN:HTML'>EU-direktiv</a> som tvingar tele- och internetoperatörerna att lagra all metadata om internet- och teletrafik i mellan sex månader och två år, beroende på land. Metadata inkluderar vem som kommunicerat med vem, när och var (geografisk position). Informationen kan användas bland annat för att bygga sociogram.",
       "sources": ["https://sv.wikipedia.org/wiki/Datalagringsdirektivet"]
     },
     {
@@ -88,17 +88,17 @@
     },
     {
       "timeline": "Världen", "time": "2003", "title": "Golden Shield tas i bruk",
-      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' tas i bruk. Den censurerar och övervakar Internet inom landets gränser, blockar IP-adresser, blocka och/eller omdirigerar domännamn, filtrerar webadresser, filtrerar IP-paket, och stoppar anslutningar. Cirka 30000 till 50000 poliser jobbar idag i Golden Shield-projektet.",
+      "content": "Kinas nationella brandväggsprojekt 'Golden Shield', också kallat 'The great firewall of China' tas i bruk. Den censurerar och övervakar Internet inom landets gränser, blockerar IP-adresser, blockerar och/eller omdirigerar domännamn, filtrerar webadresser, filtrerar IP-paket, och stoppar anslutningar. Cirka 30 000 till 50 000 poliser jobbar idag i Golden Shield-projektet.",
       "sources": ["https://en.wikipedia.org/wiki/Golden_Shield_Project"]
     },
     {
       "timeline": "Världen", "time": "2002", "title": "Target: Köpmönster", "minor": true,
-      "content": "Genom att analyser  förändringar i kunders köpmönster byggde det amerikanska detaljhandelsföretaget Target en statistisk modell. Modellen blev en metod för att  avgöra om en kund var gravid, och i så fall i vilken månad. De använde modellen för att skicka riktad reklam till blivande mödrar.",
+      "content": "Genom att analysera förändringar i kunders köpmönster byggde det amerikanska detaljhandelsföretaget Target en statistisk modell. Modellen gjorde det möjligt att förutse att en kund var gravid, och i så fall i vilken månad. De använde modellen för att skicka riktad reklam till blivande mödrar.",
       "sources": ["http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html", "http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/"]
     },
     {
       "timeline": "Världen", "time": "2001-10-26", "title": "USA PATRIOT ACT",
-      "content": "Amerikansk lagstiftning som tillåter att icke-medborgare kan spärras in på obestämd tid. Myndigheterna har rätt att avlyssna medborgare, begära ut historik över boklån på bibliotek och företagsregister, information om sjukhusvistelser vid misstanke terrorverksamhet. Myndigheterna har även rätt att förhindra företag från att meddela berörd part att informationen lämnats ut.",
+      "content": "Amerikansk lagstiftning som tillåter att icke-medborgare kan spärras in på obestämd tid. Myndigheterna har rätt att avlyssna medborgare, begära ut historik över boklån på bibliotek och företagsregister, information om sjukhusvistelser vid misstanke om terrorverksamhet. Myndigheterna har även rätt att förhindra företag från att meddela berörd part att informationen lämnats ut.",
       "sources": ["http://en.wikipedia.org/wiki/Patriot_Act"]
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "timeline": "Teknologi", "time": "1999", "title": "Mobiltelefoner: GPS-spårning",
-      "content": "Benefon producerar den första mobilen med inbygd GPS-mottagare.",
+      "content": "Benefon producerar den första mobilen med inbyggd GPS-mottagare.",
       "sources": ["https://en.wikipedia.org/wiki/Benefon#Historical_products"]
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "timeline": "Teknologi", "time": "1997", "title": "Ansiktsigenkänning: Kommersialisering",
-      "content": "Ansiktsigenkänning blir kommersiellt tillgängligt i och med lanseringen mjukvaran ZN-Face.",
+      "content": "Ansiktsigenkänning blir kommersiellt tillgängligt i och med lanseringen av mjukvaran ZN-Face.",
       "sources": ["https://en.wikipedia.org/wiki/Facial_recognition_system#History"]
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "timeline": "Teknologi", "time": "199?", "title": "Kameraövervakning: Rörelseaktivering",
-      "content": "Rörelseaktiverad kameraövervakning minskar kostnaderna för övervakningen avsevärt, vilket gjorde att användandet av kameraövervakning ökade drastiskt.",
+      "content": "Rörelseaktiverad kameraövervakning minskade kostnaderna för övervakningen avsevärt, vilket gjorde att användandet av kameraövervakning ökade drastiskt.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "timeline": "Teknologi", "time": "1968", "title": "Kameraövervakning: I vardagen", "minor": true,
-      "content": "För första gången användes en kamera för att bevaka en helt vanlig shoppinggata, tidigare gjordes detta bara vid ytterst specifika omständigheter.",
+      "content": "För första gången användes en kamera för att bevaka en helt vanlig shoppinggata. Tidigare gjordes detta bara vid ytterst specifika omständigheter.",
       "sources": ["https://en.wikipedia.org/wiki/Cctv#History"]
     },
     {
@@ -158,17 +158,17 @@
     },
     {
       "timeline": "Världen", "time": "1964", "title": "UKUSA: Echelon",
-      "content": "Ett världsomspännande signalspanings- och nätsammarbete, kallat ECHELON grundas av Austarlien, Kanada, Nya Zealand, Storbritanien, och USA. Den här konstellationen kallas i vissa sammanhang för Five Eyes.",
+      "content": "Ett världsomspännande signalspanings- och nätsamarbete, kallat ECHELON, grundas av Australien, Kanada, Nya Zealand, Storbritanien, och USA. Den här konstellationen kallas i vissa sammanhang för Five Eyes.",
       "sources": ["https://en.wikipedia.org/wiki/ECHELON"]
     },
     {
       "timeline": "Teknologi", "time": "1959", "title": "Spionsatelliter: 0.3m upplösning",
-      "content": "Under spionsattelitprogrammet CORONA skjuter USA upp satelliter runt jordens omloppsbana. Dessa satelliter tog helt analoga bilder som med en upplösning av 0.3m är bättre än de bilder som är tillgängliga idag genom google earth.",
+      "content": "Under spionsattelitprogrammet CORONA skjuter USA upp satelliter i omloppsbana kring jordens. Dessa satelliter tog helt analoga bilder som med en upplösning av 0.3m är bättre än de bilder som är tillgängliga genom Google Earth.",
       "sources": ["https://en.wikipedia.org/wiki/CORONA"]
     },
     {
       "timeline": "Sverige", "time": "1957", "title": "IB: Försvarsstabens särskilda byrå",
-      "content": "<p>Vid Försvarsstabens sektion II/Inrikesavdelningen inrättades 1957 en enhet för inrikes säkerhetsfrågor, Grupp B. 1961 blev organisationen mer självständig och döptes därför om till B-kontoret. 1965 slogs det inrikesinriktade B-kontoret samman med det utrikesinriktade T-kontoret och blev Försvarsstabens särskilda byrå.</p><p>Organisationen, som var en svensk underrättelseorganisation, kom senare att kallas IB när det uppdagades att informationen som fackförbundens arbetsplatsombud samlat in överlämnats till Grupp B.</p><p>Skandalen var ett faktum när det även framkom att Grupp B vidarebefordrat delar av denna information till Säpo, som införde uppgifterna i sitt centrala register. Detta register användes bland annat vid personalkontroll inför anställningar vid ett stort antal företag som hade betydelse för totalförsvaret.</p>",
+      "content": "<p>Vid Försvarsstabens sektion II/Inrikesavdelningen skapades 1957 en enhet för inrikes säkerhetsfrågor, benämnd Grupp B. 1961 blev organisationen mer självständig och döptes därför om till B-kontoret. 1965 slogs det inrikesinriktade B-kontoret samman med det utrikesinriktade T-kontoret och blev Försvarsstabens särskilda byrå.</p><p>Organisationen, som var en svensk underrättelseorganisation, kom senare att kallas IB när det uppdagades att informationen som fackförbundens arbetsplatsombud samlat in överlämnats till Grupp B.</p><p>Skandalen var ett faktum när det även framkom att Grupp B vidarebefordrat delar av denna information till Säpo, som införde uppgifterna i sitt centrala register. Detta register användes bland annat vid personalkontroll inför anställningar vid ett stort antal företag som hade betydelse för totalförsvaret.</p>",
       "sources": ["https://sv.wikipedia.org/wiki/IB"]
     },
     {
@@ -178,12 +178,12 @@
     },
     {
       "timeline": "Europa", "time": "1950-02-08", "title": "STASI",
-      "content": "<p>Östtysklands övervakningsorgan STASI grundades. STASI kom att ha 90000 anställda, 170000 inofficiella fulltidsarbetande kollaboratörer (ca. 2% av medborgarna), samt ett stort antal deltidsinformanter. Totalt fanns det en(1) STASI-informatör per 6.5 invånare. STASI ägnade sig åt ljud- och videoövervakning av hem, öppnade brev och utpressade medborgare på information och de värvades som informanter.</p><p>123000 tyska medborgare och 35000 personer med annan härkomst internerades i läger i Östtyskland.</p>",
+      "content": "<p>Östtysklands övervakningsorgan STASI grundades. STASI kom att ha 90 000 anställda, 170 000 inofficiella fulltidsarbetande kollaboratörer (ca. 2% av medborgarna), samt ett stort antal deltidsinformanter. Totalt fanns det en STASI-informatör per 6.5 invånare. STASI ägnade sig åt ljud- och videoövervakning av hem, öppnade brev och utpressade medborgare på information och de värvades som informanter.</p><p>123 000 tyska medborgare och 35 000 personer med annan härkomst internerades i läger i Östtyskland.</p>",
       "sources": ["https://en.wikipedia.org/wiki/Mass_surveillance_in_East_Germany"]
     },
     {
       "timeline": "Europa", "time": "1946", "title": "Övervakningskostnader", "minor": true, "problematic": true,
-      "content": "Efter WW2 kostade det 300 000kr för flygspaning/övervakning per tillfälle, fördelat på 100 000kr för hyra för flygplanet, 70 000kr i lön, rese- och traktamenteskostnader för en pilot, samt 24 000 övriga kostnader (mat, boende etc.). Det medgav ca. 400 spiontimmar per år.",
+      "content": "Flygspaning och -övervakning kostade efter andra världskriget 300 000kr per tillfälle, fördelat på 100 000kr för hyra för flygplanet, 70 000kr i lön, rese- och traktamenteskostnader för en pilot, samt 24 000 övriga kostnader (mat, boende etc.). Det medgav ca. 400 spiontimmar per år.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false2"]
     },
     {
@@ -193,12 +193,12 @@
     },
     {
       "timeline": "Sverige", "time": "1945", "title": "Övervakning i Sverige efter kriget",
-      "content": " Efter andra världskrigets slut fortsatte man att avlyssna alla telefoner för potentiella hot och säkerhetstjänsten permanentades, dock med något mindre budget.  Efter en tid minskades avlyssningens omfattning på grund av tekniska problem.",
+      "content": "Efter andra världskrigets slut fortsatte man att avlyssna alla telefoner för potentiella hot och säkerhetstjänsten permanentades, dock med något mindre budget. Efter en tid minskades avlyssningens omfattning på grund av tekniska problem.",
        "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
       "timeline": "Sverige", "time": "1944", "title": "IB: Socialdemokraterna och fackförbunden",
-      "content": "<p>Sveriges kommunistiska parti (SKP) fick 10,3 procent av rösterna i andrakammarvalet 1944 och en allt mer betydande roll i den svenska arbetarrörelsen. I kampen mot SKP om makten över fackföreningsrörelsen var  Socialdemokraternas strategi att låta 20 000 arbetsplatsombud rapportera vilka fackföreningsmedlemmar som antogs vara kommunister. Det slöts en överenskommelse mellan Försvarsstaben och representanter för socialdemokraterna, där Försvarsstaben skulle få nyttja sig av arbetsplatsorganisationen som partiet hade byggt upp.</p><p>Informationen som arbetsplatsombuden samlat in överlämnades till Försvarsstaben och ett omfattande åsiktsregister byggdes upp. Det användes vid kontroller av arbetssökande till försvarsmakten, samt inför inkallelser och krigsplaceringar.</p>",
+      "content": "<p>Sveriges kommunistiska parti (SKP) fick 10,3 procent av rösterna i andrakammarvalet 1944 och en allt mer betydande roll i den svenska arbetarrörelsen. I kampen mot SKP om makten över fackföreningsrörelsen var Socialdemokraternas strategi att låta 20 000 arbetsplatsombud rapportera vilka fackföreningsmedlemmar som antogs vara kommunister. Det slöts en överenskommelse mellan Försvarsstaben och representanter för socialdemokraterna, där Försvarsstaben skulle få nyttja sig av arbetsplatsorganisationen som partiet hade byggt upp.</p><p>Informationen som arbetsplatsombuden samlat in överlämnades till Försvarsstaben och ett omfattande åsiktsregister byggdes upp. Det användes vid kontroller av arbetssökande till försvarsmakten, samt inför inkallelser och krigsplaceringar.</p>",
       "sources": ["https://sv.wikipedia.org/wiki/IB", "https://sv.wikipedia.org/wiki/V%C3%A4nsterpartiet", "https://sv.wikipedia.org/wiki/Andrakammarvalet_1944"]
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "timeline": "Sverige", "time": "1939-1944", "title": "Omfattande övervakning",
-      "content":  "En hemlig polisiär säkerhetstjänst bildads för att hantera hotet av ett nytt världskrig, och man åsiktsregistrerade hela befolkningen samt eventuella sammarbeten och kontakter. Cirka 200 000 brev i veckan granskades, och totalt 11 miljoner samtal blev avlyssnade under hela WW2.",
+      "content":  "En hemlig polisiär säkerhetstjänst bildads för att hantera hotet av ett nytt världskrig, och man åsiktsregistrerade hela befolkningen samt eventuella samarbeten och kontakter. Cirka 200 000 brev i veckan granskades, och totalt 11 miljoner samtal blev avlyssnade under hela WW2.",
       "sources": ["http://books.google.se/books?id=1ctoid599cwC&pg=PA10&lpg=PA10&dq=%C3%B6vervakning+mellankrigstiden&source=bl&ots=ppaIiEW-Z3&sig=u0xvc1El_IYpMMIEDqTN3yPil7s&hl=sv&sa=X&ei=yiT9UsL4Muqn4gS244G4Dw&ved=0CC8Q6AEwAA#v=onepage&q=%C3%B6vervakning%20mellankrigstiden&f=false"]
     },
     {
@@ -223,12 +223,12 @@
     },
     {
       "timeline": "Europa", "time": "1938", "title": "Interneringsläger",
-      "content": "I Europa fanns 30000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades och kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
+      "content": "I Europa fanns 30 000 arbetsläger, 1150 judiska ghetton, 980 koncentrationsläger, 1000 krigsfångeläger, 500 bordeller med sexslavar och tusentals andra läger där äldre avrättades och kvinnor tvingades till abort. Bara i Berlin fanns 3000 läger, medan Hamburg hade 1300.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger"]
     },
     {
       "timeline": "Europa", "time": "1937-10-21", "title": "Återvändande sattes i koncentrationsläger", "minor": true,
-      "content":"Himmler utfärdade en order om att alla tyskar som hade emigrerat från Tyskland efter den 30 januari 1933 skulle arresteras och sändas till koncentrationsläger om de återvände. Orden syftade till att hindra både judar och politiska motståndare från att återvända till Tyskland.",
+      "content":"Himmler utfärdade en order om att alla tyskar som hade emigrerat från Tyskland efter den 30 januari 1933 skulle arresteras och sändas till koncentrationsläger om de återvände. Ordern syftade till att hindra både judar och politiska motståndare från att återvända till Tyskland.",
       "sources": ["http://varldenshistoria.se/nazister/nazisterna-hade-totalt-42500-laeger", "http://8chso.blogspot.se/2014/01/forintelsen.html"]
     },
     {
@@ -268,12 +268,12 @@
     },
     {
       "timeline": "Europa", "time": "1933", "title": "Etnisk rensning under Anschluß",
-      "content": "Tyskland tog över Östrerike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly. Av de som stannade mördades omkring 65 000 personer. Under sommaren 1938 flydde cirka 50 000, under den följande hösten och vintern ytterligare ca 50 000, och under de två åtföljande åren ytterligare 25 000.",
+      "content": "Tyskland tog över Österrike och införde den tyska lagstiftningen där. Flera hundra österrikiska judar begick självmord under de första månaderna efter Anschluβ, medans andra försökte att fly. Av de som stannade mördades omkring 65 000 personer. Under sommaren 1938 flydde cirka 50 000, under den följande hösten och vintern ytterligare ca 50 000, och under de två åtföljande åren ytterligare 25 000.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/judeforfoljelserna-i-osterrike"]
     },
     {
       "timeline": "Europa", "time": "1933", "title": "Tysk propaganda", "minor": true,
-      "content":"Den tyska regeringen försökte påverka vad som skrevs om Tyskland i andra länder genom att skicka oficiella protester till andra länders regeringar när tidningar i de länderna skrev negativt om Tyskland. Protesterna var oftast, mer eller mindre hotfullt formulerade. Många utländska tidningar förbjöds också i Tyskland och det blev förbjudet att lyssna på utländsk radio.",
+      "content":"Den tyska regeringen försökte påverka vad som skrevs om Tyskland i andra länder genom att skicka officiella protester till andra länders regeringar när tidningar i de länderna skrev negativt om Tyskland. Protesterna var oftast mer eller mindre hotfullt formulerade. Många utländska tidningar förbjöds också i Tyskland och det blev förbjudet att lyssna på utländsk radio.",
       "sources": ["http://www.levandehistoria.se/fakta-om-forintelsen/judeforfoljelserna-under-1930-talet/bokbal-och-censur"]
     },
     {
@@ -323,17 +323,17 @@
     },
     {
       "timeline": "Världen", "time": "1892", "title": "Fingeravtryck: Bottsregister",
-      "content": "Den argentinske polischefen Juan Vucetich skapade den första byrån som registrerade fingeravtryck, år 1892. Sju år senare, 1897, etablerades en motsvarande byrå i Calcutta, Indien, efter att regeringen fattat ett beslut om att börja registrera fingeravtryck i syfte att organisera brottssregistret.",
+      "content": "Den argentinske polischefen Juan Vucetich skapade den första byrån som registrerade fingeravtryck, år 1892. Fem år senare, 1897, etablerades en motsvarande byrå i Calcutta, Indien, efter att regeringen fattat ett beslut om att börja registrera fingeravtryck i syfte att organisera brottssregistret.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
       "timeline": "Teknologi", "time": "1888", "title": "Holleriths tabulator",
-      "content": "Under 1800-talets 8e decennium hade det Amerikanska folkräkningsinstitutet så mycket data om befolkningen att de inte kunde hantera mängden. Herman Hollerith uppfann då en hålkortsbaserad räknemaskin som lösning på problemet.",
+      "content": "Under 1880-talet hade det Amerikanska folkräkningsinstitutet så mycket data om befolkningen att de inte kunde hantera mängden. Herman Hollerith uppfann då en hålkortsbaserad räknemaskin som lösning på problemet.",
       "sources": ["https://www.census.gov/history/www/innovations/technology/the_hollerith_tabulator.html"]
     },
     {
       "timeline": "Teknologi", "time": "1877", "title": "Fingeravtryck: Signering av kontrakt",
-      "content":  "1858 introducerade Sir William James Herschel fingeravtryckstagnin i Indien, och 1877 instiftade han fingeravtryckstagning som en metod att signera kontrakt. Detta för att förhindra bedrägeri och att försäkra sig om att kontrakt och avtal inte bröts.",
+      "content":  "1858 introducerade Sir William James Herschel fingeravtryckstagning i Indien, och 1877 instiftade han fingeravtryckstagning som en metod att signera kontrakt. Detta för att förhindra bedrägeri och att försäkra sig om att kontrakt och avtal inte bröts.",
       "sources": ["https://en.wikipedia.org/wiki/Fingerprinting#Modern_era"]
     },
     {
