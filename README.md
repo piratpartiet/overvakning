@@ -9,3 +9,7 @@ Själva materialet ligger i katalogen 'data', och består av filer av typen json
 Tryckt material
 ---------------
 Det tryckbara materialet återfinns i en egen branch [exhibition](https://github.com/piratpartiet/www.overvakad.se/tree/exhibition). Materialet ligger i en egen branch för att man skall slippa hämta hem det om man 'bara' vill göra en kopia av hemsidan.
+
+Foton från utställningen
+-------------------------
+http://imgur.com/a/Dc2N5
